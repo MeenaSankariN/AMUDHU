@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# React
+node_modules/
+build/
+
+# Large models
+*.gguf
+
+# OS files
+.DS_Store
+Thumbs.db

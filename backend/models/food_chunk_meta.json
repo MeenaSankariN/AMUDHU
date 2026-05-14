@@ -1,0 +1,6302 @@
+[
+  {
+    "food_name": "Rogan Josh",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "A traditional Kashmiri lamb curry slow-cooked with aromatic spices, known for its deep red color and rich flavor, and is a signature dish of the Wazwan feast."
+  },
+  {
+    "food_name": "Rogan Josh",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "A traditional Kashmiri lamb curry slow-cooked with aromatic spices, known for its deep red color and rich flavor, and is a signature dish of the Wazwan feast."
+  },
+  {
+    "food_name": "Gushtaba",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Minced mutton meatballs cooked in a creamy yogurt-based gravy and traditionally served as the ceremonial final dish of the Kashmiri Wazwan meal."
+  },
+  {
+    "food_name": "Gushtaba",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Minced mutton meatballs cooked in a creamy yogurt-based gravy and traditionally served as the ceremonial final dish of the Kashmiri Wazwan meal."
+  },
+  {
+    "food_name": "Kashmiri Pulao",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Fragrant basmati rice prepared with mild spices, saffron, and dry fruits, offering a subtly sweet flavor profile characteristic of Kashmiri cuisine."
+  },
+  {
+    "food_name": "Kashmiri Pulao",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Fragrant basmati rice prepared with mild spices, saffron, and dry fruits, offering a subtly sweet flavor profile characteristic of Kashmiri cuisine."
+  },
+  {
+    "food_name": "Haak Saag",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple and nutritious leafy green dish made from collard, radish, or spinach greens, lightly spiced and traditionally served with steamed rice."
+  },
+  {
+    "food_name": "Haak Saag",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple and nutritious leafy green dish made from collard, radish, or spinach greens, lightly spiced and traditionally served with steamed rice."
+  },
+  {
+    "food_name": "Kahwa",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional Kashmiri green tea infused with saffron, cardamom, cinnamon, and almonds, commonly served hot as a hospitality beverage."
+  },
+  {
+    "food_name": "Kahwa",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional Kashmiri green tea infused with saffron, cardamom, cinnamon, and almonds, commonly served hot as a hospitality beverage."
+  },
+  {
+    "food_name": "Yakhni",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Mild yogurt-based curry prepared with tender meat and whole spices, known for its creamy texture and delicate, non-spicy flavor profile."
+  },
+  {
+    "food_name": "Yakhni",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Mild yogurt-based curry prepared with tender meat and whole spices, known for its creamy texture and delicate, non-spicy flavor profile."
+  },
+  {
+    "food_name": "Wazwan",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "An elaborate multi-course traditional Kashmiri feast consisting mainly of meat-based dishes, prepared for weddings and major celebrations."
+  },
+  {
+    "food_name": "Wazwan",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "An elaborate multi-course traditional Kashmiri feast consisting mainly of meat-based dishes, prepared for weddings and major celebrations."
+  },
+  {
+    "food_name": "Dum Aloo",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Baby potatoes slow-cooked in a spicy yogurt-based gravy without onion or garlic, flavored with traditional Kashmiri spices."
+  },
+  {
+    "food_name": "Dum Aloo",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Baby potatoes slow-cooked in a spicy yogurt-based gravy without onion or garlic, flavored with traditional Kashmiri spices."
+  },
+  {
+    "food_name": "Lyodur Tschaman",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cottage cheese curry cooked with turmeric and cream, resulting in a rich, mildly spiced yellow gravy unique to Kashmiri cuisine."
+  },
+  {
+    "food_name": "Lyodur Tschaman",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cottage cheese curry cooked with turmeric and cream, resulting in a rich, mildly spiced yellow gravy unique to Kashmiri cuisine."
+  },
+  {
+    "food_name": "Kashmiri Rajma",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Red kidney beans cooked in a flavorful gravy using regional spices, forming a hearty and protein-rich vegetarian dish."
+  },
+  {
+    "food_name": "Kashmiri Rajma",
+    "state": "Jammu & Kashmir",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Red kidney beans cooked in a flavorful gravy using regional spices, forming a hearty and protein-rich vegetarian dish."
+  },
+  {
+    "food_name": "Madra",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy yogurt-based curry prepared with chickpeas or mixed vegetables, slow-cooked with aromatic spices such as cumin, cardamom, cloves, and cinnamon."
+  },
+  {
+    "food_name": "Madra",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy yogurt-based curry prepared with chickpeas or mixed vegetables, slow-cooked with aromatic spices such as cumin, cardamom, cloves, and cinnamon."
+  },
+  {
+    "food_name": "Kullu Trout Fish",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Freshwater trout lightly marinated and pan-fried in mustard oil using minimal spices, highlighting the natural flavor of the fish."
+  },
+  {
+    "food_name": "Kullu Trout Fish",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Freshwater trout lightly marinated and pan-fried in mustard oil using minimal spices, highlighting the natural flavor of the fish."
+  },
+  {
+    "food_name": "Bhey",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stir-fried lotus stem slices cooked with ginger, garlic, onions, gram flour, and mild spices, offering a crunchy texture and earthy flavor."
+  },
+  {
+    "food_name": "Bhey",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stir-fried lotus stem slices cooked with ginger, garlic, onions, gram flour, and mild spices, offering a crunchy texture and earthy flavor."
+  },
+  {
+    "food_name": "Aktori",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional festive dish prepared using buckwheat leaves and wheat flour, cooked with minimal spices."
+  },
+  {
+    "food_name": "Aktori",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional festive dish prepared using buckwheat leaves and wheat flour, cooked with minimal spices."
+  },
+  {
+    "food_name": "Mittha",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet rice preparation layered with dry fruits, sugar, and saffron-infused milk, commonly prepared during celebrations."
+  },
+  {
+    "food_name": "Mittha",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet rice preparation layered with dry fruits, sugar, and saffron-infused milk, commonly prepared during celebrations."
+  },
+  {
+    "food_name": "Dham",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "A complete ceremonial meal consisting of rice, lentils, rajma, curd-based curries, and a sweet dish."
+  },
+  {
+    "food_name": "Dham",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "A complete ceremonial meal consisting of rice, lentils, rajma, curd-based curries, and a sweet dish."
+  },
+  {
+    "food_name": "Chha Gosht",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Yogurt-based mutton curry slow-cooked with gram flour and spices, resulting in a rich and creamy gravy."
+  },
+  {
+    "food_name": "Chha Gosht",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Yogurt-based mutton curry slow-cooked with gram flour and spices, resulting in a rich and creamy gravy."
+  },
+  {
+    "food_name": "Siddu",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed and fermented wheat flour bread, often stuffed and served with ghee or chutney."
+  },
+  {
+    "food_name": "Siddu",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed and fermented wheat flour bread, often stuffed and served with ghee or chutney."
+  },
+  {
+    "food_name": "Babru",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried stuffed flatbread filled with black gram paste, traditionally served with chutney."
+  },
+  {
+    "food_name": "Babru",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried stuffed flatbread filled with black gram paste, traditionally served with chutney."
+  },
+  {
+    "food_name": "Tudkiya Bhat",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced rice dish cooked with lentils, yogurt, and aromatic spices, often described as a mountain-style pulao."
+  },
+  {
+    "food_name": "Tudkiya Bhat",
+    "state": "Himachal Pradesh",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced rice dish cooked with lentils, yogurt, and aromatic spices, often described as a mountain-style pulao."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rich and creamy lentil dish prepared using whole black gram and kidney beans, slow-cooked with butter and cream."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rich and creamy lentil dish prepared using whole black gram and kidney beans, slow-cooked with butter and cream."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chickpea curry served with fluffy deep-fried bread, commonly eaten as a hearty breakfast."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chickpea curry served with fluffy deep-fried bread, commonly eaten as a hearty breakfast."
+  },
+  {
+    "food_name": "Tandoori Chicken",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Marinated chicken cooked in a clay oven, producing smoky flavors and a charred exterior."
+  },
+  {
+    "food_name": "Tandoori Chicken",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Marinated chicken cooked in a clay oven, producing smoky flavors and a charred exterior."
+  },
+  {
+    "food_name": "Paneer Tikka",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Marinated paneer cubes grilled in a tandoor, forming a popular vegetarian appetizer."
+  },
+  {
+    "food_name": "Paneer Tikka",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Marinated paneer cubes grilled in a tandoor, forming a popular vegetarian appetizer."
+  },
+  {
+    "food_name": "Kadhi Pakora",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry thickened with gram flour and containing fried pakoras."
+  },
+  {
+    "food_name": "Kadhi Pakora",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry thickened with gram flour and containing fried pakoras."
+  },
+  {
+    "food_name": "Sarson da Saag",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Winter dish made from mustard greens slow-cooked with spices, traditionally served with makki di roti."
+  },
+  {
+    "food_name": "Sarson da Saag",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Winter dish made from mustard greens slow-cooked with spices, traditionally served with makki di roti."
+  },
+  {
+    "food_name": "Makki di Roti",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cornmeal flatbread with a rustic texture, typically paired with sarson da saag."
+  },
+  {
+    "food_name": "Makki di Roti",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cornmeal flatbread with a rustic texture, typically paired with sarson da saag."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Chicken cooked in a creamy tomato-based gravy with butter and mild spices."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Chicken cooked in a creamy tomato-based gravy with butter and mild spices."
+  },
+  {
+    "food_name": "Amritsari Kulcha",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed leavened flatbread originating from Amritsar, cooked in a tandoor."
+  },
+  {
+    "food_name": "Amritsari Kulcha",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed leavened flatbread originating from Amritsar, cooked in a tandoor."
+  },
+  {
+    "food_name": "Lassi",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based beverage available in sweet or salted varieties."
+  },
+  {
+    "food_name": "Lassi",
+    "state": "Punjab",
+    "region": "North India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based beverage available in sweet or salted varieties."
+  },
+  {
+    "food_name": "Besan Masala Roti",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread prepared using gram flour and spices, commonly eaten as a staple meal."
+  },
+  {
+    "food_name": "Besan Masala Roti",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread prepared using gram flour and spices, commonly eaten as a staple meal."
+  },
+  {
+    "food_name": "Churma",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish made from crushed wheat mixed with ghee and jaggery or sugar."
+  },
+  {
+    "food_name": "Churma",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish made from crushed wheat mixed with ghee and jaggery or sugar."
+  },
+  {
+    "food_name": "Bathua Raita",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based side dish prepared using bathua leaves."
+  },
+  {
+    "food_name": "Bathua Raita",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based side dish prepared using bathua leaves."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet deep-fried pancake soaked in sugar syrup."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet deep-fried pancake soaked in sugar syrup."
+  },
+  {
+    "food_name": "Mixed Dal",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Protein-rich dish prepared using a combination of lentils."
+  },
+  {
+    "food_name": "Mixed Dal",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Protein-rich dish prepared using a combination of lentils."
+  },
+  {
+    "food_name": "Bajra Khichdi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Hearty porridge made from pearl millet and lentils."
+  },
+  {
+    "food_name": "Bajra Khichdi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Hearty porridge made from pearl millet and lentils."
+  },
+  {
+    "food_name": "Hara Choliya Sabzi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Seasonal curry prepared using fresh green chickpeas."
+  },
+  {
+    "food_name": "Hara Choliya Sabzi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Seasonal curry prepared using fresh green chickpeas."
+  },
+  {
+    "food_name": "Kachri ki Chutney",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tangy chutney prepared from dried wild cucumbers."
+  },
+  {
+    "food_name": "Kachri ki Chutney",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tangy chutney prepared from dried wild cucumbers."
+  },
+  {
+    "food_name": "Bajra Roti with Ghee",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Pearl millet flatbread served with clarified butter."
+  },
+  {
+    "food_name": "Bajra Roti with Ghee",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Pearl millet flatbread served with clarified butter."
+  },
+  {
+    "food_name": "Singri ki Sabzi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dry curry prepared from dried desert beans."
+  },
+  {
+    "food_name": "Singri ki Sabzi",
+    "state": "Haryana",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dry curry prepared from dried desert beans."
+  },
+  {
+    "food_name": "Dubuk",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick curry made from soaked and ground pulses, commonly eaten with rice."
+  },
+  {
+    "food_name": "Dubuk",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick curry made from soaked and ground pulses, commonly eaten with rice."
+  },
+  {
+    "food_name": "Garhwal Ka Fannah",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Protein-rich curry made from black gram lentils."
+  },
+  {
+    "food_name": "Garhwal Ka Fannah",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Protein-rich curry made from black gram lentils."
+  },
+  {
+    "food_name": "Bhaadi",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Staple dish made from finger millet flour cooked with water and ghee."
+  },
+  {
+    "food_name": "Bhaadi",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Staple dish made from finger millet flour cooked with water and ghee."
+  },
+  {
+    "food_name": "Phaana",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick curry prepared from ground horse gram lentils."
+  },
+  {
+    "food_name": "Phaana",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick curry prepared from ground horse gram lentils."
+  },
+  {
+    "food_name": "Kafuli",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Green curry made from spinach or fenugreek leaves with buttermilk."
+  },
+  {
+    "food_name": "Kafuli",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Green curry made from spinach or fenugreek leaves with buttermilk."
+  },
+  {
+    "food_name": "Aloo Ke Gutke",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced boiled potatoes cooked with local mustard seeds."
+  },
+  {
+    "food_name": "Aloo Ke Gutke",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced boiled potatoes cooked with local mustard seeds."
+  },
+  {
+    "food_name": "Chainsoo",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Curry made from roasted black gram paste with earthy flavor."
+  },
+  {
+    "food_name": "Chainsoo",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Curry made from roasted black gram paste with earthy flavor."
+  },
+  {
+    "food_name": "Bhang ki Chutney",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Chutney prepared from roasted hemp seeds."
+  },
+  {
+    "food_name": "Bhang ki Chutney",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Chutney prepared from roasted hemp seeds."
+  },
+  {
+    "food_name": "Jhangora ki Kheer",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pudding made from barnyard millet cooked in milk."
+  },
+  {
+    "food_name": "Jhangora ki Kheer",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pudding made from barnyard millet cooked in milk."
+  },
+  {
+    "food_name": "Bal Mithai",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional sweet made from roasted khoya and sugar balls."
+  },
+  {
+    "food_name": "Bal Mithai",
+    "state": "Uttarakhand",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional sweet made from roasted khoya and sugar balls."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Roasted chicken cooked in a rich tomato-based gravy with butter and cream."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Roasted chicken cooked in a rich tomato-based gravy with butter and cream."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chickpea curry served with deep-fried bread."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chickpea curry served with deep-fried bread."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy lentil dish slow-cooked with butter and mild spices."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy lentil dish slow-cooked with butter and mild spices."
+  },
+  {
+    "food_name": "Kebabs",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mughlai-style grilled meat preparations with smoky flavors."
+  },
+  {
+    "food_name": "Kebabs",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mughlai-style grilled meat preparations with smoky flavors."
+  },
+  {
+    "food_name": "Nihari",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked meat stew prepared with rich spices."
+  },
+  {
+    "food_name": "Nihari",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked meat stew prepared with rich spices."
+  },
+  {
+    "food_name": "Parathas",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed unleavened flatbreads served with various fillings."
+  },
+  {
+    "food_name": "Parathas",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed unleavened flatbreads served with various fillings."
+  },
+  {
+    "food_name": "Kulfi",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dense frozen dessert made by slow reduction of milk."
+  },
+  {
+    "food_name": "Kulfi",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dense frozen dessert made by slow reduction of milk."
+  },
+  {
+    "food_name": "Samosas",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Deep-fried pastries filled with spiced potatoes or meat."
+  },
+  {
+    "food_name": "Samosas",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Deep-fried pastries filled with spiced potatoes or meat."
+  },
+  {
+    "food_name": "Jalebi",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried spiral-shaped sweet soaked in sugar syrup."
+  },
+  {
+    "food_name": "Jalebi",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried spiral-shaped sweet soaked in sugar syrup."
+  },
+  {
+    "food_name": "Dal Tadka",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cooked lentils tempered with ghee, garlic, and spices."
+  },
+  {
+    "food_name": "Dal Tadka",
+    "state": "Delhi",
+    "region": "North India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Cooked lentils tempered with ghee, garlic, and spices."
+  },
+  {
+    "food_name": "Macher Jhol",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Light fish curry prepared with mustard and turmeric, featuring fish cooked in a mustard-based gravy with spices."
+  },
+  {
+    "food_name": "Macher Jhol",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Light fish curry prepared with mustard and turmeric, featuring fish cooked in a mustard-based gravy with spices."
+  },
+  {
+    "food_name": "Rosogolla",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft spongy cheese balls soaked in sugar syrup, made from chhena and cooked in aromatic syrup."
+  },
+  {
+    "food_name": "Rosogolla",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft spongy cheese balls soaked in sugar syrup, made from chhena and cooked in aromatic syrup."
+  },
+  {
+    "food_name": "Mishti Doi",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweetened fermented yogurt with a rich, creamy texture and caramelized flavor."
+  },
+  {
+    "food_name": "Mishti Doi",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweetened fermented yogurt with a rich, creamy texture and caramelized flavor."
+  },
+  {
+    "food_name": "Shukto",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional mixed vegetable bitter curry prepared with vegetables in a mildly spiced gravy."
+  },
+  {
+    "food_name": "Shukto",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional mixed vegetable bitter curry prepared with vegetables in a mildly spiced gravy."
+  },
+  {
+    "food_name": "Pati Shapta",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin pancakes stuffed with sweet coconut and khoya filling."
+  },
+  {
+    "food_name": "Pati Shapta",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin pancakes stuffed with sweet coconut and khoya filling."
+  },
+  {
+    "food_name": "Alur Dom",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Baby potato curry cooked in a spiced gravy, often served with fried bread."
+  },
+  {
+    "food_name": "Alur Dom",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Baby potato curry cooked in a spiced gravy, often served with fried bread."
+  },
+  {
+    "food_name": "Sandesh",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet made from fresh paneer and sugar with a soft texture."
+  },
+  {
+    "food_name": "Sandesh",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet made from fresh paneer and sugar with a soft texture."
+  },
+  {
+    "food_name": "Lau Ghonto",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bottle gourd dish cooked with spices and grated coconut."
+  },
+  {
+    "food_name": "Lau Ghonto",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bottle gourd dish cooked with spices and grated coconut."
+  },
+  {
+    "food_name": "Luchi",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried flatbread made from refined flour."
+  },
+  {
+    "food_name": "Luchi",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried flatbread made from refined flour."
+  },
+  {
+    "food_name": "Chingri Malai Curry",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mildly spiced prawn curry cooked in coconut milk."
+  },
+  {
+    "food_name": "Chingri Malai Curry",
+    "state": "West Bengal",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mildly spiced prawn curry cooked in coconut milk."
+  },
+  {
+    "food_name": "Machher Paturi",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish marinated with mustard paste and spices, wrapped in banana leaves and cooked."
+  },
+  {
+    "food_name": "Machher Paturi",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish marinated with mustard paste and spices, wrapped in banana leaves and cooked."
+  },
+  {
+    "food_name": "Dalma",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentils cooked with vegetables and mild spices."
+  },
+  {
+    "food_name": "Dalma",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentils cooked with vegetables and mild spices."
+  },
+  {
+    "food_name": "Pakhala Bhata",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice served with vegetables."
+  },
+  {
+    "food_name": "Pakhala Bhata",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice served with vegetables."
+  },
+  {
+    "food_name": "Rasabali",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet chhena patties soaked in thickened sweetened milk."
+  },
+  {
+    "food_name": "Rasabali",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet chhena patties soaked in thickened sweetened milk."
+  },
+  {
+    "food_name": "Chhena Poda",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Baked sweet cheese dessert made from chhena."
+  },
+  {
+    "food_name": "Chhena Poda",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Baked sweet cheese dessert made from chhena."
+  },
+  {
+    "food_name": "Khichdi",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil dish cooked together and offered as temple food."
+  },
+  {
+    "food_name": "Khichdi",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil dish cooked together and offered as temple food."
+  },
+  {
+    "food_name": "Besara",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable curry prepared using mustard paste."
+  },
+  {
+    "food_name": "Besara",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable curry prepared using mustard paste."
+  },
+  {
+    "food_name": "Chhena Jhili",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Fried chhena dessert soaked in sugar syrup."
+  },
+  {
+    "food_name": "Chhena Jhili",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Fried chhena dessert soaked in sugar syrup."
+  },
+  {
+    "food_name": "Mudhi Mansa",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Puffed rice served with mutton curry."
+  },
+  {
+    "food_name": "Mudhi Mansa",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Puffed rice served with mutton curry."
+  },
+  {
+    "food_name": "Kadali Manja Rai",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Banana stem curry cooked with mustard paste."
+  },
+  {
+    "food_name": "Kadali Manja Rai",
+    "state": "Odisha",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Banana stem curry cooked with mustard paste."
+  },
+  {
+    "food_name": "Khichdi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil porridge cooked together."
+  },
+  {
+    "food_name": "Khichdi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil porridge cooked together."
+  },
+  {
+    "food_name": "Litti Chokha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Roasted wheat balls stuffed with sattu served with mashed vegetables."
+  },
+  {
+    "food_name": "Litti Chokha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Roasted wheat balls stuffed with sattu served with mashed vegetables."
+  },
+  {
+    "food_name": "Thekua",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried wheat snack sweetened with jaggery."
+  },
+  {
+    "food_name": "Thekua",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried wheat snack sweetened with jaggery."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pancakes fried and soaked in sugar syrup."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pancakes fried and soaked in sugar syrup."
+  },
+  {
+    "food_name": "Dal Pitha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour dumplings stuffed with spiced lentils."
+  },
+  {
+    "food_name": "Dal Pitha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour dumplings stuffed with spiced lentils."
+  },
+  {
+    "food_name": "Sattu Paratha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread stuffed with roasted gram flour."
+  },
+  {
+    "food_name": "Sattu Paratha",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread stuffed with roasted gram flour."
+  },
+  {
+    "food_name": "Balushahi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Flaky deep-fried dessert soaked in sugar syrup."
+  },
+  {
+    "food_name": "Balushahi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Flaky deep-fried dessert soaked in sugar syrup."
+  },
+  {
+    "food_name": "Chana Ghugni",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy street food made from black gram or chickpeas."
+  },
+  {
+    "food_name": "Chana Ghugni",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy street food made from black gram or chickpeas."
+  },
+  {
+    "food_name": "Kadhi Badi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry cooked with lentil fritters."
+  },
+  {
+    "food_name": "Kadhi Badi",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry cooked with lentil fritters."
+  },
+  {
+    "food_name": "Mutton Taash",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked fried mutton dish."
+  },
+  {
+    "food_name": "Mutton Taash",
+    "state": "Bihar",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked fried mutton dish."
+  },
+  {
+    "food_name": "Assam Laksa",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Light clear soup prepared from flaked fish and simmered with tamarind."
+  },
+  {
+    "food_name": "Assam Laksa",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Light clear soup prepared from flaked fish and simmered with tamarind."
+  },
+  {
+    "food_name": "Masor Tenga",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Tangy fish curry cooked with tomatoes and lemon."
+  },
+  {
+    "food_name": "Masor Tenga",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Tangy fish curry cooked with tomatoes and lemon."
+  },
+  {
+    "food_name": "Khar",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Alkaline vegetable preparation using banana stem ash water."
+  },
+  {
+    "food_name": "Khar",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Alkaline vegetable preparation using banana stem ash water."
+  },
+  {
+    "food_name": "Pitha",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cakes with sweet or savory fillings."
+  },
+  {
+    "food_name": "Pitha",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cakes with sweet or savory fillings."
+  },
+  {
+    "food_name": "Duck Curry",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked duck curry with seasonal vegetables."
+  },
+  {
+    "food_name": "Duck Curry",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Slow-cooked duck curry with seasonal vegetables."
+  },
+  {
+    "food_name": "Aloo Pitika",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Mashed potatoes mixed with onions, chilies, and mustard oil."
+  },
+  {
+    "food_name": "Aloo Pitika",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Mashed potatoes mixed with onions, chilies, and mustard oil."
+  },
+  {
+    "food_name": "Doi Chira",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Beaten rice mixed with yogurt and jaggery."
+  },
+  {
+    "food_name": "Doi Chira",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Beaten rice mixed with yogurt and jaggery."
+  },
+  {
+    "food_name": "Lai Xaak Gahori",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Oil-free pork dish cooked with leafy greens."
+  },
+  {
+    "food_name": "Lai Xaak Gahori",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Oil-free pork dish cooked with leafy greens."
+  },
+  {
+    "food_name": "Patot Diya Maas",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish wrapped in banana leaves and cooked."
+  },
+  {
+    "food_name": "Patot Diya Maas",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish wrapped in banana leaves and cooked."
+  },
+  {
+    "food_name": "Poita Bhat",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice soaked overnight."
+  },
+  {
+    "food_name": "Poita Bhat",
+    "state": "Assam",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice soaked overnight."
+  },
+  {
+    "food_name": "Jadoh",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Spiced rice and pork dish."
+  },
+  {
+    "food_name": "Jadoh",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Spiced rice and pork dish."
+  },
+  {
+    "food_name": "Tungrymbai",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean curry."
+  },
+  {
+    "food_name": "Tungrymbai",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean curry."
+  },
+  {
+    "food_name": "Dohneiiong",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Black sesame pork curry."
+  },
+  {
+    "food_name": "Dohneiiong",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Black sesame pork curry."
+  },
+  {
+    "food_name": "Nakham Bitchi",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bamboo shoot and meat soup."
+  },
+  {
+    "food_name": "Nakham Bitchi",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bamboo shoot and meat soup."
+  },
+  {
+    "food_name": "Tungtap",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish paste."
+  },
+  {
+    "food_name": "Tungtap",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish paste."
+  },
+  {
+    "food_name": "Pukhlein",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet fried rice flour snack."
+  },
+  {
+    "food_name": "Pukhlein",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet fried rice flour snack."
+  },
+  {
+    "food_name": "Sakin Gata",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice cake with jaggery."
+  },
+  {
+    "food_name": "Sakin Gata",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice cake with jaggery."
+  },
+  {
+    "food_name": "Dohkhlieh",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fresh pork salad."
+  },
+  {
+    "food_name": "Dohkhlieh",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fresh pork salad."
+  },
+  {
+    "food_name": "Pumaloi",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cake."
+  },
+  {
+    "food_name": "Pumaloi",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cake."
+  },
+  {
+    "food_name": "Kyat",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice drink."
+  },
+  {
+    "food_name": "Kyat",
+    "state": "Meghalaya",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice drink."
+  },
+  {
+    "food_name": "Eromba",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mashed vegetables with fermented fish."
+  },
+  {
+    "food_name": "Eromba",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mashed vegetables with fermented fish."
+  },
+  {
+    "food_name": "Singju",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy raw vegetable salad."
+  },
+  {
+    "food_name": "Singju",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy raw vegetable salad."
+  },
+  {
+    "food_name": "Chamthong",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Vegetable and meat stew."
+  },
+  {
+    "food_name": "Chamthong",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Vegetable and meat stew."
+  },
+  {
+    "food_name": "Nga Thongba",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry with herbs."
+  },
+  {
+    "food_name": "Nga Thongba",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry with herbs."
+  },
+  {
+    "food_name": "Chak-hao Kheer",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Black rice pudding."
+  },
+  {
+    "food_name": "Chak-hao Kheer",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Black rice pudding."
+  },
+  {
+    "food_name": "Ngari",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish product."
+  },
+  {
+    "food_name": "Ngari",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish product."
+  },
+  {
+    "food_name": "Ooti",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with fermented soybean."
+  },
+  {
+    "food_name": "Ooti",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with fermented soybean."
+  },
+  {
+    "food_name": "Paknam",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed lentil pancake."
+  },
+  {
+    "food_name": "Paknam",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed lentil pancake."
+  },
+  {
+    "food_name": "Maroi Nganu",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fermented fish chutney."
+  },
+  {
+    "food_name": "Maroi Nganu",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fermented fish chutney."
+  },
+  {
+    "food_name": "Kangshoi",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple vegetable stew."
+  },
+  {
+    "food_name": "Kangshoi",
+    "state": "Manipur",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple vegetable stew."
+  },
+  {
+    "food_name": "Vawksa Rep",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked pork dish."
+  },
+  {
+    "food_name": "Vawksa Rep",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked pork dish."
+  },
+  {
+    "food_name": "Sa-um",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bamboo shoot dish with fermented pork fat."
+  },
+  {
+    "food_name": "Sa-um",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bamboo shoot dish with fermented pork fat."
+  },
+  {
+    "food_name": "Bai",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable stew."
+  },
+  {
+    "food_name": "Bai",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable stew."
+  },
+  {
+    "food_name": "Chhum Han",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple vegetable dish."
+  },
+  {
+    "food_name": "Chhum Han",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Simple vegetable dish."
+  },
+  {
+    "food_name": "Chhangban",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice bread."
+  },
+  {
+    "food_name": "Chhangban",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice bread."
+  },
+  {
+    "food_name": "Sanpiau",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice porridge street food."
+  },
+  {
+    "food_name": "Sanpiau",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice porridge street food."
+  },
+  {
+    "food_name": "Panch Phoron Tarka",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with five spices."
+  },
+  {
+    "food_name": "Panch Phoron Tarka",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with five spices."
+  },
+  {
+    "food_name": "Koat Pitha",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet fried rice snack."
+  },
+  {
+    "food_name": "Koat Pitha",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet fried rice snack."
+  },
+  {
+    "food_name": "Sawhchiar",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice dish with meat."
+  },
+  {
+    "food_name": "Sawhchiar",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice dish with meat."
+  },
+  {
+    "food_name": "Bamboo Shoot Curry",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented bamboo shoot curry."
+  },
+  {
+    "food_name": "Bamboo Shoot Curry",
+    "state": "Mizoram",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented bamboo shoot curry."
+  },
+  {
+    "food_name": "Smoked Pork",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked pork with bamboo shoots."
+  },
+  {
+    "food_name": "Smoked Pork",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked pork with bamboo shoots."
+  },
+  {
+    "food_name": "Galho",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice stew with vegetables and meat."
+  },
+  {
+    "food_name": "Galho",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice stew with vegetables and meat."
+  },
+  {
+    "food_name": "Axone",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean dish."
+  },
+  {
+    "food_name": "Axone",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean dish."
+  },
+  {
+    "food_name": "Anishi",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented taro leaves paste."
+  },
+  {
+    "food_name": "Anishi",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented taro leaves paste."
+  },
+  {
+    "food_name": "Naga Pickled Pork",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy preserved pork."
+  },
+  {
+    "food_name": "Naga Pickled Pork",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy preserved pork."
+  },
+  {
+    "food_name": "Samathu",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy pork curry."
+  },
+  {
+    "food_name": "Samathu",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy pork curry."
+  },
+  {
+    "food_name": "Zutho",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice beer."
+  },
+  {
+    "food_name": "Zutho",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice beer."
+  },
+  {
+    "food_name": "Akini Chokibo",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean with vegetables."
+  },
+  {
+    "food_name": "Akini Chokibo",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean with vegetables."
+  },
+  {
+    "food_name": "Naga Chili",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Extremely spicy chili."
+  },
+  {
+    "food_name": "Naga Chili",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Extremely spicy chili."
+  },
+  {
+    "food_name": "Fish Cooked in Bamboo",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish cooked in bamboo tubes."
+  },
+  {
+    "food_name": "Fish Cooked in Bamboo",
+    "state": "Nagaland",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish cooked in bamboo tubes."
+  },
+  {
+    "food_name": "Mui Borok",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice dumplings with fermented fish."
+  },
+  {
+    "food_name": "Mui Borok",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rice dumplings with fermented fish."
+  },
+  {
+    "food_name": "Bamboo Shoot Curry",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bamboo shoot based curry."
+  },
+  {
+    "food_name": "Bamboo Shoot Curry",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bamboo shoot based curry."
+  },
+  {
+    "food_name": "Chakhwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with bamboo shoots."
+  },
+  {
+    "food_name": "Chakhwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish with bamboo shoots."
+  },
+  {
+    "food_name": "Wahan Mosdeng",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked fish chutney."
+  },
+  {
+    "food_name": "Wahan Mosdeng",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Smoked fish chutney."
+  },
+  {
+    "food_name": "Awti Bwtwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice dish wrapped in leaves."
+  },
+  {
+    "food_name": "Awti Bwtwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sticky rice dish wrapped in leaves."
+  },
+  {
+    "food_name": "Mosdeng",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy smoked meat preparation."
+  },
+  {
+    "food_name": "Mosdeng",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy smoked meat preparation."
+  },
+  {
+    "food_name": "Gudok",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish with vegetables."
+  },
+  {
+    "food_name": "Gudok",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented fish with vegetables."
+  },
+  {
+    "food_name": "Kosoi Bwtwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bean and vegetable stew."
+  },
+  {
+    "food_name": "Kosoi Bwtwi",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Bean and vegetable stew."
+  },
+  {
+    "food_name": "Bangui",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cooked in banana leaves."
+  },
+  {
+    "food_name": "Bangui",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cooked in banana leaves."
+  },
+  {
+    "food_name": "Moseng Serma",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mixed vegetable and meat dish."
+  },
+  {
+    "food_name": "Moseng Serma",
+    "state": "Tripura",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mixed vegetable and meat dish."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Noodle soup with vegetables or meat."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Noodle soup with vegetables or meat."
+  },
+  {
+    "food_name": "Apong",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice drink."
+  },
+  {
+    "food_name": "Apong",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented rice drink."
+  },
+  {
+    "food_name": "Thenthuk",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Hand-pulled noodle soup."
+  },
+  {
+    "food_name": "Thenthuk",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Hand-pulled noodle soup."
+  },
+  {
+    "food_name": "Zan",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Millet porridge."
+  },
+  {
+    "food_name": "Zan",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Millet porridge."
+  },
+  {
+    "food_name": "Pika Pila",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented bamboo shoot and fish curry."
+  },
+  {
+    "food_name": "Pika Pila",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fermented bamboo shoot and fish curry."
+  },
+  {
+    "food_name": "Chura Sabzi",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented cheese curry."
+  },
+  {
+    "food_name": "Chura Sabzi",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented cheese curry."
+  },
+  {
+    "food_name": "Lukter",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Dry meat with chilies."
+  },
+  {
+    "food_name": "Lukter",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Dry meat with chilies."
+  },
+  {
+    "food_name": "Pehak",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean chutney."
+  },
+  {
+    "food_name": "Pehak",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean chutney."
+  },
+  {
+    "food_name": "Bresi",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Meat and bamboo shoot stew."
+  },
+  {
+    "food_name": "Bresi",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Meat and bamboo shoot stew."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed dumplings."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Arunachal Pradesh",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed dumplings."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Himalayan noodle soup."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Himalayan noodle soup."
+  },
+  {
+    "food_name": "Gundruk Soup",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented leafy green soup."
+  },
+  {
+    "food_name": "Gundruk Soup",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented leafy green soup."
+  },
+  {
+    "food_name": "Sel Roti",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Ring-shaped fried rice bread."
+  },
+  {
+    "food_name": "Sel Roti",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Ring-shaped fried rice bread."
+  },
+  {
+    "food_name": "Chhurpi",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional Himalayan cheese."
+  },
+  {
+    "food_name": "Chhurpi",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional Himalayan cheese."
+  },
+  {
+    "food_name": "Sinki",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented radish taproot dish."
+  },
+  {
+    "food_name": "Sinki",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented radish taproot dish."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed or fried dumplings."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed or fried dumplings."
+  },
+  {
+    "food_name": "Kinema",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean dish."
+  },
+  {
+    "food_name": "Kinema",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Fermented soybean dish."
+  },
+  {
+    "food_name": "Chhurpi Soup",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soup made with chhurpi cheese."
+  },
+  {
+    "food_name": "Chhurpi Soup",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soup made with chhurpi cheese."
+  },
+  {
+    "food_name": "Phagshapa",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork and radish dish."
+  },
+  {
+    "food_name": "Phagshapa",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork and radish dish."
+  },
+  {
+    "food_name": "Sha Phaley",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed deep-fried bread."
+  },
+  {
+    "food_name": "Sha Phaley",
+    "state": "Sikkim",
+    "region": "North-East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed deep-fried bread."
+  },
+  {
+    "food_name": "Kodo ko Roti",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Pancake made from kodo millet flour."
+  },
+  {
+    "food_name": "Kodo ko Roti",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Pancake made from kodo millet flour."
+  },
+  {
+    "food_name": "Temi Tea",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Tea produced from the Temi Tea Garden."
+  },
+  {
+    "food_name": "Temi Tea",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Tea produced from the Temi Tea Garden."
+  },
+  {
+    "food_name": "Tama Curry",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Curry prepared using fermented bamboo shoots and potatoes."
+  },
+  {
+    "food_name": "Tama Curry",
+    "state": "Sikkim",
+    "region": "East India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Curry prepared using fermented bamboo shoots and potatoes."
+  },
+  {
+    "food_name": "Poha",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flattened rice dish cooked with mustard seeds and curry leaves, commonly eaten as a breakfast dish and widely associated with the city of Indore."
+  },
+  {
+    "food_name": "Poha",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flattened rice dish cooked with mustard seeds and curry leaves, commonly eaten as a breakfast dish and widely associated with the city of Indore."
+  },
+  {
+    "food_name": "Bhutte Ka Kees",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Grated corn cooked with spices and milk, prepared as a popular street food snack from Indore."
+  },
+  {
+    "food_name": "Bhutte Ka Kees",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Grated corn cooked with spices and milk, prepared as a popular street food snack from Indore."
+  },
+  {
+    "food_name": "Dal Bafla",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed wheat dough balls served with lentil curry, prepared using boiled and roasted wheat dumplings."
+  },
+  {
+    "food_name": "Dal Bafla",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed wheat dough balls served with lentil curry, prepared using boiled and roasted wheat dumplings."
+  },
+  {
+    "food_name": "Sabudana Khichdi",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from tapioca pearls stir-fried with peanuts and spices, commonly eaten during fasting periods."
+  },
+  {
+    "food_name": "Sabudana Khichdi",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from tapioca pearls stir-fried with peanuts and spices, commonly eaten during fasting periods."
+  },
+  {
+    "food_name": "Mawa Bati",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dumplings filled with mawa and soaked in sugar syrup, known as a milk-solid-based dessert."
+  },
+  {
+    "food_name": "Mawa Bati",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dumplings filled with mawa and soaked in sugar syrup, known as a milk-solid-based dessert."
+  },
+  {
+    "food_name": "Palak Puri",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Unleavened deep-fried bread made with wheat flour and spinach puree, giving a natural green color."
+  },
+  {
+    "food_name": "Palak Puri",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Unleavened deep-fried bread made with wheat flour and spinach puree, giving a natural green color."
+  },
+  {
+    "food_name": "Bhopali Gosht Korma",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Flavorful mutton dish cooked with Indian spices, commonly associated with the cuisine of Bhopal."
+  },
+  {
+    "food_name": "Bhopali Gosht Korma",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Flavorful mutton dish cooked with Indian spices, commonly associated with the cuisine of Bhopal."
+  },
+  {
+    "food_name": "Garadu",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Winter street food prepared from fried tuber pieces seasoned with spices and lemon juice."
+  },
+  {
+    "food_name": "Garadu",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Winter street food prepared from fried tuber pieces seasoned with spices and lemon juice."
+  },
+  {
+    "food_name": "Jalebi",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Popular spiral-shaped sweet soaked in sugar syrup, widely consumed as a dessert."
+  },
+  {
+    "food_name": "Jalebi",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Popular spiral-shaped sweet soaked in sugar syrup, widely consumed as a dessert."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pancake made from batter of flour, sugar, and spices, deep-fried and soaked in sugar syrup."
+  },
+  {
+    "food_name": "Malpua",
+    "state": "Madhya Pradesh",
+    "region": "Central India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet pancake made from batter of flour, sugar, and spices, deep-fried and soaked in sugar syrup."
+  },
+  {
+    "food_name": "Chana Samosa",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Chickpea-filled pastry pockets served as a popular street food snack."
+  },
+  {
+    "food_name": "Chana Samosa",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Chickpea-filled pastry pockets served as a popular street food snack."
+  },
+  {
+    "food_name": "Fara",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour dumplings stuffed with lentils, traditionally prepared from rice flour dough."
+  },
+  {
+    "food_name": "Fara",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour dumplings stuffed with lentils, traditionally prepared from rice flour dough."
+  },
+  {
+    "food_name": "Bara",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried lentil fritters made from fermented urad dal batter."
+  },
+  {
+    "food_name": "Bara",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried lentil fritters made from fermented urad dal batter."
+  },
+  {
+    "food_name": "Dubki Kadhi",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Gram flour dumplings cooked in a yogurt-based gravy."
+  },
+  {
+    "food_name": "Dubki Kadhi",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Gram flour dumplings cooked in a yogurt-based gravy."
+  },
+  {
+    "food_name": "Chila",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory pancake prepared from rice flour and lentil batter."
+  },
+  {
+    "food_name": "Chila",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory pancake prepared from rice flour and lentil batter."
+  },
+  {
+    "food_name": "Bafauri",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed snack made from chickpea flour and spices."
+  },
+  {
+    "food_name": "Bafauri",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed snack made from chickpea flour and spices."
+  },
+  {
+    "food_name": "Aamat",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy stew prepared from vegetables, bamboo shoots, and spices."
+  },
+  {
+    "food_name": "Aamat",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy stew prepared from vegetables, bamboo shoots, and spices."
+  },
+  {
+    "food_name": "Tilgur",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet preparation made from sesame seeds and jaggery."
+  },
+  {
+    "food_name": "Tilgur",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet preparation made from sesame seeds and jaggery."
+  },
+  {
+    "food_name": "Chousela",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "salty",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour puris seasoned with carom seeds and salt."
+  },
+  {
+    "food_name": "Chousela",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "salty",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour puris seasoned with carom seeds and salt."
+  },
+  {
+    "food_name": "Angakar Roti",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour flatbread cooked over burning charcoal."
+  },
+  {
+    "food_name": "Angakar Roti",
+    "state": "Chhattisgarh",
+    "region": "Central India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour flatbread cooked over burning charcoal."
+  },
+  {
+    "food_name": "Andhra Chicken Curry",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy chicken curry prepared using regional spices, cooked in a thick gravy."
+  },
+  {
+    "food_name": "Andhra Chicken Curry",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy chicken curry prepared using regional spices, cooked in a thick gravy."
+  },
+  {
+    "food_name": "Gongura Pachadi",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tangy chutney made from sorrel leaves, commonly served with rice and ghee."
+  },
+  {
+    "food_name": "Gongura Pachadi",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tangy chutney made from sorrel leaves, commonly served with rice and ghee."
+  },
+  {
+    "food_name": "Pesarattu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Green gram dosa prepared using soaked green gram and spices."
+  },
+  {
+    "food_name": "Pesarattu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Green gram dosa prepared using soaked green gram and spices."
+  },
+  {
+    "food_name": "Andhra Pulihora",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamarind-based rice dish cooked with spices and peanuts."
+  },
+  {
+    "food_name": "Andhra Pulihora",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamarind-based rice dish cooked with spices and peanuts."
+  },
+  {
+    "food_name": "Bobbatlu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet flatbread stuffed with chana dal and jaggery."
+  },
+  {
+    "food_name": "Bobbatlu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet flatbread stuffed with chana dal and jaggery."
+  },
+  {
+    "food_name": "Avakaya",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Raw mango pickle prepared with spices and oil."
+  },
+  {
+    "food_name": "Avakaya",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Raw mango pickle prepared with spices and oil."
+  },
+  {
+    "food_name": "Punnugulu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried batter balls made from fermented rice and urad dal batter."
+  },
+  {
+    "food_name": "Punnugulu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried batter balls made from fermented rice and urad dal batter."
+  },
+  {
+    "food_name": "Mirchi Bajji",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Batter-fried green chilies deep-fried until crisp."
+  },
+  {
+    "food_name": "Mirchi Bajji",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Batter-fried green chilies deep-fried until crisp."
+  },
+  {
+    "food_name": "Gongura Mutton Curry",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy mutton curry prepared using sorrel leaves."
+  },
+  {
+    "food_name": "Gongura Mutton Curry",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy mutton curry prepared using sorrel leaves."
+  },
+  {
+    "food_name": "Chepala Pulusu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry prepared with tamarind-based gravy."
+  },
+  {
+    "food_name": "Chepala Pulusu",
+    "state": "Andhra Pradesh",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry prepared with tamarind-based gravy."
+  },
+  {
+    "food_name": "Hyderabadi Biryani",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Aromatic rice and meat dish layered with spices."
+  },
+  {
+    "food_name": "Hyderabadi Biryani",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Aromatic rice and meat dish layered with spices."
+  },
+  {
+    "food_name": "Mirchi Ka Salan",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chili curry prepared with peanuts and sesame seeds."
+  },
+  {
+    "food_name": "Mirchi Ka Salan",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy chili curry prepared with peanuts and sesame seeds."
+  },
+  {
+    "food_name": "Double Ka Meetha",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Bread pudding dessert prepared with milk and sugar syrup."
+  },
+  {
+    "food_name": "Double Ka Meetha",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Bread pudding dessert prepared with milk and sugar syrup."
+  },
+  {
+    "food_name": "Sarva Pindi",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "spicy ",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick spiced pancake made from rice flour."
+  },
+  {
+    "food_name": "Sarva Pindi",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "spicy ",
+    "veg_nonveg": "vegetarian",
+    "description": "Thick spiced pancake made from rice flour."
+  },
+  {
+    "food_name": "Bagara Baingan",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Eggplant curry cooked in peanut and sesame-based gravy."
+  },
+  {
+    "food_name": "Bagara Baingan",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Eggplant curry cooked in peanut and sesame-based gravy."
+  },
+  {
+    "food_name": "Sakinalu",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crunchy ring-shaped rice flour snack."
+  },
+  {
+    "food_name": "Sakinalu",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crunchy ring-shaped rice flour snack."
+  },
+  {
+    "food_name": "Golichina Mamsam",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fried mutton dish cooked with chilies and spices."
+  },
+  {
+    "food_name": "Golichina Mamsam",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fried mutton dish cooked with chilies and spices."
+  },
+  {
+    "food_name": "Pachi Pulusu",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Raw tamarind-based soup with onions and chilies."
+  },
+  {
+    "food_name": "Pachi Pulusu",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Raw tamarind-based soup with onions and chilies."
+  },
+  {
+    "food_name": "Garijalu (Kajjikaya)",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried sweet filled with coconut and sugar."
+  },
+  {
+    "food_name": "Garijalu (Kajjikaya)",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried sweet filled with coconut and sugar."
+  },
+  {
+    "food_name": "Qubani Ka Meetha",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dessert made from dried apricots."
+  },
+  {
+    "food_name": "Qubani Ka Meetha",
+    "state": "Telangana",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dessert made from dried apricots."
+  },
+  {
+    "food_name": "Idli",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cakes served with lentil sambar and fried fritters."
+  },
+  {
+    "food_name": "Idli",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cakes served with lentil sambar and fried fritters."
+  },
+  {
+    "food_name": "Chettinad Chicken",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy chicken dish cooked with Chettinad spices."
+  },
+  {
+    "food_name": "Chettinad Chicken",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy chicken dish cooked with Chettinad spices."
+  },
+  {
+    "food_name": "Pongal",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil porridge cooked with spices."
+  },
+  {
+    "food_name": "Pongal",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice and lentil porridge cooked with spices."
+  },
+  {
+    "food_name": "Dosa",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin fermented rice and lentil pancake."
+  },
+  {
+    "food_name": "Dosa",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin fermented rice and lentil pancake."
+  },
+  {
+    "food_name": "Rasam",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin tangy soup prepared with tamarind and spices."
+  },
+  {
+    "food_name": "Rasam",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin tangy soup prepared with tamarind and spices."
+  },
+  {
+    "food_name": "Adhirasam",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet rice flour dough fried in jaggery syrup."
+  },
+  {
+    "food_name": "Adhirasam",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet rice flour dough fried in jaggery syrup."
+  },
+  {
+    "food_name": "Kuzhi Paniyaram",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Small round dumplings made from fermented batter."
+  },
+  {
+    "food_name": "Kuzhi Paniyaram",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Small round dumplings made from fermented batter."
+  },
+  {
+    "food_name": "Kadalai Mittai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet snack made from peanuts and jaggery."
+  },
+  {
+    "food_name": "Kadalai Mittai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet snack made from peanuts and jaggery."
+  },
+  {
+    "food_name": "Thattai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy deep-fried rice flour snack."
+  },
+  {
+    "food_name": "Thattai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy deep-fried rice flour snack."
+  },
+  {
+    "food_name": "Paruthi Paal",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional cottonseed milk-based beverage."
+  },
+  {
+    "food_name": "Paruthi Paal",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional cottonseed milk-based beverage."
+  },
+  {
+    "food_name": "Jigarthanda",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Cold beverage made with milk and almond gum."
+  },
+  {
+    "food_name": "Jigarthanda",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Cold beverage made with milk and almond gum."
+  },
+  {
+    "food_name": "Koozh",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional millet-based porridge or drink."
+  },
+  {
+    "food_name": "Koozh",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional millet-based porridge or drink."
+  },
+  {
+    "food_name": "Sambar",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil and vegetable stew."
+  },
+  {
+    "food_name": "Sambar",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil and vegetable stew."
+  },
+  {
+    "food_name": "Vadai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried lentil fritters made from fermented urad dal batter."
+  },
+  {
+    "food_name": "Vadai",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried lentil fritters made from fermented urad dal batter."
+  },
+  {
+    "food_name": "Vathakuzhambu",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamil Nadu based tangy and spicy tamarind-based gravy using turkey berries."
+  },
+  {
+    "food_name": "Vathakuzhambu",
+    "state": "Tamil Nadu",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamil Nadu based tangy and spicy tamarind-based gravy using turkey berries."
+  },
+  {
+    "food_name": "Bisi Bele Bath",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced lentil rice cooked with vegetables and ghee."
+  },
+  {
+    "food_name": "Bisi Bele Bath",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced lentil rice cooked with vegetables and ghee."
+  },
+  {
+    "food_name": "Ragi Mudde",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Finger millet balls made from ragi flour."
+  },
+  {
+    "food_name": "Ragi Mudde",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Finger millet balls made from ragi flour."
+  },
+  {
+    "food_name": "Mysore Pak",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet made from gram flour, sugar, and ghee."
+  },
+  {
+    "food_name": "Mysore Pak",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet made from gram flour, sugar, and ghee."
+  },
+  {
+    "food_name": "Mangalore Buns",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet banana-flavored fried bread."
+  },
+  {
+    "food_name": "Mangalore Buns",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet banana-flavored fried bread."
+  },
+  {
+    "food_name": "Mysore Masala Dosa",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy dosa filled with spiced potato masala."
+  },
+  {
+    "food_name": "Mysore Masala Dosa",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy dosa filled with spiced potato masala."
+  },
+  {
+    "food_name": "Akki Rotti",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour flatbread mixed with spices and vegetables."
+  },
+  {
+    "food_name": "Akki Rotti",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice flour flatbread mixed with spices and vegetables."
+  },
+  {
+    "food_name": "Kori Gassi",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Chicken curry cooked with coconut-based spices."
+  },
+  {
+    "food_name": "Kori Gassi",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Chicken curry cooked with coconut-based spices."
+  },
+  {
+    "food_name": "Udupi Sambar",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Mildly sweet lentil-based vegetable sambar."
+  },
+  {
+    "food_name": "Udupi Sambar",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Mildly sweet lentil-based vegetable sambar."
+  },
+  {
+    "food_name": "Mysore Bonda",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried snack made from batter."
+  },
+  {
+    "food_name": "Mysore Bonda",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried snack made from batter."
+  },
+  {
+    "food_name": "Jolada Rotti",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sorghum flour flatbread."
+  },
+  {
+    "food_name": "Jolada Rotti",
+    "state": "Karnataka",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Sorghum flour flatbread."
+  },
+  {
+    "food_name": "Puttu & Kadala Curry",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour cylinders served with black chickpea curry."
+  },
+  {
+    "food_name": "Puttu & Kadala Curry",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour cylinders served with black chickpea curry."
+  },
+  {
+    "food_name": "Appam with Stew",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft rice pancakes served with coconut-based stew."
+  },
+  {
+    "food_name": "Appam with Stew",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft rice pancakes served with coconut-based stew."
+  },
+  {
+    "food_name": "Erissery",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish made with pumpkin, coconut, and spices."
+  },
+  {
+    "food_name": "Erissery",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Vegetable dish made with pumpkin, coconut, and spices."
+  },
+  {
+    "food_name": "Fish Molly Curry",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mild coconut-based fish curry."
+  },
+  {
+    "food_name": "Fish Molly Curry",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mild coconut-based fish curry."
+  },
+  {
+    "food_name": "Avial",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable stew cooked with coconut."
+  },
+  {
+    "food_name": "Avial",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable stew cooked with coconut."
+  },
+  {
+    "food_name": "Pazham Pori",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried ripe banana fritters."
+  },
+  {
+    "food_name": "Pazham Pori",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "snack",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried ripe banana fritters."
+  },
+  {
+    "food_name": "Pathiri",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin rice-based flatbread from Malabar region."
+  },
+  {
+    "food_name": "Pathiri",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Thin rice-based flatbread from Malabar region."
+  },
+  {
+    "food_name": "Idiyappam",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice noodle strands."
+  },
+  {
+    "food_name": "Idiyappam",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice noodle strands."
+  },
+  {
+    "food_name": "Malabar Biryani (Thalassery Biryani)",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fragrant rice dish prepared with spices and meat."
+  },
+  {
+    "food_name": "Malabar Biryani (Thalassery Biryani)",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fragrant rice dish prepared with spices and meat."
+  },
+  {
+    "food_name": "Ada Pradhaman",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dessert made from rice ada cooked in coconut milk."
+  },
+  {
+    "food_name": "Ada Pradhaman",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dessert made from rice ada cooked in coconut milk."
+  },
+  {
+    "food_name": "Elai Ada",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour snack filled with coconut and jaggery."
+  },
+  {
+    "food_name": "Elai Ada",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice flour snack filled with coconut and jaggery."
+  },
+  {
+    "food_name": "Kappa",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Tapioca boiled and served with spicy fish curry or coconut chutney."
+  },
+  {
+    "food_name": "Kappa",
+    "state": "Kerala",
+    "region": "South India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Tapioca boiled and served with spicy fish curry or coconut chutney."
+  },
+  {
+    "food_name": "Dhokla",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed gram flour cake that is soft and spongy, served as a savory snack and widely popular throughout Gujarat."
+  },
+  {
+    "food_name": "Dhokla",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed gram flour cake that is soft and spongy, served as a savory snack and widely popular throughout Gujarat."
+  },
+  {
+    "food_name": "Undhiyu",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable dish prepared using seasonal vegetables and slow-cooked in an inverted earthen pot method."
+  },
+  {
+    "food_name": "Undhiyu",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Mixed vegetable dish prepared using seasonal vegetables and slow-cooked in an inverted earthen pot method."
+  },
+  {
+    "food_name": "Khandvi",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory rolled snack made from gram flour and yogurt, seasoned with mustard seeds and curry leaves."
+  },
+  {
+    "food_name": "Khandvi",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory rolled snack made from gram flour and yogurt, seasoned with mustard seeds and curry leaves."
+  },
+  {
+    "food_name": "Handvo",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory vegetable cake prepared using a fermented batter and cooked in a thick pan."
+  },
+  {
+    "food_name": "Handvo",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Savory vegetable cake prepared using a fermented batter and cooked in a thick pan."
+  },
+  {
+    "food_name": "Fafda Jalebi",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Combination of crispy gram flour strips served with sweet jalebi, commonly eaten as a breakfast snack."
+  },
+  {
+    "food_name": "Fafda Jalebi",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Combination of crispy gram flour strips served with sweet jalebi, commonly eaten as a breakfast snack."
+  },
+  {
+    "food_name": "Thepla",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread made from wheat flour and spices, commonly consumed as a staple food."
+  },
+  {
+    "food_name": "Thepla",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Flatbread made from wheat flour and spices, commonly consumed as a staple food."
+  },
+  {
+    "food_name": "Dabeli",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy and sweet snack prepared by stuffing seasoned potato mixture inside bread rolls."
+  },
+  {
+    "food_name": "Dabeli",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy and sweet snack prepared by stuffing seasoned potato mixture inside bread rolls."
+  },
+  {
+    "food_name": "Dal Dhokli",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish made by cooking wheat flour pieces in spiced lentil curry."
+  },
+  {
+    "food_name": "Dal Dhokli",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish made by cooking wheat flour pieces in spiced lentil curry."
+  },
+  {
+    "food_name": "Gathiya",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried gram flour snack that is crunchy and commonly eaten as a tea-time snack."
+  },
+  {
+    "food_name": "Gathiya",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried gram flour snack that is crunchy and commonly eaten as a tea-time snack."
+  },
+  {
+    "food_name": "Khaman",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft and spongy steamed snack made from gram flour."
+  },
+  {
+    "food_name": "Khaman",
+    "state": "Gujarat",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Soft and spongy steamed snack made from gram flour."
+  },
+  {
+    "food_name": "Goan Prawn Curry",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based prawn curry prepared using coconut milk and spices."
+  },
+  {
+    "food_name": "Goan Prawn Curry",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based prawn curry prepared using coconut milk and spices."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "meat-based",
+    "description": "Layered traditional Goan dessert made from coconut milk, sugar, eggs, and flour."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "meat-based",
+    "description": "Layered traditional Goan dessert made from coconut milk, sugar, eggs, and flour."
+  },
+  {
+    "food_name": "Sorpotel",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork dish cooked with vinegar and spices, known for its tangy flavor."
+  },
+  {
+    "food_name": "Sorpotel",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork dish cooked with vinegar and spices, known for its tangy flavor."
+  },
+  {
+    "food_name": "Xacuti",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-based curry prepared with roasted spices."
+  },
+  {
+    "food_name": "Xacuti",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-based curry prepared with roasted spices."
+  },
+  {
+    "food_name": "Fish Recheado",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Fish stuffed with spicy Goan masala and shallow-fried."
+  },
+  {
+    "food_name": "Fish Recheado",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Fish stuffed with spicy Goan masala and shallow-fried."
+  },
+  {
+    "food_name": "Pork Vindaloo",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy and tangy pork curry prepared using vinegar and spices."
+  },
+  {
+    "food_name": "Pork Vindaloo",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy and tangy pork curry prepared using vinegar and spices."
+  },
+  {
+    "food_name": "Feijoada",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Portuguese-influenced stew made with black beans, pork, and vegetables."
+  },
+  {
+    "food_name": "Feijoada",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Portuguese-influenced stew made with black beans, pork, and vegetables."
+  },
+  {
+    "food_name": "Sannas",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cakes that are soft and slightly sweet."
+  },
+  {
+    "food_name": "Sannas",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cakes that are soft and slightly sweet."
+  },
+  {
+    "food_name": "Samarachi Kodi",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Dry curry prepared with pork and spices."
+  },
+  {
+    "food_name": "Samarachi Kodi",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Dry curry prepared with pork and spices."
+  },
+  {
+    "food_name": "Solkadhi",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "beverage",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Drink made from coconut milk and kokum."
+  },
+  {
+    "food_name": "Solkadhi",
+    "state": "Goa",
+    "region": "West India",
+    "course_type": "beverage",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Drink made from coconut milk and kokum."
+  },
+  {
+    "food_name": "Malvani Chicken Curry",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Coconut-based chicken curry prepared using Malvani spices."
+  },
+  {
+    "food_name": "Malvani Chicken Curry",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Coconut-based chicken curry prepared using Malvani spices."
+  },
+  {
+    "food_name": "Puran Poli",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet flatbread filled with lentils and jaggery."
+  },
+  {
+    "food_name": "Puran Poli",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet flatbread filled with lentils and jaggery."
+  },
+  {
+    "food_name": "Vada Pav",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy potato fritter served inside a bread bun."
+  },
+  {
+    "food_name": "Vada Pav",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy potato fritter served inside a bread bun."
+  },
+  {
+    "food_name": "Misal Pav",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy lentil curry served with bread."
+  },
+  {
+    "food_name": "Misal Pav",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy lentil curry served with bread."
+  },
+  {
+    "food_name": "Modak",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dumplings filled with coconut and jaggery."
+  },
+  {
+    "food_name": "Modak",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet dumplings filled with coconut and jaggery."
+  },
+  {
+    "food_name": "Kesar Pista Kulfi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Frozen dessert flavored with saffron and pistachio."
+  },
+  {
+    "food_name": "Kesar Pista Kulfi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Frozen dessert flavored with saffron and pistachio."
+  },
+  {
+    "food_name": "Patrode",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed colocasia leaf rolls prepared with spiced batter."
+  },
+  {
+    "food_name": "Patrode",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed colocasia leaf rolls prepared with spiced batter."
+  },
+  {
+    "food_name": "Sabudana Khichdi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from tapioca pearls cooked with peanuts."
+  },
+  {
+    "food_name": "Sabudana Khichdi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from tapioca pearls cooked with peanuts."
+  },
+  {
+    "food_name": "Sol Kadhi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "beverage",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut milk and kokum-based drink."
+  },
+  {
+    "food_name": "Sol Kadhi",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "beverage",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut milk and kokum-based drink."
+  },
+  {
+    "food_name": "Pandhara Rassa",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mild white curry prepared using mutton stock and coconut milk."
+  },
+  {
+    "food_name": "Pandhara Rassa",
+    "state": "Maharashtra",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Mild white curry prepared using mutton stock and coconut milk."
+  },
+  {
+    "food_name": "Dal Baati Churma",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil curry served with baked wheat balls and sweet crushed wheat."
+  },
+  {
+    "food_name": "Dal Baati Churma",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil curry served with baked wheat balls and sweet crushed wheat."
+  },
+  {
+    "food_name": "Pyaz Kachori",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried pastry filled with spiced onion mixture."
+  },
+  {
+    "food_name": "Pyaz Kachori",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Deep-fried pastry filled with spiced onion mixture."
+  },
+  {
+    "food_name": "Ker Sangri",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from desert beans and berries cooked with spices."
+  },
+  {
+    "food_name": "Ker Sangri",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Dish prepared from desert beans and berries cooked with spices."
+  },
+  {
+    "food_name": "Laal Maas",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy red meat curry prepared using mutton and red chilies."
+  },
+  {
+    "food_name": "Laal Maas",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy red meat curry prepared using mutton and red chilies."
+  },
+  {
+    "food_name": "Gatte ki Sabzi",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Gram flour dumplings cooked in a spiced yogurt-based gravy."
+  },
+  {
+    "food_name": "Gatte ki Sabzi",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Gram flour dumplings cooked in a spiced yogurt-based gravy."
+  },
+  {
+    "food_name": "Mawa Kachori",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet kachori filled with sweetened milk solids."
+  },
+  {
+    "food_name": "Mawa Kachori",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet kachori filled with sweetened milk solids."
+  },
+  {
+    "food_name": "Ghewar",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Disc-shaped sweet soaked in sugar syrup."
+  },
+  {
+    "food_name": "Ghewar",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Disc-shaped sweet soaked in sugar syrup."
+  },
+  {
+    "food_name": "Raab",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Nourishing porridge prepared from millet or maize flour."
+  },
+  {
+    "food_name": "Raab",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Nourishing porridge prepared from millet or maize flour."
+  },
+  {
+    "food_name": "Mohanthal",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dense sweet made from gram flour, ghee, and sugar."
+  },
+  {
+    "food_name": "Mohanthal",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Dense sweet made from gram flour, ghee, and sugar."
+  },
+  {
+    "food_name": "Panchkuta",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional curry prepared using dried desert vegetables."
+  },
+  {
+    "food_name": "Panchkuta",
+    "state": "Rajasthan",
+    "region": "West India",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional curry prepared using dried desert vegetables."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced chickpea curry served with deep-fried bread."
+  },
+  {
+    "food_name": "Chole Bhature",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced chickpea curry served with deep-fried bread."
+  },
+  {
+    "food_name": "Makki di Roti",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Maize flatbread traditionally eaten in winter."
+  },
+  {
+    "food_name": "Makki di Roti",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Maize flatbread traditionally eaten in winter."
+  },
+  {
+    "food_name": "Kadhi Pakora",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry with gram flour fritters."
+  },
+  {
+    "food_name": "Kadhi Pakora",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-based curry with gram flour fritters."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Creamy tomato-based chicken curry."
+  },
+  {
+    "food_name": "Butter Chicken",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Creamy tomato-based chicken curry."
+  },
+  {
+    "food_name": "Amritsari Kulcha",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed leavened bread served with chole."
+  },
+  {
+    "food_name": "Amritsari Kulcha",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Stuffed leavened bread served with chole."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy lentil dish made from black lentils and pulses, slow-cooked with butter and cream."
+  },
+  {
+    "food_name": "Dal Makhani",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Creamy lentil dish made from black lentils and pulses, slow-cooked with butter and cream."
+  },
+  {
+    "food_name": "Paneer Tikka",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-marinated paneer cubes grilled with spices, commonly served as an appetizer."
+  },
+  {
+    "food_name": "Paneer Tikka",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Yogurt-marinated paneer cubes grilled with spices, commonly served as an appetizer."
+  },
+  {
+    "food_name": "Lachha Paratha",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Multi-layered flaky flatbread cooked with ghee until crisp and golden."
+  },
+  {
+    "food_name": "Lachha Paratha",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Multi-layered flaky flatbread cooked with ghee until crisp and golden."
+  },
+  {
+    "food_name": "Rajma Chawal",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Red kidney bean curry served with steamed rice, a North Indian comfort meal."
+  },
+  {
+    "food_name": "Rajma Chawal",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Red kidney bean curry served with steamed rice, a North Indian comfort meal."
+  },
+  {
+    "food_name": "Roh Di Kheer",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional rice pudding prepared with sugarcane juice, milk, and aromatic spices."
+  },
+  {
+    "food_name": "Roh Di Kheer",
+    "state": "Chandigarh",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional rice pudding prepared with sugarcane juice, milk, and aromatic spices."
+  },
+  {
+    "food_name": "Masala Dosa",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy fermented crepe with spiced potato filling."
+  },
+  {
+    "food_name": "Masala Dosa",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy fermented crepe with spiced potato filling."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Coconut-based coastal fish curry."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Coconut-based coastal fish curry."
+  },
+  {
+    "food_name": "Prawn Balchao",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Tangy and spicy prawn pickle."
+  },
+  {
+    "food_name": "Prawn Balchao",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "meat-based",
+    "description": "Tangy and spicy prawn pickle."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Layered coconut milk dessert."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Layered coconut milk dessert."
+  },
+  {
+    "food_name": "Chicken Xacuti",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based chicken curry."
+  },
+  {
+    "food_name": "Chicken Xacuti",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based chicken curry."
+  },
+  {
+    "food_name": "Mutton Rolls",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Stuffed fried rolls with spiced mutton."
+  },
+  {
+    "food_name": "Mutton Rolls",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Stuffed fried rolls with spiced mutton."
+  },
+  {
+    "food_name": "Sambar",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil and vegetable stew."
+  },
+  {
+    "food_name": "Sambar",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Lentil and vegetable stew."
+  },
+  {
+    "food_name": "Baguette and Croissants",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "French-style breads reflecting Puducherry's colonial heritage."
+  },
+  {
+    "food_name": "Baguette and Croissants",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "French-style breads reflecting Puducherry's colonial heritage."
+  },
+  {
+    "food_name": "Khow Suey",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Burmese-style noodle dish served with coconut-based curry and toppings."
+  },
+  {
+    "food_name": "Khow Suey",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Burmese-style noodle dish served with coconut-based curry and toppings."
+  },
+  {
+    "food_name": "Mutton Samosa",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Savory pastry stuffed with spiced minced mutton, popular as a snack."
+  },
+  {
+    "food_name": "Mutton Samosa",
+    "state": "Puducherry",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Savory pastry stuffed with spiced minced mutton, popular as a snack."
+  },
+  {
+    "food_name": "Tuna Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-based tuna curry."
+  },
+  {
+    "food_name": "Tuna Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-based tuna curry."
+  },
+  {
+    "food_name": "Mas Riha",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry with coconut milk and spices."
+  },
+  {
+    "food_name": "Mas Riha",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Fish curry with coconut milk and spices."
+  },
+  {
+    "food_name": "Coconut Rice",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cooked with grated coconut."
+  },
+  {
+    "food_name": "Coconut Rice",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Rice cooked with grated coconut."
+  },
+  {
+    "food_name": "Kallummakkaya Fry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced mussel fry."
+  },
+  {
+    "food_name": "Kallummakkaya Fry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced mussel fry."
+  },
+  {
+    "food_name": "Chammanthi Podi",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Dry coconut chutney powder."
+  },
+  {
+    "food_name": "Chammanthi Podi",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Dry coconut chutney powder."
+  },
+  {
+    "food_name": "Kinnathappam",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cake."
+  },
+  {
+    "food_name": "Kinnathappam",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed rice cake."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based fish curry."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy coconut-based fish curry."
+  },
+  {
+    "food_name": "Mussal Pickle",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy mussel pickle."
+  },
+  {
+    "food_name": "Mussal Pickle",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Spicy mussel pickle."
+  },
+  {
+    "food_name": "Kadala Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Black chickpea curry."
+  },
+  {
+    "food_name": "Kadala Curry",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Black chickpea curry."
+  },
+  {
+    "food_name": "Masroshi",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-rich snack."
+  },
+  {
+    "food_name": "Masroshi",
+    "state": "Lakshadweep",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Coconut-rich snack."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Traditional island-style fish curry."
+  },
+  {
+    "food_name": "Fish Curry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Traditional island-style fish curry."
+  },
+  {
+    "food_name": "Coconut Crab Curry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Crab cooked in coconut milk."
+  },
+  {
+    "food_name": "Coconut Crab Curry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Crab cooked in coconut milk."
+  },
+  {
+    "food_name": "Pulihora",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamarind-flavored rice dish."
+  },
+  {
+    "food_name": "Pulihora",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "tangy",
+    "veg_nonveg": "vegetarian",
+    "description": "Tamarind-flavored rice dish."
+  },
+  {
+    "food_name": "Coconut Ladoo",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet coconut balls."
+  },
+  {
+    "food_name": "Coconut Ladoo",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Sweet coconut balls."
+  },
+  {
+    "food_name": "Tuna Pollichathu",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Banana-leaf wrapped grilled tuna."
+  },
+  {
+    "food_name": "Tuna Pollichathu",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Banana-leaf wrapped grilled tuna."
+  },
+  {
+    "food_name": "Grilled Lobster",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Grilled fresh lobster."
+  },
+  {
+    "food_name": "Grilled Lobster",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Grilled fresh lobster."
+  },
+  {
+    "food_name": "Squid Fry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced fried squid."
+  },
+  {
+    "food_name": "Squid Fry",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced fried squid."
+  },
+  {
+    "food_name": "Tandoori Fish",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Grilled yogurt-marinated fish."
+  },
+  {
+    "food_name": "Tandoori Fish",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Grilled yogurt-marinated fish."
+  },
+  {
+    "food_name": "Macher Jhol",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bengali-style fish curry."
+  },
+  {
+    "food_name": "Macher Jhol",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Bengali-style fish curry."
+  },
+  {
+    "food_name": "Andaman Biryani",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Island-style biryani with seafood or meat."
+  },
+  {
+    "food_name": "Andaman Biryani",
+    "state": "Andaman & Nicobar",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Island-style biryani with seafood or meat."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Himalayan noodle soup adapted locally, prepared with wheat or barley noodles and vegetables or meat."
+  },
+  {
+    "food_name": "Thukpa",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Himalayan noodle soup adapted locally, prepared with wheat or barley noodles and vegetables or meat."
+  },
+  {
+    "food_name": "Skyu",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Pasta-like dumplings cooked in a soupy vegetable-based broth."
+  },
+  {
+    "food_name": "Skyu",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Pasta-like dumplings cooked in a soupy vegetable-based broth."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Steamed or fried dumplings filled with vegetables or meat."
+  },
+  {
+    "food_name": "Momos",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Steamed or fried dumplings filled with vegetables or meat."
+  },
+  {
+    "food_name": "Chang",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional barley or rice beer consumed during festivals and gatherings."
+  },
+  {
+    "food_name": "Chang",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "beverage",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Traditional barley or rice beer consumed during festivals and gatherings."
+  },
+  {
+    "food_name": "Butter Tea",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "beverage",
+    "taste": "salty",
+    "veg_nonveg": "vegetarian",
+    "description": "Salty tea made from brewed tea leaves, yak butter, and milk, suited for cold climates."
+  },
+  {
+    "food_name": "Butter Tea",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "beverage",
+    "taste": "salty",
+    "veg_nonveg": "vegetarian",
+    "description": "Salty tea made from brewed tea leaves, yak butter, and milk, suited for cold climates."
+  },
+  {
+    "food_name": "Chhurpi",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Firm yak cheese consumed as food, candy, or added to soups."
+  },
+  {
+    "food_name": "Chhurpi",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "snack",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Firm yak cheese consumed as food, candy, or added to soups."
+  },
+  {
+    "food_name": "Tigmo",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Steamed bread traditionally served with meat, vegetable, or lentil stews."
+  },
+  {
+    "food_name": "Tigmo",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Steamed bread traditionally served with meat, vegetable, or lentil stews."
+  },
+  {
+    "food_name": "Khambir",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Whole wheat bread with a thick crust and chewy interior, made from fermented dough."
+  },
+  {
+    "food_name": "Khambir",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Whole wheat bread with a thick crust and chewy interior, made from fermented dough."
+  },
+  {
+    "food_name": "Phirni",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Ground rice pudding cooked in milk and traditionally served in clay bowls."
+  },
+  {
+    "food_name": "Phirni",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "vegetarian",
+    "description": "Ground rice pudding cooked in milk and traditionally served in clay bowls."
+  },
+  {
+    "food_name": "Pulao",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Aromatic rice dish prepared with subtle spices and local ingredients."
+  },
+  {
+    "food_name": "Pulao",
+    "state": "Ladakh",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Aromatic rice dish prepared with subtle spices and local ingredients."
+  },
+  {
+    "food_name": "Dabeli",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced potato sandwich stuffed in a soft bun, garnished with peanuts and pomegranate."
+  },
+  {
+    "food_name": "Dabeli",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Spiced potato sandwich stuffed in a soft bun, garnished with peanuts and pomegranate."
+  },
+  {
+    "food_name": "Patra",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed colocasia leaf rolls made from spiced gram flour batter."
+  },
+  {
+    "food_name": "Patra",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Steamed colocasia leaf rolls made from spiced gram flour batter."
+  },
+  {
+    "food_name": "Farcha",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Portuguese-style fried chicken, commonly served as a starter."
+  },
+  {
+    "food_name": "Farcha",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Portuguese-style fried chicken, commonly served as a starter."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "meat-based",
+    "description": "Layered dessert made with eggs and coconut milk, baked layer by layer."
+  },
+  {
+    "food_name": "Bebinca",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "dessert",
+    "taste": "sweet",
+    "veg_nonveg": "meat-based",
+    "description": "Layered dessert made with eggs and coconut milk, baked layer by layer."
+  },
+  {
+    "food_name": "Sorpotel",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork curry cooked with vinegar and spices, influenced by Portuguese cuisine."
+  },
+  {
+    "food_name": "Sorpotel",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Pork curry cooked with vinegar and spices, influenced by Portuguese cuisine."
+  },
+  {
+    "food_name": "Chicken Bullet",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fried chicken preparation similar to local fried snacks."
+  },
+  {
+    "food_name": "Chicken Bullet",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "spicy",
+    "veg_nonveg": "meat-based",
+    "description": "Spicy fried chicken preparation similar to local fried snacks."
+  },
+  {
+    "food_name": "Papri",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy fried flour discs used as a base for chaat-style snacks."
+  },
+  {
+    "food_name": "Papri",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Crispy fried flour discs used as a base for chaat-style snacks."
+  },
+  {
+    "food_name": "Cozido",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rich stew made with beef and pork, reflecting Portuguese culinary influence."
+  },
+  {
+    "food_name": "Cozido",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Rich stew made with beef and pork, reflecting Portuguese culinary influence."
+  },
+  {
+    "food_name": "Portuguese Grilled Chicken",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Grilled chicken marinated in Portuguese-style spices and sauces."
+  },
+  {
+    "food_name": "Portuguese Grilled Chicken",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "meat-based",
+    "description": "Grilled chicken marinated in Portuguese-style spices and sauces."
+  },
+  {
+    "food_name": "Roti",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Basic Indian flatbread served as a staple accompaniment."
+  },
+  {
+    "food_name": "Roti",
+    "state": "Daman & Diu",
+    "region": "Union Territories",
+    "course_type": "main course",
+    "taste": "savoury",
+    "veg_nonveg": "vegetarian",
+    "description": "Basic Indian flatbread served as a staple accompaniment."
+  }
+]

@@ -1,0 +1,1081 @@
+2026-03-03 19:16:04,631 | INFO | [TEXT][2d6786f7] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'non-veg'}
+2026-03-03 19:16:04,676 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:16:07,669 | INFO | [TEXT][2d6786f7] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'non-veg'}
+2026-03-03 19:16:07,681 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:16:14,392 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-03 19:16:14,393 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-03 19:16:14,394 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-03 19:16:14,394 | INFO | [TEXT] Completed in 9.76s
+2026-03-03 19:22:36,173 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'non-veg'}
+2026-03-03 19:22:36,188 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:22:41,221 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'non-veg'}
+2026-03-03 19:22:41,233 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:22:41,761 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'non-veg'}
+2026-03-03 19:22:41,773 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:22:42,908 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-03 19:22:42,909 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-03 19:22:42,909 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-03 19:22:42,910 | INFO | [TEXT] Completed in 6.74s
+2026-03-03 19:22:50,164 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-03 19:22:50,165 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-03 19:22:50,166 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-03 19:22:50,166 | INFO | [TEXT] Completed in 8.94s
+2026-03-03 19:22:50,575 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-03 19:22:50,575 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-03 19:22:50,576 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-03 19:22:50,576 | INFO | [TEXT] Completed in 8.81s
+2026-03-03 19:23:04,114 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-03 19:23:04,167 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:23:06,889 | INFO | [TEXT] Recommended: Chettinad Chicken | Tamil Nadu
+2026-03-03 19:23:06,889 | INFO | [TEXT] Completed in 2.78s
+2026-03-03 19:23:58,537 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Karnataka', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-03 19:23:58,573 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:24:02,631 | INFO | [TEXT] Recommended: Kori Gassi | Karnataka
+2026-03-03 19:24:02,631 | INFO | [TEXT] Completed in 4.09s
+2026-03-03 19:25:12,511 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tripura', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-03 19:25:12,552 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:25:20,151 | INFO | [TEXT] Recommended: Gudok | Tripura
+2026-03-03 19:25:20,151 | INFO | [TEXT] Recommended: Moseng Serma | Tripura
+2026-03-03 19:25:20,151 | INFO | [TEXT] Recommended: Mosdeng | Tripura
+2026-03-03 19:25:20,151 | INFO | [TEXT] Completed in 7.64s
+2026-03-03 19:38:30,228 | INFO | [TEXT][537b0b8e] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-03 19:38:30,266 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 19:38:38,253 | INFO | [TEXT] Recommended: Sambar | Tamil Nadu
+2026-03-03 19:38:38,253 | INFO | [TEXT] Recommended: Dosa | Tamil Nadu
+2026-03-03 19:38:38,253 | INFO | [TEXT] Recommended: Idli | Tamil Nadu
+2026-03-03 19:38:38,254 | INFO | [TEXT] Completed in 8.03s
+2026-03-03 21:31:51,630 | INFO | [SPEECH][efac270b] Audio received: WhatsApp Audio 2026-03-03 at 9.12.40 PM.wav
+2026-03-03 21:32:02,293 | INFO | [SPEECH][efac270b] Raw prediction: {'language': np.str_('Kannada'), 'confidence': 0.548247238302511}
+2026-03-03 21:32:02,298 | INFO | [SPEECH][efac270b] Accent: Kannada | Confidence: 0.548247238302511
+2026-03-03 21:32:02,299 | INFO | [SPEECH][efac270b] Single region detected: Karnataka
+2026-03-03 21:32:02,300 | INFO | [SPEECH][efac270b] Completed in 10.67s
+2026-03-03 22:32:03,915 | INFO | [TEXT][a0ad2278] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-03 22:32:04,066 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 22:32:11,785 | INFO | [TEXT][a0ad2278] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-03 22:32:11,827 | INFO | [TEXT] Decision engine status: ok
+2026-03-03 22:32:15,036 | INFO | [TEXT] Recommended: Sambar | Tamil Nadu
+2026-03-03 22:32:15,037 | INFO | [TEXT] Recommended: Dosa | Tamil Nadu
+2026-03-03 22:32:15,037 | INFO | [TEXT] Recommended: Idli | Tamil Nadu
+2026-03-03 22:32:15,037 | INFO | [TEXT] Completed in 11.12s
+2026-03-03 22:32:20,447 | INFO | [TEXT] Recommended: Sambar | Tamil Nadu
+2026-03-03 22:32:20,447 | INFO | [TEXT] Recommended: Dosa | Tamil Nadu
+2026-03-03 22:32:20,447 | INFO | [TEXT] Recommended: Idli | Tamil Nadu
+2026-03-03 22:32:20,448 | INFO | [TEXT] Completed in 8.66s
+2026-03-04 10:07:58,709 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:07:59,246 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:02,668 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:02,756 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:04,812 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:04,904 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:05,050 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:05,166 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:14,452 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:14,617 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:14,991 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:15,202 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:44,409 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:08:44,412 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:08:44,413 | INFO | [TEXT] Completed in 45.71s
+2026-03-04 10:08:44,425 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:44,635 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:08:54,456 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:08:54,457 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:08:54,460 | INFO | [TEXT] Completed in 51.79s
+2026-03-04 10:08:54,471 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:08:54,641 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:09:02,586 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:02,588 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:02,589 | INFO | [TEXT] Completed in 57.78s
+2026-03-04 10:09:02,598 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:09:02,782 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:09:03,363 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:03,365 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:03,366 | INFO | [TEXT] Completed in 58.32s
+2026-03-04 10:09:03,377 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:09:03,590 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:09:18,178 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:18,180 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:18,181 | INFO | [TEXT] Completed in 63.73s
+2026-03-04 10:09:18,206 | INFO | [TEXT][479da4f5] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:09:18,369 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:09:18,933 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:18,934 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:18,935 | INFO | [TEXT] Completed in 63.94s
+2026-03-04 10:09:41,217 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:41,219 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:41,219 | INFO | [TEXT] Completed in 56.79s
+2026-03-04 10:09:46,196 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:46,197 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:46,198 | INFO | [TEXT] Completed in 51.73s
+2026-03-04 10:09:49,726 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:49,727 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:49,728 | INFO | [TEXT] Completed in 47.13s
+2026-03-04 10:09:49,937 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:49,938 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:49,938 | INFO | [TEXT] Completed in 46.56s
+2026-03-04 10:09:52,835 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-04 10:09:52,835 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-04 10:09:52,835 | INFO | [TEXT] Completed in 34.63s
+2026-03-04 10:22:34,080 | INFO | [TEXT][e5fee8a7] Incoming request: {'location': 'Karnataka', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 10:22:34,166 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 10:22:40,203 | INFO | [TEXT] Recommended: Kori Gassi | Karnataka
+2026-03-04 10:22:40,204 | INFO | [TEXT] Completed in 6.12s
+2026-03-04 12:20:32,809 | INFO | [TEXT][d5d38fba] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 12:20:33,169 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 12:20:38,481 | INFO | [TEXT] Recommended: Chettinad Chicken | Tamil Nadu
+2026-03-04 12:20:38,481 | INFO | [TEXT] Completed in 5.67s
+2026-03-04 19:19:34,492 | INFO | [TEXT][0030245e] Incoming request: {'location': 'Orissa', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-04 19:19:34,506 | INFO | [TEXT] Decision engine status: error
+2026-03-04 19:19:34,506 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-04 19:19:34,506 | INFO | [TEXT] Completed in 0.01s
+2026-03-04 19:19:58,334 | INFO | [TEXT][0030245e] Incoming request: {'location': 'Odisha', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-04 19:19:58,552 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 19:20:06,272 | INFO | [TEXT] Recommended: Pakhala Bhata | Odisha
+2026-03-04 19:20:06,272 | INFO | [TEXT] Recommended: Khichdi | Odisha
+2026-03-04 19:20:06,272 | INFO | [TEXT] Recommended: Besara | Odisha
+2026-03-04 19:20:06,274 | INFO | [TEXT] Completed in 7.94s
+2026-03-04 19:39:12,449 | INFO | [TEXT][75d7d421] Incoming request: {'location': 'Punjab', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-04 19:39:12,630 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 19:39:17,814 | INFO | [TEXT] Recommended: Chole Bhature | Punjab
+2026-03-04 19:39:22,583 | INFO | [TEXT] Recommended: Paneer Tikka | Punjab
+2026-03-04 19:39:27,951 | INFO | [TEXT] Recommended: Kadhi Pakora | Punjab
+2026-03-04 19:39:27,952 | INFO | [TEXT] Completed in 15.50s
+2026-03-04 19:55:43,238 | INFO | [TEXT][723f0cf3] Incoming request: {'location': 'Madhya Pradesh', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 19:55:43,328 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 19:55:47,814 | INFO | [TEXT] Recommended: Bhopali Gosht Korma | Madhya Pradesh
+2026-03-04 19:55:47,815 | INFO | [TEXT] Completed in 4.58s
+2026-03-04 21:28:11,865 | INFO | [TEXT][2bb8711d] Incoming request: {'location': 'West Bengal', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-04 21:28:11,992 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 21:28:15,768 | INFO | [TEXT] Recommended: Sandesh | West Bengal
+2026-03-04 21:28:19,241 | INFO | [TEXT] Recommended: Rosogolla | West Bengal
+2026-03-04 21:28:22,826 | INFO | [TEXT] Recommended: Pati Shapta | West Bengal
+2026-03-04 21:28:22,827 | INFO | [TEXT] Completed in 10.96s
+2026-03-04 21:37:15,595 | INFO | [TEXT][dab6837d] Incoming request: {'location': 'Himachal Pradesh', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 21:37:15,703 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 21:37:19,690 | INFO | [TEXT] Recommended: Chha Gosht | Himachal Pradesh
+2026-03-04 21:37:23,332 | INFO | [TEXT] Recommended: Kullu Trout Fish | Himachal Pradesh
+2026-03-04 21:37:23,333 | INFO | [TEXT] Completed in 7.74s
+2026-03-04 21:47:01,466 | INFO | [TEXT][ab176195] Incoming request: {'location': 'Tamil Nadu', 'course': 'snack', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-04 21:47:01,524 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 21:47:02,694 | INFO | [TEXT] Recommended: Thattai | Tamil Nadu
+2026-03-04 21:47:05,716 | INFO | [TEXT] Recommended: Kadalai Mittai | Tamil Nadu
+2026-03-04 21:47:07,609 | INFO | [TEXT] Recommended: Adhirasam | Tamil Nadu
+2026-03-04 21:47:07,609 | INFO | [TEXT] Completed in 6.14s
+2026-03-04 21:55:59,438 | INFO | [TEXT][212b35b5] Incoming request: {'location': 'Uttar Pradesh', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 21:55:59,440 | INFO | [TEXT] Decision engine status: error
+2026-03-04 21:55:59,440 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-04 21:56:33,741 | INFO | [TEXT][00630f63] Incoming request: {'location': 'Arunachal Pradesh', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 21:56:33,812 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 21:56:36,445 | INFO | [TEXT] Recommended: Lukter | Arunachal Pradesh
+2026-03-04 21:56:39,187 | INFO | [TEXT] Recommended: Pika Pila | Arunachal Pradesh
+2026-03-04 21:56:41,415 | INFO | [TEXT] Recommended: Bresi | Arunachal Pradesh
+2026-03-04 21:56:41,415 | INFO | [TEXT] Completed in 7.67s
+2026-03-04 22:06:34,627 | INFO | [TEXT][ca89383e] Incoming request: {'location': 'Puducherry', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 22:06:34,730 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 22:06:38,950 | INFO | [TEXT] Recommended: Mutton Rolls | Puducherry
+2026-03-04 22:06:41,685 | INFO | [TEXT] Recommended: Fish Curry | Puducherry
+2026-03-04 22:06:44,855 | INFO | [TEXT] Recommended: Chicken Xacuti | Puducherry
+2026-03-04 22:06:44,856 | INFO | [TEXT] Completed in 10.23s
+2026-03-04 22:48:12,070 | INFO | [TEXT][d3fa2cfe] Incoming request: {'location': 'Andhra Pradesh', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-04 22:48:12,149 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 22:48:16,472 | INFO | [TEXT] Recommended: Andhra Chicken Curry | Andhra Pradesh
+2026-03-04 22:48:19,220 | INFO | [TEXT] Recommended: Chepala Pulusu | Andhra Pradesh
+2026-03-04 22:48:23,127 | INFO | [TEXT] Recommended: Gongura Mutton Curry | Andhra Pradesh
+2026-03-04 22:48:23,127 | INFO | [TEXT] Completed in 11.06s
+2026-03-04 22:56:52,124 | INFO | [TEXT][b79de687] Incoming request: {'location': 'Meghalaya', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-04 22:56:52,207 | INFO | [TEXT] Decision engine status: ok
+2026-03-04 22:56:56,428 | INFO | [TEXT] Recommended: Nakham Bitchi | Meghalaya
+2026-03-04 22:56:58,539 | INFO | [TEXT] Recommended: Jadoh | Meghalaya
+2026-03-04 22:57:00,554 | INFO | [TEXT] Recommended: Tungtap | Meghalaya
+2026-03-04 22:57:00,555 | INFO | [TEXT] Completed in 8.43s
+2026-03-05 13:17:21,555 | INFO | [TEXT][a1c0c2a7] Incoming request: {'location': 'Manipur', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-05 13:17:21,781 | INFO | [TEXT] Decision engine status: ok
+2026-03-05 13:17:28,995 | INFO | [TEXT] Recommended: Eromba | Manipur
+2026-03-05 13:17:33,876 | INFO | [TEXT] Recommended: Maroi Nganu | Manipur
+2026-03-05 13:17:37,003 | INFO | [TEXT] Recommended: Ngari | Manipur
+2026-03-05 13:17:37,006 | INFO | [TEXT] Completed in 15.45s
+2026-03-05 13:17:58,777 | INFO | [TEXT][45329e4a] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-05 13:17:58,832 | INFO | [TEXT] Decision engine status: ok
+2026-03-05 13:18:08,673 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-05 13:18:22,889 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-05 13:18:22,893 | INFO | [TEXT] Completed in 24.12s
+2026-03-05 13:18:59,607 | INFO | [TEXT][5113a92e] Incoming request: {'location': 'Delhi', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-05 13:18:59,675 | INFO | [TEXT] Decision engine status: ok
+2026-03-05 13:19:07,401 | INFO | [TEXT] Recommended: Butter Chicken | Delhi
+2026-03-05 13:19:12,525 | INFO | [TEXT] Recommended: Kebabs | Delhi
+2026-03-05 13:19:17,401 | INFO | [TEXT] Recommended: Nihari | Delhi
+2026-03-05 13:19:17,402 | INFO | [TEXT] Completed in 17.79s
+2026-03-05 13:38:04,779 | INFO | [TEXT][1ebf80c5] Incoming request: {'location': 'Mizoram', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-05 13:38:04,872 | INFO | [TEXT] Decision engine status: ok
+2026-03-05 13:44:36,203 | INFO | [TEXT][0823be58] Incoming request: {'location': 'Tamil Nadu', 'course': 'snack', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-05 13:44:36,311 | INFO | [TEXT] Decision engine status: ok
+2026-03-05 13:44:42,403 | INFO | [TEXT] Recommended: Thattai | Tamil Nadu
+2026-03-05 13:44:50,125 | INFO | [TEXT] Recommended: Kadalai Mittai | Tamil Nadu
+2026-03-05 13:44:57,720 | INFO | [TEXT] Recommended: Adhirasam | Tamil Nadu
+2026-03-05 13:44:57,722 | INFO | [TEXT] Completed in 21.52s
+2026-03-08 16:34:25,636 | INFO | [TEXT][19ff629a] Incoming request: {'location': 'Maharashtra', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-08 16:34:26,046 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:34:33,531 | INFO | [TEXT] Recommended: Pandhara Rassa | Maharashtra
+2026-03-08 16:34:35,773 | INFO | [TEXT] Recommended: Malvani Chicken Curry | Maharashtra
+2026-03-08 16:34:35,775 | INFO | [TEXT] Completed in 10.14s
+2026-03-08 16:36:13,393 | INFO | [TEXT][d3af6c50] Incoming request: {'location': 'Kerala', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-08 16:36:13,472 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:36:17,049 | INFO | [TEXT] Recommended: Fish Molly Curry | Kerala
+2026-03-08 16:36:24,201 | INFO | [TEXT] Recommended: Malabar Biryani (Thalassery Biryani) | Kerala
+2026-03-08 16:36:24,203 | INFO | [TEXT] Completed in 10.81s
+2026-03-08 16:38:23,855 | INFO | [TEXT][b81f94bb] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-08 16:38:24,211 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:38:30,742 | INFO | [TEXT] Recommended: Sakinalu | Telangana
+2026-03-08 16:38:37,031 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:38:44,340 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:38:44,349 | INFO | [TEXT] Completed in 20.49s
+2026-03-08 16:39:17,837 | INFO | [TEXT][20d02aa0] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:39:17,910 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:39:22,654 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:39:28,772 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:39:32,330 | INFO | [TEXT][7097caac] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:39:32,602 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:39:32,886 | INFO | [TEXT][2d2d954f] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:39:33,504 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:39:41,919 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:39:41,921 | INFO | [TEXT] Completed in 24.08s
+2026-03-08 16:39:44,982 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:39:45,392 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:39:56,411 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:39:56,695 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:40:06,292 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:40:06,293 | INFO | [TEXT] Completed in 33.96s
+2026-03-08 16:40:06,358 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:40:06,359 | INFO | [TEXT] Completed in 33.47s
+2026-03-08 16:40:22,580 | INFO | [TEXT][7b15d120] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:40:22,656 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:40:27,427 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:40:27,479 | INFO | [TEXT][3fe39cf6] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:40:27,690 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:40:28,002 | INFO | [TEXT][3f8c71e5] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:40:28,485 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:40:44,164 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:40:45,162 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:40:48,003 | INFO | [TEXT][163bddb4] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:40:48,268 | INFO | [TEXT][63421fe8] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:40:49,035 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:40:49,118 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:40:54,058 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:41:09,881 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:41:09,976 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:41:14,862 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:41:15,838 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:41:21,017 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:41:21,060 | INFO | [TEXT] Completed in 58.48s
+2026-03-08 16:41:28,235 | INFO | [TEXT][deacd30d] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:41:28,516 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:41:31,798 | INFO | [TEXT][4b07430c] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:41:32,234 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:41:39,749 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:41:39,768 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:41:42,592 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:41:42,610 | INFO | [TEXT] Completed in 75.13s
+2026-03-08 16:41:42,629 | INFO | [TEXT][29620886] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:41:43,244 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:41:43,643 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:41:43,649 | INFO | [TEXT] Completed in 75.65s
+2026-03-08 16:41:43,658 | INFO | [TEXT][f7d3aa06] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:41:44,282 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:41:57,826 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:42:03,674 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:42:14,415 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:42:14,844 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:42:16,840 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:42:16,849 | INFO | [TEXT] Completed in 88.85s
+2026-03-08 16:42:16,883 | INFO | [TEXT][21ea264e] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-08 16:42:17,286 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:42:17,297 | INFO | [TEXT] Completed in 89.03s
+2026-03-08 16:42:17,495 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:42:30,869 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:42:34,507 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:42:39,940 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:42:43,135 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:42:44,435 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:42:57,098 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:42:57,107 | INFO | [TEXT] Completed in 88.87s
+2026-03-08 16:42:59,113 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:42:59,115 | INFO | [TEXT] Completed in 87.32s
+2026-03-08 16:43:01,634 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:43:02,239 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:43:02,240 | INFO | [TEXT] Completed in 79.61s
+2026-03-08 16:43:02,389 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:43:02,390 | INFO | [TEXT] Completed in 78.73s
+2026-03-08 16:43:05,289 | INFO | [TEXT] Recommended: Pachi Pulusu | Telangana
+2026-03-08 16:43:05,290 | INFO | [TEXT] Completed in 48.42s
+2026-03-08 16:43:38,510 | INFO | [TEXT][e20be2ca] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-08 16:43:38,564 | INFO | [TEXT] Decision engine status: ok
+2026-03-08 16:43:44,573 | INFO | [TEXT] Recommended: Sakinalu | Telangana
+2026-03-08 16:43:50,039 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-08 16:43:55,482 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-08 16:43:55,485 | INFO | [TEXT] Completed in 16.98s
+2026-03-09 21:57:06,659 | INFO | [TEXT][0e965026] Incoming request: {'location': 'Jharkhand', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:57:06,668 | INFO | [TEXT] Decision engine status: error
+2026-03-09 21:57:06,669 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-09 21:57:08,838 | INFO | [TEXT][48d3063d] Incoming request: {'location': 'Jharkhand', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:57:08,840 | INFO | [TEXT] Decision engine status: error
+2026-03-09 21:57:08,840 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-09 21:57:09,069 | INFO | [TEXT][bba6a4ea] Incoming request: {'location': 'Jharkhand', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:57:09,070 | INFO | [TEXT] Decision engine status: error
+2026-03-09 21:57:09,071 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-09 21:57:29,770 | INFO | [TEXT][ec5de790] Incoming request: {'location': 'Jharkhand', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:57:29,771 | INFO | [TEXT] Decision engine status: error
+2026-03-09 21:57:29,772 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-09 21:57:29,990 | INFO | [TEXT][52ec5480] Incoming request: {'location': 'Jharkhand', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:57:29,992 | INFO | [TEXT] Decision engine status: error
+2026-03-09 21:57:29,992 | WARNING | [TEXT] Engine failed: {'status': 'error', 'reason': 'invalid_location'}
+2026-03-09 21:58:31,010 | INFO | [TEXT][6f19542b] Incoming request: {'location': 'Manipur', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:58:31,061 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 21:58:31,249 | INFO | [TEXT][a158ce7e] Incoming request: {'location': 'Manipur', 'course': 'main course', 'taste': 'Spicy', 'diet': 'Vegetarian'}
+2026-03-09 21:58:31,298 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 21:58:39,145 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-09 21:58:39,184 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-09 21:58:41,426 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-09 21:58:41,475 | INFO | [TEXT] Recommended: Malpua | Haryana
+2026-03-09 21:58:46,763 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-09 21:58:46,764 | INFO | [TEXT] Completed in 15.75s
+2026-03-09 21:58:46,805 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-09 21:58:46,806 | INFO | [TEXT] Completed in 15.56s
+2026-03-09 22:00:45,345 | INFO | [TEXT][19714107] Incoming request: {'location': 'Manipur', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-09 22:00:45,436 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:00:49,031 | INFO | [TEXT] Recommended: Singju | Manipur
+2026-03-09 22:00:50,871 | INFO | [TEXT] Recommended: Kangshoi | Manipur
+2026-03-09 22:00:52,068 | INFO | [TEXT] Recommended: Ooti | Manipur
+2026-03-09 22:00:52,068 | INFO | [TEXT] Completed in 6.72s
+2026-03-09 22:36:48,961 | INFO | [TEXT][92e871ff] Incoming request: {'location': 'Bihar', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-09 22:36:49,077 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:36:54,454 | INFO | [TEXT] Recommended: Mutton Taash | Bihar
+2026-03-09 22:36:54,455 | INFO | [TEXT] Completed in 5.49s
+2026-03-09 22:37:28,519 | INFO | [TEXT][3a784db3] Incoming request: {'location': 'Bihar', 'course': 'main course', 'taste': 'sweet', 'diet': None}
+2026-03-09 22:37:28,591 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:37:34,456 | INFO | [TEXT] Recommended: Litti Chokha | Bihar
+2026-03-09 22:37:36,212 | INFO | [TEXT] Recommended: Khichdi | Bihar
+2026-03-09 22:37:37,884 | INFO | [TEXT] Recommended: Dal Pitha | Bihar
+2026-03-09 22:37:37,885 | INFO | [TEXT] Completed in 9.37s
+2026-03-09 22:38:13,874 | INFO | [TEXT][7839a7c7] Incoming request: {'location': 'Bihar', 'course': 'main course', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 22:38:13,947 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:38:17,926 | INFO | [TEXT] Recommended: Khichdi | Bihar
+2026-03-09 22:38:19,957 | INFO | [TEXT] Recommended: Litti Chokha | Bihar
+2026-03-09 22:38:21,684 | INFO | [TEXT] Recommended: Kadhi Badi | Bihar
+2026-03-09 22:38:21,685 | INFO | [TEXT] Completed in 7.81s
+2026-03-09 22:38:51,758 | INFO | [TEXT][e34cce8c] Incoming request: {'location': 'Telengana', 'course': 'main course', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 22:38:51,829 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:38:56,690 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-09 22:38:58,416 | INFO | [TEXT] Recommended: Sakinalu | Telangana
+2026-03-09 22:39:00,226 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-09 22:39:00,226 | INFO | [TEXT] Completed in 8.47s
+2026-03-09 22:40:23,092 | INFO | [TEXT][82534871] Incoming request: {'location': 'Bihar', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 22:40:23,170 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 22:40:27,740 | INFO | [TEXT] Recommended: Malpua | Bihar
+2026-03-09 22:40:37,290 | INFO | [TEXT] Recommended: Balushahi | Bihar
+2026-03-09 22:40:37,293 | INFO | [TEXT] Completed in 14.20s
+2026-03-09 23:23:48,853 | INFO | [TEXT][16b8bf69] Incoming request: {'location': 'Telegana', 'course': 'main course', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 23:23:49,001 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 23:23:49,102 | INFO | [TEXT][5db46bbf] Incoming request: {'location': 'Telegana', 'course': 'main course', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 23:23:49,764 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 23:23:55,626 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-09 23:23:55,649 | INFO | [TEXT] Recommended: Mirchi Ka Salan | Telangana
+2026-03-09 23:23:59,207 | INFO | [TEXT] Recommended: Sakinalu | Telangana
+2026-03-09 23:23:59,250 | INFO | [TEXT] Recommended: Sakinalu | Telangana
+2026-03-09 23:24:04,304 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-09 23:24:04,306 | INFO | [TEXT] Completed in 15.45s
+2026-03-09 23:24:04,428 | INFO | [TEXT] Recommended: Bagara Baingan | Telangana
+2026-03-09 23:24:04,429 | INFO | [TEXT] Completed in 15.33s
+2026-03-09 23:27:39,709 | INFO | [TEXT][14419bb3] Incoming request: {'location': 'Telangana', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 23:27:39,803 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 23:27:44,861 | INFO | [TEXT] Recommended: Garijalu (Kajjikaya) | Telangana
+2026-03-09 23:27:46,711 | INFO | [TEXT] Recommended: Qubani Ka Meetha | Telangana
+2026-03-09 23:27:53,270 | INFO | [TEXT] Recommended: Double Ka Meetha | Telangana
+2026-03-09 23:27:53,272 | INFO | [TEXT] Completed in 13.56s
+2026-03-09 23:33:08,934 | INFO | [TEXT][270e64c9] Incoming request: {'location': 'Telengana', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-09 23:33:08,992 | INFO | [TEXT] Decision engine status: ok
+2026-03-09 23:33:15,805 | INFO | [TEXT] Recommended: Garijalu (Kajjikaya) | Telangana
+2026-03-09 23:33:18,491 | INFO | [TEXT] Recommended: Qubani Ka Meetha | Telangana
+2026-03-09 23:33:25,050 | INFO | [TEXT] Recommended: Double Ka Meetha | Telangana
+2026-03-09 23:33:25,054 | INFO | [TEXT] Completed in 16.12s
+2026-03-10 00:49:12,128 | INFO | [TEXT][5044c0d7] Incoming request: {'location': 'North-East', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-10 00:49:12,247 | INFO | [TEXT] Decision engine status: ok
+2026-03-10 00:49:13,950 | INFO | [TEXT] Recommended: Singju | Manipur
+2026-03-10 00:49:16,045 | INFO | [TEXT] Recommended: Naga Chili | Nagaland
+2026-03-10 00:49:18,112 | INFO | [TEXT] Recommended: Akini Chokibo | Nagaland
+2026-03-10 00:49:18,113 | INFO | [TEXT] Completed in 5.99s
+2026-03-10 01:20:21,764 | INFO | [TEXT][8fdaf7e6] Incoming request: {'location': 'Delhi', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-10 01:20:21,990 | INFO | [TEXT] Decision engine status: ok
+2026-03-10 01:20:27,599 | INFO | [TEXT] Recommended: Kulfi | Delhi
+2026-03-10 01:20:29,710 | INFO | [TEXT] Recommended: Jalebi | Delhi
+2026-03-10 01:20:29,711 | INFO | [TEXT] Completed in 7.95s
+2026-03-10 01:31:27,990 | INFO | [TEXT][dc1e5c2d] Incoming request: {'location': 'Arunachal Pradesh', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-10 01:31:28,162 | INFO | [TEXT] Decision engine status: ok
+2026-03-10 01:31:34,045 | INFO | [TEXT] Recommended: Khandvi | Gujarat
+2026-03-10 01:31:39,590 | INFO | [TEXT] Recommended: Mutton Samosa | Puducherry
+2026-03-10 01:31:42,932 | INFO | [TEXT] Recommended: Masroshi | Lakshadweep
+2026-03-10 01:31:42,932 | INFO | [TEXT] Completed in 14.94s
+2026-03-10 01:33:19,057 | INFO | [TEXT][e4064936] Incoming request: {'location': 'Arunachal Pradesh', 'course': 'snack', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-10 01:33:19,142 | INFO | [TEXT] Decision engine status: ok
+2026-03-10 01:33:29,503 | INFO | [TEXT] Recommended: Khandvi | Gujarat
+2026-03-10 01:33:38,789 | INFO | [TEXT] Recommended: Masroshi | Lakshadweep
+2026-03-11 00:15:43,558 | INFO | [IMAGE][92013bcc] Image uploaded: 20180909_173015-01.jpeg
+2026-03-11 00:24:02,797 | INFO | [IMAGE][00fa89a4] Image uploaded: 20181123_165619-01.jpeg
+2026-03-11 00:24:29,012 | INFO | [IMAGE][544fec28] Image uploaded: img63.jpg
+2026-03-11 00:24:44,871 | INFO | [IMAGE][544fec28] Completed in 15.86s
+2026-03-11 00:46:31,840 | INFO | [IMAGE][5d9f5b63] Image uploaded: Cameraman.png
+2026-03-11 00:46:58,911 | INFO | [IMAGE][e173fc71] Image uploaded: img67.jpg
+2026-03-11 00:47:17,721 | INFO | [IMAGE][e173fc71] Completed in 18.81s
+2026-03-11 00:47:17,726 | INFO | [IMAGE][f276e893] Image uploaded: img67.jpg
+2026-03-11 00:47:37,639 | INFO | [IMAGE][f276e893] Completed in 19.91s
+2026-03-11 00:55:50,368 | INFO | [IMAGE][4fd3bc9b] Image uploaded: img19.jpg
+2026-03-11 00:56:05,787 | INFO | [IMAGE][4fd3bc9b] Completed in 15.42s
+2026-03-11 00:57:06,716 | INFO | [IMAGE][02abc715] Image uploaded: Cameraman.png
+2026-03-11 00:58:39,437 | INFO | [IMAGE][1fa5690a] Image uploaded: images.jpg
+2026-03-11 00:58:55,918 | INFO | [IMAGE][1fa5690a] Completed in 16.48s
+2026-03-11 00:58:55,923 | INFO | [IMAGE][f0c93274] Image uploaded: images.jpg
+2026-03-11 00:59:14,425 | INFO | [IMAGE][f0c93274] Completed in 18.50s
+2026-03-11 00:59:14,432 | INFO | [IMAGE][a70be4d7] Image uploaded: images.jpg
+2026-03-11 00:59:30,762 | INFO | [IMAGE][a70be4d7] Completed in 16.33s
+2026-03-11 01:01:17,615 | INFO | [IMAGE][c5ae496c] Image uploaded: images.jpg
+2026-03-11 01:01:35,776 | INFO | [IMAGE][c5ae496c] Completed in 18.16s
+2026-03-11 01:01:35,781 | INFO | [IMAGE][e8a9f3f1] Image uploaded: download.jpg
+2026-03-11 01:01:44,991 | INFO | [IMAGE][e8a9f3f1] Completed in 9.21s
+2026-03-11 01:04:17,814 | INFO | [IMAGE][21ebdd84] Image uploaded: download.jpg
+2026-03-11 01:04:50,640 | INFO | [IMAGE][21ebdd84] Completed in 32.83s
+2026-03-11 01:30:24,560 | INFO | [IMAGE][4fef5fe8] Image uploaded: smoked_prawn.jpg
+2026-03-11 01:30:56,348 | INFO | [IMAGE][4fef5fe8] Completed in 31.79s
+2026-03-11 01:36:09,339 | INFO | [IMAGE][bb73919b] Image uploaded: smoked_prawn.jpg
+2026-03-11 01:36:48,797 | INFO | [IMAGE][bb73919b] Completed in 39.46s
+2026-03-11 11:31:23,592 | INFO | [IMAGE][208c6a66] Image uploaded: 1ccc1f7c-35c8-422a-8616-037733e982db.jpg
+2026-03-11 11:33:34,511 | INFO | [IMAGE][22d9dc32] Image uploaded: 196B166B-765F-4CF7-AC05-4389990CB91A.jpg
+2026-03-11 11:33:49,424 | INFO | [IMAGE][22d9dc32] Completed in 14.91s
+2026-03-11 11:34:15,610 | INFO | [IMAGE][45e388ee] Image uploaded: 196B166B-765F-4CF7-AC05-4389990CB91A.jpg
+2026-03-11 11:34:54,230 | INFO | [IMAGE][45e388ee] Completed in 38.62s
+2026-03-11 11:34:54,264 | INFO | [IMAGE][2e8debfb] Image uploaded: IMG_0041.JPEG
+2026-03-11 11:35:03,656 | INFO | [IMAGE][2e8debfb] Completed in 9.39s
+2026-03-11 11:35:39,378 | INFO | [IMAGE][659a113c] Image uploaded: f6e0b861-9475-47cb-b634-26279898888d.jpg
+2026-03-11 11:35:58,407 | INFO | [IMAGE][659a113c] Completed in 19.03s
+2026-03-11 11:38:01,789 | INFO | [IMAGE][17282e0d] Image uploaded: 2EB5FE7A-7C7F-4233-9668-47E4C0CD12E0.jpg
+2026-03-11 11:38:12,880 | INFO | [IMAGE][17282e0d] Completed in 11.09s
+2026-03-11 11:38:36,693 | INFO | [IMAGE][7271c6dc] Image uploaded: 2EB5FE7A-7C7F-4233-9668-47E4C0CD12E0.jpg
+2026-03-11 11:39:05,531 | INFO | [IMAGE][7271c6dc] Completed in 28.84s
+2026-03-11 11:39:18,628 | INFO | [IMAGE][1a241c4c] Image uploaded: IMG_0391.JPEG
+2026-03-11 11:39:29,792 | INFO | [IMAGE][1a241c4c] Completed in 11.16s
+2026-03-11 11:39:40,320 | INFO | [IMAGE][2a771a67] Image uploaded: IMG_0391.JPEG
+2026-03-11 11:40:15,454 | INFO | [IMAGE][2a771a67] Completed in 35.13s
+2026-03-11 11:40:56,364 | INFO | [IMAGE][f20ab1c7] Image uploaded: IMG_3097.JPG
+2026-03-11 11:41:08,878 | INFO | [IMAGE][f20ab1c7] Completed in 12.51s
+2026-03-11 11:52:05,454 | INFO | [IMAGE][595d42d7] Image uploaded: IMG_0041.JPEG
+2026-03-11 11:52:27,331 | INFO | [IMAGE][595d42d7] Completed in 21.88s
+2026-03-11 21:25:43,664 | INFO | [TEXT][52d79d22] Incoming request: {'location': 'Andhra Pradesh', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-11 21:25:44,099 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 21:26:02,228 | INFO | [TEXT] Recommended: Andhra Pulihora | Andhra Pradesh
+2026-03-11 21:26:22,191 | INFO | [TEXT] Recommended: Mirchi Bajji | Andhra Pradesh
+2026-03-11 21:26:45,021 | INFO | [TEXT] Recommended: Pesarattu | Andhra Pradesh
+2026-03-11 21:26:45,022 | INFO | [TEXT] Completed in 61.38s
+2026-03-11 22:39:14,393 | INFO | [TEXT][60b2cf99] Incoming request: {'location': 'Andhra Pradesh', 'course': 'main course', 'taste': 'savory', 'diet': 'meat-based'}
+2026-03-11 22:39:14,555 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 22:39:28,946 | INFO | [TEXT] Recommended: Andhra Chicken Curry | Andhra Pradesh
+2026-03-11 22:39:41,181 | INFO | [TEXT] Recommended: Chepala Pulusu | Andhra Pradesh
+2026-03-11 22:39:54,378 | INFO | [TEXT] Recommended: Gongura Mutton Curry | Andhra Pradesh
+2026-03-11 22:39:54,379 | INFO | [TEXT] Completed in 39.99s
+2026-03-11 22:53:05,460 | INFO | [TEXT][8c45778d] Incoming request: {'location': 'Andhra Pradesh', 'course': 'main course', 'taste': 'savory', 'diet': 'vegetarian'}
+2026-03-11 22:53:05,573 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 22:53:13,402 | INFO | [TEXT] Recommended: Andhra Pulihora | Andhra Pradesh
+2026-03-11 22:53:20,932 | INFO | [TEXT] Recommended: Mirchi Bajji | Andhra Pradesh
+2026-03-11 22:53:27,571 | INFO | [TEXT] Recommended: Pesarattu | Andhra Pradesh
+2026-03-11 22:53:27,572 | INFO | [TEXT] Completed in 22.11s
+2026-03-11 23:08:37,987 | INFO | [TEXT][f3275d1f] Incoming request: {'location': 'Daman & Diu', 'course': 'main course', 'taste': 'savory', 'diet': 'meat-based'}
+2026-03-11 23:08:38,086 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 23:08:50,819 | INFO | [TEXT] Recommended: Cozido | Daman & Diu
+2026-03-11 23:08:54,405 | INFO | [TEXT] Recommended: Chicken Bullet | Daman & Diu
+2026-03-11 23:08:56,112 | INFO | [TEXT] Recommended: Farcha | Daman & Diu
+2026-03-11 23:08:56,113 | INFO | [TEXT] Completed in 18.13s
+2026-03-11 23:10:03,212 | INFO | [TEXT][4e7ad858] Incoming request: {'location': 'Daman & Diu', 'course': 'dessert', 'taste': 'savory', 'diet': 'meat-based'}
+2026-03-11 23:10:03,286 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 23:10:10,981 | INFO | [TEXT] Recommended: Bebinca | Daman & Diu
+2026-03-11 23:10:10,982 | INFO | [TEXT] Completed in 7.77s
+2026-03-11 23:10:51,083 | INFO | [TEXT][5f1ed066] Incoming request: {'location': 'East India', 'course': 'snack', 'taste': 'savory', 'diet': 'meat-based'}
+2026-03-11 23:10:51,180 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 23:11:00,034 | INFO | [TEXT] Recommended: Mutton Samosa | Puducherry
+2026-03-11 23:11:07,462 | INFO | [TEXT] Recommended: Samosas | Delhi
+2026-03-11 23:11:07,462 | INFO | [TEXT] Completed in 16.38s
+2026-03-11 23:44:12,808 | INFO | [TEXT][fea123b2] Incoming request: {'location': 'North India', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-11 23:44:13,011 | INFO | [TEXT] Decision engine status: ok
+2026-03-11 23:44:13,170 | INFO | [TEXT] Recommended: Hara Choliya Sabzi | Haryana
+2026-03-11 23:44:13,382 | INFO | [TEXT] Recommended: Chole Bhature | Delhi
+2026-03-11 23:44:13,521 | INFO | [TEXT] Recommended: Chole Bhature | Punjab
+2026-03-11 23:44:13,522 | INFO | [TEXT] Completed in 0.72s
+2026-03-12 09:25:23,023 | INFO | [IMAGE][cd36f05c] Image uploaded: IMG_0390.JPEG
+2026-03-12 09:25:24,346 | INFO | [IMAGE][cd36f05c] Completed in 1.32s
+2026-03-13 00:02:21,441 | INFO | [SPEECH][82fdaa3f] Audio received: New Recording 5.m4a.wav
+2026-03-13 00:07:00,524 | INFO | [SPEECH][0bf9c376] Audio received: amma.wav
+2026-03-13 00:16:13,816 | INFO | [SPEECH][cc3a60ed] Audio received: amma.wav
+2026-03-13 00:16:18,405 | INFO | [SPEECH][cc3a60ed] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4867339553946469}
+2026-03-13 00:16:39,505 | INFO | [SPEECH][f747518d] Audio received: New Recording 6.m4a.wav
+2026-03-13 00:16:39,751 | INFO | [SPEECH][f747518d] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.451212048340254}
+2026-03-13 00:17:16,833 | INFO | [SPEECH][44061e73] Audio received: WhatsApp Audio 2026-03-03 at 9.12.40 PM.wav
+2026-03-13 00:17:17,097 | INFO | [SPEECH][44061e73] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.46881281865112695}
+2026-03-13 00:17:46,766 | INFO | [SPEECH][f9a6d4f9] Audio received: test_1.wav
+2026-03-13 00:17:46,796 | INFO | [SPEECH][f9a6d4f9] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4572330367438527}
+2026-03-13 00:18:17,067 | INFO | [SPEECH][eeedb734] Audio received: WhatsApp Audio 2026-03-03 at 2.06.06 AM.wav
+2026-03-13 00:18:17,385 | INFO | [SPEECH][eeedb734] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4892603938605133}
+2026-03-13 00:18:49,141 | INFO | [SPEECH][cebbbbf8] Audio received: WhatsApp Audio 2026-03-03 at 2.09.58 AM.wav
+2026-03-13 00:18:50,245 | INFO | [SPEECH][cebbbbf8] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4575419437913994}
+2026-03-13 00:19:14,470 | INFO | [SPEECH][b54bf6ec] Audio received: Recording 2 copy.m4a.wav
+2026-03-13 00:19:14,518 | INFO | [SPEECH][b54bf6ec] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.48788743862670536}
+2026-03-13 00:19:45,205 | INFO | [SPEECH][97c5c348] Audio received: New Recording 14 copy.m4a (1).wav
+2026-03-13 00:19:45,249 | INFO | [SPEECH][97c5c348] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.47925286090827834}
+2026-03-13 00:20:19,574 | INFO | [SPEECH][68fd75fb] Audio received: train_telugumale_00039.wav
+2026-03-13 00:20:19,646 | INFO | [SPEECH][68fd75fb] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4805364927876295}
+2026-03-13 06:36:08,486 | INFO | [SPEECH][45b48461] Audio received: train_telugumale_00144.wav
+2026-03-13 06:36:15,313 | INFO | [SPEECH][45b48461] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4743563821106}
+2026-03-13 06:36:56,886 | INFO | [SPEECH][1bdd30c5] Audio received: WhatsApp Audio 2026-03-03 at 4.19.07 PM.wav
+2026-03-13 06:36:57,377 | INFO | [SPEECH][1bdd30c5] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4681201630794771}
+2026-03-13 12:24:55,354 | INFO | [SPEECH][cc2bc2a1] Audio received: blob
+2026-03-13 12:25:16,610 | INFO | [SPEECH][15423d05] Audio received: blob
+2026-03-13 16:58:21,966 | INFO | [SPEECH][c115bd79] Audio received: blob
+2026-03-13 16:58:27,931 | INFO | [SPEECH][c115bd79] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4604618808014214}
+2026-03-13 16:58:29,587 | INFO | [SPEECH][e697e98b] Audio received: blob
+2026-03-13 16:58:29,713 | INFO | [SPEECH][e697e98b] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4541545735300913}
+2026-03-13 17:14:39,997 | INFO | [SPEECH][fdd8560e] Audio received: blob
+2026-03-13 17:14:40,116 | INFO | [SPEECH][fdd8560e] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.46529576348518026}
+2026-03-13 18:56:20,346 | INFO | [SPEECH][0e547979] Audio received: blob
+2026-03-13 18:56:20,483 | INFO | [SPEECH][0e547979] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4915233193397979}
+2026-03-13 18:56:41,173 | INFO | [SPEECH][c8637d85] Audio received: blob
+2026-03-13 18:56:41,283 | INFO | [SPEECH][c8637d85] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.47638695143565457}
+2026-03-13 19:03:42,938 | INFO | [SPEECH][345d1dd1] Audio received: blob
+2026-03-13 19:03:43,094 | INFO | [SPEECH][345d1dd1] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4727198297853106}
+2026-03-13 19:08:26,008 | INFO | [SPEECH][47de8463] Audio received: blob
+2026-03-13 19:08:26,138 | INFO | [SPEECH][47de8463] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.47418090843427235}
+2026-03-13 19:08:31,085 | INFO | [SPEECH_CONFIRM][bac907ff] Completed in 0.46s
+2026-03-13 19:08:50,893 | INFO | [TEXT][82724d30] Incoming request: {'location': 'East India', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-13 19:08:50,965 | INFO | [TEXT] Decision engine status: ok
+2026-03-13 19:08:51,002 | INFO | [TEXT] Recommended: Balushahi | Bihar
+2026-03-13 19:08:51,117 | INFO | [TEXT] Recommended: Rasabali | Odisha
+2026-03-13 19:08:51,173 | INFO | [TEXT] Recommended: Chhena Jhili | Odisha
+2026-03-13 19:08:51,174 | INFO | [TEXT] Completed in 0.28s
+2026-03-13 19:09:17,050 | INFO | [SPEECH][2327ac39] Audio received: blob
+2026-03-13 19:09:17,205 | INFO | [SPEECH][2327ac39] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4811699648777727}
+2026-03-13 19:09:24,252 | INFO | [SPEECH_CONFIRM][7481de19] Completed in 0.30s
+2026-03-13 19:22:29,459 | INFO | [SPEECH][8c8fcb09] Audio received: blob
+2026-03-13 19:22:34,807 | INFO | [SPEECH][8c8fcb09] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.48037079361043983}
+2026-03-13 19:26:38,060 | INFO | [SPEECH][4f145343] Audio received: blob
+2026-03-13 19:26:38,258 | INFO | [SPEECH][4f145343] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.47533824908583183}
+2026-03-13 19:33:06,374 | INFO | [SPEECH][fc58dae4] Audio received: blob
+2026-03-13 19:33:06,501 | INFO | [SPEECH][fc58dae4] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4614352623032087}
+2026-03-13 19:35:01,295 | INFO | [SPEECH][7a6f2359] Audio received: blob
+2026-03-13 19:35:01,429 | INFO | [SPEECH][7a6f2359] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.46189747578205076}
+2026-03-13 19:50:17,259 | INFO | [SPEECH][a840d7e6] Audio received: blob
+2026-03-13 19:50:17,418 | INFO | [SPEECH][a840d7e6] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4770476153986287}
+2026-03-13 22:19:25,060 | INFO | [SPEECH][8296fdbe] Audio received: blob
+2026-03-13 22:19:25,273 | INFO | [SPEECH][8296fdbe] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4599689488141513}
+2026-03-13 22:20:12,608 | INFO | [SPEECH][edb4cdd3] Audio received: blob
+2026-03-13 22:20:12,773 | INFO | [SPEECH][edb4cdd3] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.46381445650343645}
+2026-03-13 22:21:10,861 | INFO | [SPEECH][6e61c609] Audio received: blob
+2026-03-13 22:21:10,977 | INFO | [SPEECH][6e61c609] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.45479664974662165}
+2026-03-13 22:21:14,804 | INFO | [SPEECH][d95aa0de] Audio received: blob
+2026-03-13 22:21:14,973 | INFO | [SPEECH][d95aa0de] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.4616448670346914}
+2026-03-14 00:03:07,038 | INFO | [SPEECH][c39bf23f] Audio received: blob
+2026-03-14 00:03:13,522 | INFO | [SPEECH][c39bf23f] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7668746458727922, 'probabilities': [0.03111173873584482, 0.7668746458727922, 0.11826026360456202, 0.08375335178680095]}
+2026-03-14 00:04:08,041 | INFO | [SPEECH][f1c11aeb] Audio received: amma.wav
+2026-03-14 00:04:08,256 | INFO | [SPEECH][f1c11aeb] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7679058797490403, 'probabilities': [0.03056151805539825, 0.7679058797490403, 0.11905933812633772, 0.08247326406922367]}
+2026-03-14 00:04:48,728 | INFO | [SPEECH][550b38f1] Audio received: WhatsApp Audio 2026-03-03 at 9.12.40 PM.wav
+2026-03-14 00:04:49,005 | INFO | [SPEECH][550b38f1] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7663167880270276, 'probabilities': [0.031192448281324368, 0.7663167880270276, 0.11857700544071037, 0.0839137582509378]}
+2026-03-14 00:06:42,583 | INFO | [SPEECH][37d3d1e0] Audio received: New Recording 6.m4a.wav
+2026-03-14 00:06:42,867 | INFO | [SPEECH][37d3d1e0] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7668744663653727, 'probabilities': [0.031111772654619986, 0.7668744663653727, 0.11826034678141661, 0.08375341419859092]}
+2026-03-14 00:07:14,901 | INFO | [SPEECH][757d9e83] Audio received: train_tamilmale_00356.wav
+2026-03-14 00:07:14,962 | INFO | [SPEECH][757d9e83] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7668749250657002, 'probabilities': [0.03111169431030796, 0.7668749250657002, 0.11826007398335339, 0.08375330664063814]}
+2026-03-14 14:20:40,739 | INFO | [SPEECH][3bd96011] Audio received: train_tamilfemale_00142.wav
+2026-03-14 14:20:48,917 | INFO | [SPEECH][3bd96011] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7668746458727922, 'probabilities': [0.03111173873584482, 0.7668746458727922, 0.11826026360456202, 0.08375335178680095]}
+2026-03-14 16:00:09,990 | INFO | [SPEECH][1b43539a] Audio received: train_telugumale_01171.wav
+2026-03-14 16:00:18,367 | INFO | [SPEECH][1b43539a] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7703217312409826, 'probabilities': [0.030120956288599114, 0.7703217312409826, 0.11757803159880682, 0.0819792808716114]}
+2026-03-14 16:24:27,621 | INFO | [SPEECH][d51e3994] Audio received: train_telugumale_02606.wav
+2026-03-14 16:24:34,574 | INFO | [SPEECH][d51e3994] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.9577137371277739, 'probabilities': [0.012237908215208, 0.9577137371277739, 0.017905663461047255, 0.012142691195970787]}
+2026-03-14 16:43:35,730 | INFO | [SPEECH][e5f0e3e8] Audio received: train_telugufemale_00057.wav
+2026-03-14 16:43:41,144 | INFO | [SPEECH][e5f0e3e8] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.958734894317798, 'probabilities': [0.01170219118463925, 0.958734894317798, 0.01820091185923587, 0.011362002638326771]}
+2026-03-14 16:44:21,578 | INFO | [SPEECH][05241a84] Audio received: train_malayalammale_03217.wav
+2026-03-14 16:44:21,644 | INFO | [SPEECH][05241a84] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.957713044935376, 'probabilities': [0.012238181847531194, 0.957713044935376, 0.017905851938270653, 0.012142921278822074]}
+2026-03-14 16:45:56,161 | INFO | [SPEECH][f965e0aa] Audio received: train_tamilfemale_06112.wav
+2026-03-14 16:45:56,233 | INFO | [SPEECH][f965e0aa] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.9577130313784135, 'probabilities': [0.012238185474289242, 0.9577130313784135, 0.017905853876498977, 0.012142929270798597]}
+2026-03-14 16:47:08,391 | INFO | [SPEECH][b1e374b1] Audio received: train_kannadafullmale_03544.wav
+2026-03-14 16:47:08,501 | INFO | [SPEECH][b1e374b1] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.9577130449354243, 'probabilities': [0.012238181847514544, 0.9577130449354243, 0.017905851938251217, 0.012142921278810075]}
+2026-03-14 17:17:17,352 | INFO | [SPEECH][ef9f2160] Audio received: train_tamilmale_06453.wav
+2026-03-14 17:17:22,589 | INFO | [SPEECH][ef9f2160] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7040537451586457, 'probabilities': [0.035575614388215125, 0.7040537451586457, 0.19810465925565096, 0.062265981197488045]}
+2026-03-14 17:32:24,605 | INFO | [SPEECH][338b0171] Audio received: amma.wav
+2026-03-14 17:32:30,294 | INFO | [SPEECH][338b0171] Raw prediction: {'language': np.str_('Telugu'), 'confidence': 0.3175, 'probabilities': [0.245, 0.31, 0.1275, 0.3175]}
+2026-03-14 17:33:47,776 | INFO | [SPEECH][af86a169] Audio received: train_tamilfemale_00518.wav
+2026-03-14 17:33:47,898 | INFO | [SPEECH][af86a169] Raw prediction: {'language': np.str_('Kannada'), 'confidence': 0.455, 'probabilities': [0.455, 0.215, 0.1925, 0.1375]}
+2026-03-14 18:14:49,111 | INFO | [SPEECH][05695654] Audio received: New Recording 6.m4a.wav
+2026-03-14 18:20:56,367 | INFO | [SPEECH][49fa6d12] Audio received: amma.wav
+2026-03-14 18:21:04,535 | INFO | [SPEECH][49fa6d12] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.31, 'probabilities': [0.2525, 0.31, 0.1425, 0.295]}
+2026-03-14 18:22:06,746 | INFO | [SPEECH][14fbd042] Audio received: WhatsApp Audio 2026-03-03 at 2.06.06 AM.wav
+2026-03-14 18:22:10,195 | INFO | [SPEECH][14fbd042] Raw prediction: {'language': np.str_('Kannada'), 'confidence': 0.3725, 'probabilities': [0.3725, 0.195, 0.155, 0.2775]}
+2026-03-14 18:53:09,426 | INFO | [SPEECH][4ae24f1c] Audio received: myself2.wav
+2026-03-14 18:53:11,950 | INFO | [SPEECH][4ae24f1c] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.3525, 'probabilities': [0.125, 0.315, 0.3525, 0.2075]}
+2026-03-14 18:53:28,367 | INFO | [SPEECH][43747219] Audio received: kumari.wav
+2026-03-14 18:53:29,758 | INFO | [SPEECH][43747219] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.6025, 'probabilities': [0.1725, 0.6025, 0.1025, 0.1225]}
+2026-03-14 18:54:35,691 | INFO | [SPEECH][e4e616cd] Audio received: hono.wav
+2026-03-14 18:54:40,095 | INFO | [SPEECH][e4e616cd] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.395, 'probabilities': [0.1275, 0.395, 0.175, 0.3025]}
+2026-03-14 19:16:10,507 | INFO | [SPEECH][c71c3a82] Audio received: das.wav
+2026-03-14 19:34:05,992 | INFO | [SPEECH][055dc388] Audio received: hono.wav
+2026-03-14 19:34:18,181 | INFO | [SPEECH][055dc388] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.3281818181818182, 'probabilities': [0.15206818181818188, 0.3281818181818182, 0.2975909090909091, 0.22215909090909075]}
+2026-03-14 21:42:19,992 | INFO | [SPEECH][edd0ec22] Audio received: das.wav
+2026-03-14 21:42:25,005 | INFO | [SPEECH][edd0ec22] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.3978125, 'alternatives': ['Kannada', 'Tamil'], 'probabilities': [0.2371875, 0.1984375, 0.3978125, 0.1665625]}
+2026-03-14 21:48:13,834 | INFO | [SPEECH][bd58824b] Audio received: kumari.wav
+2026-03-14 21:48:21,052 | INFO | [SPEECH][bd58824b] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.3352631578947369, 'alternatives': ['Tamil', 'Malayalam'], 'probabilities': [0.2420394736842106, 0.3352631578947369, 0.3203947368421053, 0.10230263157894737]}
+2026-03-14 21:59:35,393 | INFO | [SPEECH][78646509] Audio received: amma.wav
+2026-03-14 21:59:40,294 | INFO | [SPEECH][78646509] Raw prediction: {'language': np.str_('Kannada'), 'confidence': 0.3008152173913043, 'alternatives': ['Tamil', 'Kannada'], 'probabilities': [0.3008152173913043, 0.2622826086956522, 0.28782608695652184, 0.14907608695652175]}
+2026-03-14 22:44:52,212 | INFO | [SPEECH][60ab5b1c] Audio received: kannada.wav
+2026-03-14 22:47:49,196 | INFO | [SPEECH][fcb61e70] Audio received: kannada.wav
+2026-03-14 23:01:02,662 | INFO | [SPEECH][2c6940c9] Audio received: kannada.wav
+2026-03-14 23:24:10,024 | INFO | [SPEECH][20c568bd] Audio received: kannada.wav
+2026-03-14 23:36:39,762 | INFO | [SPEECH][1e5d2ff3] Audio received: kumari.wav
+2026-03-14 23:36:47,828 | INFO | [SPEECH][1e5d2ff3] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.5271333456039429, 'alternatives': ['Tamil', 'Malayalam'], 'probabilities': [0.2021261751651764, 0.5271333456039429, 0.24933969974517822, 0.021400678902864456]}
+2026-03-14 23:37:13,842 | INFO | [SPEECH][f37ac376] Audio received: lal.wav
+2026-03-14 23:37:14,444 | INFO | [SPEECH][f37ac376] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.5065276622772217, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.07947597652673721, 0.37658438086509705, 0.5065276622772217, 0.03741203621029854]}
+2026-03-14 23:37:44,085 | INFO | [SPEECH][0158f523] Audio received: kannada.wav
+2026-03-14 23:37:52,131 | INFO | [SPEECH][0158f523] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.7499938607215881, 'alternatives': ['Kannada', 'Tamil'], 'probabilities': [0.10749998688697815, 0.0786237046122551, 0.7499938607215881, 0.06388247013092041]}
+2026-03-14 23:51:50,154 | INFO | [SPEECH][6200a11b] Audio received: appa.wav
+2026-03-14 23:52:02,609 | INFO | [SPEECH][6200a11b] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.38198554515838623, 'alternatives': ['Telugu', 'Tamil'], 'probabilities': [0.22392523288726807, 0.15641120076179504, 0.38198554515838623, 0.2376781851053238]}
+2026-03-14 23:52:33,552 | INFO | [SPEECH][9d71912d] Audio received: hono.wav
+2026-03-14 23:52:47,759 | INFO | [SPEECH][9d71912d] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.5347207188606262, 'alternatives': ['Telugu', 'Malayalam'], 'probabilities': [0.019708290696144104, 0.5347207188606262, 0.21581558883190155, 0.22975540161132812]}
+2026-03-14 23:53:10,950 | INFO | [SPEECH][55a064b9] Audio received: myself.wav
+2026-03-14 23:53:11,088 | INFO | [SPEECH][55a064b9] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.6994637846946716, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.05297372117638588, 0.2046772539615631, 0.6994637846946716, 0.042885225266218185]}
+2026-03-14 23:53:25,022 | INFO | [SPEECH][2671f036] Audio received: myself2.wav
+2026-03-14 23:53:32,669 | INFO | [SPEECH][2671f036] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.7550759315490723, 'alternatives': ['Telugu', 'Tamil'], 'probabilities': [0.06257707625627518, 0.07618419080972672, 0.7550759315490723, 0.10616278648376465]}
+2026-03-15 01:23:13,457 | INFO | [SPEECH][c84c7f19] Audio received: blob
+2026-03-15 01:23:18,711 | INFO | [SPEECH][c84c7f19] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.934831976890564, 'alternatives': ['Kannada', 'Malayalam'], 'probabilities': [0.05337678641080856, 0.934831976890564, 0.006654324941337109, 0.005136985797435045]}
+2026-03-15 01:23:34,033 | INFO | [SPEECH][ef3126e1] Audio received: blob
+2026-03-15 01:23:34,172 | INFO | [SPEECH][ef3126e1] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.46293771266937256, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.14495529234409332, 0.2885388135910034, 0.46293771266937256, 0.1035681664943695]}
+2026-03-15 01:25:15,464 | INFO | [SPEECH][a08a0ab8] Audio received: blob
+2026-03-15 01:25:15,613 | INFO | [SPEECH][a08a0ab8] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.3378525376319885, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.24112138152122498, 0.2728118896484375, 0.3378525376319885, 0.1482142060995102]}
+2026-03-15 01:31:33,328 | INFO | [SPEECH][5bc3370d] Audio received: blob
+2026-03-15 01:31:33,418 | INFO | [SPEECH][5bc3370d] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 01:32:07,188 | INFO | [SPEECH][cc0331d4] Audio received: blob
+2026-03-15 01:32:07,283 | INFO | [SPEECH][cc0331d4] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 01:32:21,981 | INFO | [SPEECH][b41344d0] Audio received: blob
+2026-03-15 01:32:22,110 | INFO | [SPEECH][b41344d0] Raw prediction: {'language': np.str_('Telugu'), 'confidence': 0.48542729020118713, 'alternatives': ['Malayalam', 'Telugu'], 'probabilities': [0.0820729210972786, 0.38838815689086914, 0.04411158710718155, 0.48542729020118713]}
+2026-03-15 01:33:42,004 | INFO | [SPEECH][782e40a6] Audio received: blob
+2026-03-15 01:33:42,143 | INFO | [SPEECH][782e40a6] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.6707327961921692, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.06527283042669296, 0.1539456695318222, 0.6707327961921692, 0.11004874110221863]}
+2026-03-15 02:25:52,482 | INFO | [SPEECH][1f476ddb] Audio received: blob
+2026-03-15 02:25:59,589 | INFO | [SPEECH][1f476ddb] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.49868345260620117, 'alternatives': ['Malayalam', 'Tamil'], 'probabilities': [0.2060900777578354, 0.2214832454919815, 0.49868345260620117, 0.07374321669340134]}
+2026-03-15 02:28:53,162 | INFO | [SPEECH][16a6da1c] Audio received: blob
+2026-03-15 02:28:53,296 | INFO | [SPEECH][16a6da1c] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 02:29:35,586 | INFO | [SPEECH][c840b153] Audio received: blob
+2026-03-15 02:29:36,012 | INFO | [SPEECH][c840b153] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.3725561201572418, 'alternatives': ['Tamil', 'Malayalam'], 'probabilities': [0.18975014984607697, 0.3725561201572418, 0.37098821997642517, 0.06670548766851425]}
+2026-03-15 03:20:34,543 | INFO | [SPEECH][febc5b43] Audio received: blob
+2026-03-15 03:20:38,118 | INFO | [SPEECH][febc5b43] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 03:21:00,360 | INFO | [SPEECH][9d6dc8c4] Audio received: blob
+2026-03-15 03:21:00,816 | INFO | [SPEECH][9d6dc8c4] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 03:22:41,675 | INFO | [SPEECH][f710b9e5] Audio received: blob
+2026-03-15 03:22:42,032 | INFO | [SPEECH][f710b9e5] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.6114516258239746, 'alternatives': ['Tamil', 'Malayalam'], 'probabilities': [0.09289824962615967, 0.6114516258239746, 0.1649899184703827, 0.1306602656841278], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-15 13:57:53,077 | INFO | [TEXT][130d7dc8] Incoming request: {'location': 'Gujarat', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-15 13:57:53,262 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 13:57:53,377 | INFO | [TEXT] Recommended: Dhokla | Gujarat
+2026-03-15 13:57:53,417 | INFO | [TEXT] Recommended: Fafda Jalebi | Gujarat
+2026-03-15 13:57:53,419 | INFO | [TEXT] Completed in 0.34s
+2026-03-15 13:58:34,628 | INFO | [TEXT][fa831e5e] Incoming request: {'location': 'Gujarat', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-15 13:58:34,825 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 13:58:40,931 | INFO | [TEXT] Recommended: Sa-um | Mizoram
+2026-03-15 13:58:42,734 | INFO | [TEXT] Recommended: Eromba | Manipur
+2026-03-15 13:58:45,452 | INFO | [TEXT] Recommended: Ngari | Manipur
+2026-03-15 13:58:45,455 | INFO | [TEXT] Completed in 10.83s
+2026-03-15 14:09:15,424 | INFO | [TEXT][17dd1c96] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-15 14:09:15,534 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 14:09:15,609 | INFO | [TEXT] Recommended: Bhopali Gosht Korma | Madhya Pradesh
+2026-03-15 14:09:15,611 | INFO | [TEXT] Completed in 0.19s
+2026-03-15 14:14:39,488 | INFO | [TEXT][40218592] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-15 14:14:39,557 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 14:14:39,709 | INFO | [TEXT] Recommended: Poha | Madhya Pradesh
+2026-03-15 14:14:39,790 | INFO | [TEXT] Recommended: Palak Puri | Madhya Pradesh
+2026-03-15 14:14:39,917 | INFO | [TEXT] Recommended: Sabudana Khichdi | Madhya Pradesh
+2026-03-15 14:14:39,919 | INFO | [TEXT] Completed in 0.43s
+2026-03-15 14:17:24,300 | INFO | [TEXT][925248b4] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-15 14:17:24,387 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 14:17:24,491 | INFO | [TEXT] Recommended: Poha | Madhya Pradesh
+2026-03-15 14:17:24,582 | INFO | [TEXT] Recommended: Palak Puri | Madhya Pradesh
+2026-03-15 14:17:24,652 | INFO | [TEXT] Recommended: Sabudana Khichdi | Madhya Pradesh
+2026-03-15 14:17:24,654 | INFO | [TEXT] Completed in 0.35s
+2026-03-15 14:17:31,203 | INFO | [TEXT][e543f57e] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-15 14:17:31,280 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 14:17:31,312 | INFO | [TEXT] Recommended: Poha | Madhya Pradesh
+2026-03-15 14:17:31,427 | INFO | [TEXT] Recommended: Palak Puri | Madhya Pradesh
+2026-03-15 14:17:31,463 | INFO | [TEXT] Recommended: Sabudana Khichdi | Madhya Pradesh
+2026-03-15 14:17:31,463 | INFO | [TEXT] Completed in 0.26s
+2026-03-15 15:36:36,069 | INFO | [SPEECH][9b062c11] Audio received: blob
+2026-03-15 15:36:45,589 | INFO | [SPEECH][9b062c11] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7456690669059753, 'alternatives': ['Kannada', 'Malayalam'], 'probabilities': [0.12808021903038025, 0.7456690669059753, 0.0970948114991188, 0.029155908152461052], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-15 15:52:48,306 | INFO | [SPEECH][7bd4adfd] Audio received: blob
+2026-03-15 15:52:54,769 | INFO | [SPEECH][7bd4adfd] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 15:53:41,895 | INFO | [SPEECH][b99fdff0] Audio received: blob
+2026-03-15 16:04:05,662 | INFO | [SPEECH][56f3cc5e] Audio received: blob
+2026-03-15 16:05:10,115 | INFO | [SPEECH][a89aeff1] Audio received: blob
+2026-03-15 16:05:32,819 | INFO | [SPEECH][2369903c] Audio received: blob
+2026-03-15 16:05:57,981 | INFO | [SPEECH][95681954] Audio received: blob
+2026-03-15 16:05:58,111 | INFO | [SPEECH][95681954] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-15 16:24:34,187 | INFO | [SPEECH][aa218ddb] Audio received: blob
+2026-03-15 16:24:42,577 | INFO | [SPEECH][aa218ddb] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.5557380318641663, 'alternatives': [np.str_('Malayalam'), np.str_('Kannada')], 'probabilities': [0.14028602838516235, 0.265365332365036, 0.5557380318641663, 0.03861060366034508], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-15 16:41:42,709 | INFO | [IMAGE][af767ff2] Image uploaded: Cameraman.png
+2026-03-15 16:42:13,726 | INFO | [IMAGE][d0c0b503] Image uploaded: 20200328_140107.jpg
+2026-03-15 16:42:14,524 | INFO | [IMAGE][d0c0b503] Completed in 0.80s
+2026-03-15 16:42:40,076 | INFO | [TEXT][eb9d0d53] Incoming request: {'location': 'Chandigarh', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-15 16:42:40,115 | INFO | [TEXT] Decision engine status: ok
+2026-03-15 16:42:40,140 | INFO | [TEXT] Recommended: Roh Di Kheer | Chandigarh
+2026-03-15 16:42:40,141 | INFO | [TEXT] Completed in 0.07s
+2026-03-15 16:43:26,780 | INFO | [SPEECH][9bdd154b] Audio received: blob
+2026-03-15 16:43:26,923 | INFO | [SPEECH][9bdd154b] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-16 23:23:15,287 | INFO | [TEXT][3b0b1e29] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:23:15,442 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:23:15,629 | INFO | [TEXT] Recommended: Chakhwi | Tripura
+2026-03-16 23:23:15,722 | INFO | [TEXT] Recommended: Sel Roti | Sikkim
+2026-03-16 23:23:15,821 | INFO | [TEXT] Recommended: Anishi | Nagaland
+2026-03-16 23:23:15,822 | INFO | [TEXT] Completed in 0.54s
+2026-03-16 23:23:30,614 | INFO | [TEXT][1141ef39] Incoming request: {'location': 'North-East India', 'course': 'snack', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:23:30,702 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:23:30,736 | INFO | [TEXT] Recommended: Paknam | Manipur
+2026-03-16 23:23:30,841 | INFO | [TEXT] Recommended: Koat Pitha | Mizoram
+2026-03-16 23:23:30,883 | INFO | [TEXT] Recommended: Pukhlein | Meghalaya
+2026-03-16 23:23:30,884 | INFO | [TEXT] Completed in 0.27s
+2026-03-16 23:23:38,232 | INFO | [TEXT][8fa2bd1f] Incoming request: {'location': 'North-East India', 'course': 'dessert', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:23:38,317 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:23:38,427 | INFO | [TEXT] Recommended: Pitha | Assam
+2026-03-16 23:23:38,496 | INFO | [TEXT] Recommended: Sakin Gata | Meghalaya
+2026-03-16 23:23:38,584 | INFO | [TEXT] Recommended: Pumaloi | Meghalaya
+2026-03-16 23:23:38,585 | INFO | [TEXT] Completed in 0.35s
+2026-03-16 23:23:42,870 | INFO | [TEXT][d245cba3] Incoming request: {'location': 'North-East India', 'course': 'snack', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:23:42,955 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:23:43,027 | INFO | [TEXT] Recommended: Paknam | Manipur
+2026-03-16 23:23:43,093 | INFO | [TEXT] Recommended: Pukhlein | Meghalaya
+2026-03-16 23:23:43,123 | INFO | [TEXT] Recommended: Koat Pitha | Mizoram
+2026-03-16 23:23:43,124 | INFO | [TEXT] Completed in 0.26s
+2026-03-16 23:24:54,991 | INFO | [TEXT][56dd9450] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:24:55,070 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:24:55,105 | INFO | [TEXT] Recommended: Thenthuk | Arunachal Pradesh
+2026-03-16 23:24:55,206 | INFO | [TEXT] Recommended: Zan | Arunachal Pradesh
+2026-03-16 23:24:55,241 | INFO | [TEXT] Recommended: Kinema | Sikkim
+2026-03-16 23:24:55,242 | INFO | [TEXT] Completed in 0.25s
+2026-03-16 23:24:58,707 | INFO | [TEXT][9e0244b4] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:24:58,787 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:24:58,827 | INFO | [TEXT] Recommended: Chakhwi | Tripura
+2026-03-16 23:24:58,941 | INFO | [TEXT] Recommended: Kinema | Sikkim
+2026-03-16 23:24:58,982 | INFO | [TEXT] Recommended: Anishi | Nagaland
+2026-03-16 23:24:58,982 | INFO | [TEXT] Completed in 0.28s
+2026-03-16 23:25:00,986 | INFO | [TEXT][2377a916] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:01,063 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:01,102 | INFO | [TEXT] Recommended: Kosoi Bwtwi | Tripura
+2026-03-16 23:25:01,211 | INFO | [TEXT] Recommended: Chakhwi | Tripura
+2026-03-16 23:25:01,243 | INFO | [TEXT] Recommended: Zan | Arunachal Pradesh
+2026-03-16 23:25:01,243 | INFO | [TEXT] Completed in 0.26s
+2026-03-16 23:25:02,847 | INFO | [TEXT][9432950e] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:02,918 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:03,004 | INFO | [TEXT] Recommended: Kosoi Bwtwi | Tripura
+2026-03-16 23:25:03,095 | INFO | [TEXT] Recommended: Chura Sabzi | Arunachal Pradesh
+2026-03-16 23:25:03,148 | INFO | [TEXT] Recommended: Akini Chokibo | Nagaland
+2026-03-16 23:25:03,149 | INFO | [TEXT] Completed in 0.30s
+2026-03-16 23:25:05,292 | INFO | [TEXT][e9178e02] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:05,370 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:05,477 | INFO | [TEXT] Recommended: Kinema | Sikkim
+2026-03-16 23:25:05,532 | INFO | [TEXT] Recommended: Sha Phaley | Sikkim
+2026-03-16 23:25:05,564 | INFO | [TEXT] Recommended: Anishi | Nagaland
+2026-03-16 23:25:05,564 | INFO | [TEXT] Completed in 0.27s
+2026-03-16 23:25:07,365 | INFO | [TEXT][ee64beef] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:07,459 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:07,494 | INFO | [TEXT] Recommended: Sha Phaley | Sikkim
+2026-03-16 23:25:07,594 | INFO | [TEXT] Recommended: Tungrymbai | Meghalaya
+2026-03-16 23:25:07,630 | INFO | [TEXT] Recommended: Sel Roti | Sikkim
+2026-03-16 23:25:07,631 | INFO | [TEXT] Completed in 0.27s
+2026-03-16 23:25:11,152 | INFO | [TEXT][44d7b647] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:11,251 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:11,370 | INFO | [TEXT] Recommended: Sha Phaley | Sikkim
+2026-03-16 23:25:11,443 | INFO | [TEXT] Recommended: Sel Roti | Sikkim
+2026-03-16 23:25:11,508 | INFO | [TEXT] Recommended: Thenthuk | Arunachal Pradesh
+2026-03-16 23:25:11,509 | INFO | [TEXT] Completed in 0.36s
+2026-03-16 23:25:13,348 | INFO | [TEXT][67cccfe2] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:13,409 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:13,480 | INFO | [TEXT] Recommended: Kosoi Bwtwi | Tripura
+2026-03-16 23:25:13,552 | INFO | [TEXT] Recommended: Akini Chokibo | Nagaland
+2026-03-16 23:25:13,656 | INFO | [TEXT] Recommended: Chakhwi | Tripura
+2026-03-16 23:25:13,657 | INFO | [TEXT] Completed in 0.31s
+2026-03-16 23:25:16,235 | INFO | [TEXT][9d68297e] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:25:16,318 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:25:16,435 | INFO | [TEXT] Recommended: Sha Phaley | Sikkim
+2026-03-16 23:25:16,471 | INFO | [TEXT] Recommended: Zan | Arunachal Pradesh
+2026-03-16 23:25:16,550 | INFO | [TEXT] Recommended: Tungrymbai | Meghalaya
+2026-03-16 23:25:16,553 | INFO | [TEXT] Completed in 0.32s
+2026-03-16 23:26:19,879 | INFO | [TEXT][ab15c242] Incoming request: {'location': 'North India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-16 23:26:19,984 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:26:20,124 | INFO | [TEXT] Recommended: Paneer Tikka | Punjab
+2026-03-16 23:26:20,324 | INFO | [TEXT] Recommended: Bajra Khichdi | Haryana
+2026-03-16 23:26:20,467 | INFO | [TEXT] Recommended: Dubuk | Uttarakhand
+2026-03-16 23:26:20,469 | INFO | [TEXT] Completed in 0.59s
+2026-03-16 23:45:22,524 | INFO | [TEXT][c700bd97] Incoming request: {'location': 'Meghalaya', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-16 23:45:22,748 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:45:25,772 | INFO | [TEXT] Recommended: Pumaloi | Meghalaya
+2026-03-16 23:45:31,770 | INFO | [TEXT] Recommended: Sakin Gata | Meghalaya
+2026-03-16 23:45:31,771 | INFO | [TEXT] Completed in 9.25s
+2026-03-16 23:55:33,109 | INFO | [TEXT][2e15f0c1] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-16 23:55:33,199 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:55:37,464 | INFO | [TEXT] Recommended: Idli | Tamil Nadu
+2026-03-16 23:55:40,629 | INFO | [TEXT] Recommended: Vathakuzhambu | Tamil Nadu
+2026-03-16 23:55:43,467 | INFO | [TEXT] Recommended: Pongal | Tamil Nadu
+2026-03-16 23:55:43,468 | INFO | [TEXT] Completed in 10.36s
+2026-03-16 23:56:16,208 | INFO | [TEXT][05a44f3d] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-16 23:56:16,255 | INFO | [TEXT] Decision engine status: ok
+2026-03-16 23:56:19,455 | INFO | [TEXT] Recommended: Pongal | Tamil Nadu
+2026-03-16 23:56:22,499 | INFO | [TEXT] Recommended: Rasam | Tamil Nadu
+2026-03-16 23:56:23,546 | INFO | [TEXT] Recommended: Dosa | Tamil Nadu
+2026-03-16 23:56:23,547 | INFO | [TEXT] Completed in 7.34s
+2026-03-17 00:07:06,785 | INFO | [TEXT][bb0d1253] Incoming request: {'location': 'Kerala', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-17 00:07:06,865 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 00:07:08,937 | INFO | [TEXT] Recommended: Elai Ada | Kerala
+2026-03-17 00:07:11,022 | INFO | [TEXT] Recommended: Ada Pradhaman | Kerala
+2026-03-17 00:07:11,024 | INFO | [TEXT] Completed in 4.24s
+2026-03-17 00:19:56,211 | INFO | [TEXT][da711121] Incoming request: {'location': 'Madhya Pradesh', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-17 00:19:56,281 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 00:19:58,067 | INFO | [TEXT] Recommended: Poha | Madhya Pradesh
+2026-03-17 00:20:00,077 | INFO | [TEXT] Recommended: Dal Bafla | Madhya Pradesh
+2026-03-17 00:20:02,091 | INFO | [TEXT] Recommended: Sabudana Khichdi | Madhya Pradesh
+2026-03-17 00:20:02,092 | INFO | [TEXT] Completed in 5.88s
+2026-03-17 00:20:34,023 | INFO | [TEXT][87fbf1b4] Incoming request: {'location': 'Lakshadweep', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-17 00:20:34,077 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 00:20:35,698 | INFO | [TEXT] Recommended: Mas Riha | Lakshadweep
+2026-03-17 00:20:38,820 | INFO | [TEXT] Recommended: Fish Curry | Lakshadweep
+2026-03-17 00:20:38,820 | INFO | [TEXT] Completed in 4.80s
+2026-03-17 00:32:46,996 | INFO | [TEXT][e8c0d87c] Incoming request: {'location': 'Gujarat', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-17 00:32:47,116 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 00:32:58,861 | INFO | [TEXT] Recommended: Fafda Jalebi | Gujarat
+2026-03-17 00:33:10,850 | INFO | [TEXT] Recommended: Dhokla | Gujarat
+2026-03-17 00:33:10,853 | INFO | [TEXT] Completed in 23.86s
+2026-03-17 00:34:06,019 | INFO | [TEXT][a28de98d] Incoming request: {'location': 'Uttarakhand', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 00:35:17,640 | INFO | [TEXT][7e399136] Incoming request: {'location': 'Uttarakhand', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 00:35:17,725 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 00:35:24,534 | INFO | [TEXT] Recommended: Jhangora ki Kheer | Uttarakhand
+2026-03-17 00:35:27,223 | INFO | [TEXT] Recommended: Bal Mithai | Uttarakhand
+2026-03-17 00:35:27,224 | INFO | [TEXT] Completed in 9.58s
+2026-03-17 01:30:27,566 | INFO | [TEXT][b652e9e1] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 01:30:28,208 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 01:30:51,673 | INFO | [TEXT] Recommended: Kuzhi Paniyaram | Tamil Nadu
+2026-03-17 01:31:11,890 | INFO | [TEXT] Recommended: Pongal | Tamil Nadu
+2026-03-17 01:31:28,518 | INFO | [TEXT] Recommended: Rasam | Tamil Nadu
+2026-03-17 01:31:28,519 | INFO | [TEXT] Completed in 60.95s
+2026-03-17 01:39:31,684 | INFO | [TEXT][3899cf5a] Incoming request: {'location': 'Bihar', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-17 01:39:31,966 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 01:39:53,541 | INFO | [TEXT] Recommended: Dal Pitha | Bihar
+2026-03-17 01:40:09,566 | INFO | [TEXT] Recommended: Khichdi | Bihar
+2026-03-17 01:40:27,067 | INFO | [TEXT] Recommended: Sattu Paratha | Bihar
+2026-03-17 01:40:27,068 | INFO | [TEXT] Completed in 55.39s
+2026-03-17 02:04:13,018 | INFO | [TEXT][9cff00c5] Incoming request: {'location': 'Rajasthan', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 02:04:13,417 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:04:13,468 | ERROR | [TEXT] Explanation error: name 'text' is not defined
+2026-03-17 02:09:34,616 | INFO | [TEXT][9aee17c9] Incoming request: {'location': 'Rajasthan', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-17 02:09:34,870 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:09:52,726 | INFO | [TEXT] Recommended: Raab | Rajasthan
+2026-03-17 02:10:15,135 | INFO | [TEXT] Recommended: Panchkuta | Rajasthan
+2026-03-17 02:10:37,306 | INFO | [TEXT] Recommended: Ghewar | Rajasthan
+2026-03-17 02:10:37,307 | INFO | [TEXT] Completed in 62.69s
+2026-03-17 02:15:41,503 | INFO | [TEXT][3f673e17] Incoming request: {'location': 'South India', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 02:15:41,764 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:16:04,523 | INFO | [TEXT] Recommended: Bobbatlu | Andhra Pradesh
+2026-03-17 02:16:12,450 | INFO | [TEXT] Recommended: Double Ka Meetha | Telangana
+2026-03-17 02:16:33,905 | INFO | [TEXT] Recommended: Elai Ada | Kerala
+2026-03-17 02:16:33,906 | INFO | [TEXT] Completed in 52.40s
+2026-03-17 02:18:19,862 | INFO | [TEXT][35bd217c] Incoming request: {'location': 'South India', 'course': 'dessert', 'taste': 'sweet', 'diet': 'vegetarian'}
+2026-03-17 02:18:19,914 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:18:31,558 | INFO | [TEXT] Recommended: Double Ka Meetha | Telangana
+2026-03-17 02:19:02,484 | INFO | [TEXT] Recommended: Bobbatlu | Andhra Pradesh
+2026-03-17 02:19:19,377 | INFO | [TEXT] Recommended: Garijalu (Kajjikaya) | Telangana
+2026-03-17 02:19:19,378 | INFO | [TEXT] Completed in 59.52s
+2026-03-17 02:23:43,952 | INFO | [TEXT][999d72e6] Incoming request: {'location': 'Punjab', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 02:24:00,013 | INFO | [TEXT][e40c2d3f] Incoming request: {'location': 'Punjab', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 02:24:04,808 | INFO | [TEXT][007b8417] Incoming request: {'location': 'Punjab', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 02:24:34,820 | INFO | [TEXT][de6c6bd3] Incoming request: {'location': 'Meghalaya', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 02:24:34,865 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:24:44,059 | INFO | [TEXT] Recommended: Pumaloi | Meghalaya
+2026-03-17 02:24:52,258 | INFO | [TEXT] Recommended: Sakin Gata | Meghalaya
+2026-03-17 02:24:52,258 | INFO | [TEXT] Completed in 17.44s
+2026-03-17 02:26:18,752 | INFO | [TEXT][7a1ecc91] Incoming request: {'location': 'West India', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 02:26:18,783 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:26:28,357 | INFO | [TEXT] Recommended: Sannas | Goa
+2026-03-17 02:26:43,392 | INFO | [TEXT] Recommended: Modak | Maharashtra
+2026-03-17 02:26:59,994 | INFO | [TEXT] Recommended: Bebinca | Goa
+2026-03-17 02:26:59,995 | INFO | [TEXT] Completed in 41.24s
+2026-03-17 02:27:53,601 | INFO | [TEXT][6798b2a7] Incoming request: {'location': 'Andaman & Nicobar ', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 02:27:53,651 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:28:23,940 | INFO | [TEXT] Recommended: Tuna Pollichathu | Andaman & Nicobar
+2026-03-17 02:28:36,488 | INFO | [TEXT] Recommended: Grilled Lobster | Andaman & Nicobar
+2026-03-17 02:28:59,267 | INFO | [TEXT] Recommended: Squid Fry | Andaman & Nicobar
+2026-03-17 02:28:59,267 | INFO | [TEXT] Completed in 65.67s
+2026-03-17 02:40:09,500 | INFO | [TEXT][3958f5b0] Incoming request: {'location': 'North India', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 02:40:09,546 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:40:23,270 | INFO | [TEXT] Recommended: Samosas | Delhi
+2026-03-17 02:40:23,271 | INFO | [TEXT] Completed in 13.77s
+2026-03-17 02:41:16,783 | INFO | [TEXT][97965bc2] Incoming request: {'location': 'Maharashtra', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 02:41:16,821 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:41:25,156 | INFO | [TEXT] Recommended: Vada Pav | Maharashtra
+2026-03-17 02:41:25,156 | INFO | [TEXT] Completed in 8.37s
+2026-03-17 02:47:32,849 | INFO | [TEXT][3e8b5ced] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 02:47:32,894 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:47:58,318 | INFO | [TEXT] Recommended: Kuzhi Paniyaram | Tamil Nadu
+2026-03-17 02:48:19,894 | INFO | [TEXT] Recommended: Pongal | Tamil Nadu
+2026-03-17 02:48:46,602 | INFO | [TEXT] Recommended: Vathakuzhambu | Tamil Nadu
+2026-03-17 02:48:46,603 | INFO | [TEXT] Completed in 73.75s
+2026-03-17 02:55:17,069 | INFO | [TEXT][3effa56c] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-17 02:55:17,385 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:55:30,188 | INFO | [TEXT] Recommended: Tilgur | Chhattisgarh
+2026-03-17 02:55:38,787 | INFO | [TEXT] Recommended: Fara | Chhattisgarh
+2026-03-17 02:55:47,390 | INFO | [TEXT] Recommended: Palak Puri | Madhya Pradesh
+2026-03-17 02:55:47,390 | INFO | [TEXT] Completed in 30.32s
+2026-03-17 02:57:37,174 | INFO | [TEXT][b4cd7484] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'savoury', 'diet': 'meat-based'}
+2026-03-17 02:57:37,226 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:58:18,142 | INFO | [TEXT] Recommended: Bhopali Gosht Korma | Madhya Pradesh
+2026-03-17 02:58:18,142 | INFO | [TEXT] Completed in 40.97s
+2026-03-17 02:58:56,896 | INFO | [TEXT][ad705435] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-17 02:58:56,948 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 02:59:28,580 | INFO | [TEXT] Recommended: Sabudana Khichdi | Madhya Pradesh
+2026-03-17 02:59:57,508 | INFO | [TEXT] Recommended: Dal Bafla | Madhya Pradesh
+2026-03-17 03:00:20,569 | INFO | [TEXT] Recommended: Chila | Chhattisgarh
+2026-03-17 03:00:20,569 | INFO | [TEXT] Completed in 83.67s
+2026-03-17 03:06:17,064 | INFO | [TEXT][92d67397] Incoming request: {'location': 'Haryana', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 03:06:38,167 | INFO | [TEXT][b2add56d] Incoming request: {'location': 'Haryana', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 03:06:38,236 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 03:07:09,781 | INFO | [TEXT] Recommended: Singri ki Sabzi | Haryana
+2026-03-17 03:07:27,325 | INFO | [TEXT] Recommended: Churma | Haryana
+2026-03-17 03:07:41,017 | INFO | [TEXT] Recommended: Mixed Dal | Haryana
+2026-03-17 03:07:41,018 | INFO | [TEXT] Completed in 62.85s
+2026-03-17 07:51:03,079 | INFO | [TEXT][53a8a749] Incoming request: {'location': 'Odisha', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-17 07:51:03,380 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 07:51:18,937 | INFO | [TEXT] Recommended: Chhena Poda | Odisha
+2026-03-17 07:51:27,835 | INFO | [TEXT] Recommended: Chhena Jhili | Odisha
+2026-03-17 07:51:50,533 | INFO | [TEXT] Recommended: Rasabali | Odisha
+2026-03-17 07:51:50,533 | INFO | [TEXT] Completed in 47.45s
+2026-03-17 10:36:02,005 | INFO | [TEXT][13bf6813] Incoming request: {'location': 'Ladakh', 'course': 'main course', 'taste': 'tangy', 'diet': 'meat-based'}
+2026-03-17 10:36:02,104 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 10:36:27,191 | INFO | [TEXT] Recommended: Thukpa | Ladakh
+2026-03-17 10:36:40,189 | INFO | [TEXT] Recommended: Tigmo | Ladakh
+2026-03-17 10:36:52,601 | INFO | [TEXT] Recommended: Momos | Ladakh
+2026-03-17 10:36:52,602 | INFO | [TEXT] Completed in 50.60s
+2026-03-17 10:40:55,025 | INFO | [SPEECH][b70de83f] Audio received: blob
+2026-03-17 10:41:03,312 | INFO | [SPEECH][b70de83f] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.6624143719673157, 'alternatives': [np.str_('Malayalam'), np.str_('Telugu')], 'probabilities': [0.02514551393687725, 0.2175532579421997, 0.6624143719673157, 0.0948868915438652], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-17 10:43:10,897 | INFO | [SPEECH][b3a66361] Audio received: blob
+2026-03-17 10:43:11,589 | INFO | [SPEECH][b3a66361] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.6357932686805725, 'alternatives': [np.str_('Malayalam'), np.str_('Telugu')], 'probabilities': [0.038788534700870514, 0.1732851266860962, 0.6357932686805725, 0.152133047580719], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-17 10:44:23,392 | INFO | [SPEECH][90e048b5] Audio received: blob
+2026-03-17 10:44:23,998 | INFO | [SPEECH][90e048b5] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.6560379862785339, 'alternatives': [np.str_('Telugu'), np.str_('Malayalam')], 'probabilities': [0.0373995378613472, 0.1312965750694275, 0.6560379862785339, 0.175265833735466], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-17 11:58:36,493 | INFO | [SPEECH][de0ae2d1] Audio received: blob
+2026-03-17 11:58:37,310 | INFO | [SPEECH][de0ae2d1] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.4562855064868927, 'alternatives': [np.str_('Malayalam'), np.str_('Telugu')], 'probabilities': [0.08907061070203781, 0.2908775508403778, 0.4562855064868927, 0.1637662649154663], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-17 15:27:10,432 | INFO | [TEXT][69a6e33e] Incoming request: {'location': 'East India', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 15:27:10,573 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 15:27:27,945 | INFO | [TEXT] Recommended: Thekua | Bihar
+2026-03-17 15:27:27,947 | INFO | [TEXT] Completed in 17.52s
+2026-03-17 15:27:59,644 | INFO | [TEXT][7fe81d53] Incoming request: {'location': 'Chhattisgarh', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-17 15:27:59,743 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 15:29:48,117 | INFO | [TEXT] Recommended: Chana Samosa | Chhattisgarh
+2026-03-17 15:29:48,119 | INFO | [TEXT] Completed in 108.47s
+2026-03-17 15:37:59,117 | INFO | [TEXT][3c04985a] Incoming request: {'location': 'North-East India', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-17 15:37:59,244 | INFO | [TEXT] Decision engine status: ok
+2026-03-17 15:38:14,910 | INFO | [TEXT] Recommended: Sha Phaley | Sikkim
+2026-03-17 15:38:45,384 | INFO | [TEXT] Recommended: Aloo Pitika | Assam
+2026-03-17 15:39:21,424 | INFO | [TEXT] Recommended: Singju | Manipur
+2026-03-17 15:39:21,426 | INFO | [TEXT] Completed in 82.31s
+2026-03-17 19:53:40,055 | INFO | [SPEECH][63c9282a] Audio received: blob
+2026-03-17 19:53:49,483 | INFO | [SPEECH][63c9282a] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-17 19:54:15,111 | INFO | [SPEECH][690b182a] Audio received: blob
+2026-03-17 19:54:18,298 | INFO | [SPEECH][690b182a] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.35689792037010193, 'alternatives': [np.str_('Telugu'), np.str_('Malayalam')], 'probabilities': [0.11111228913068771, 0.22355687618255615, 0.35689792037010193, 0.3084329068660736], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-18 10:31:33,328 | INFO | [TEXT][0ac85fbd] Incoming request: {'location': 'Central India', 'course': 'main course', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-18 10:31:38,407 | INFO | [TEXT] Decision engine status: ok
+2026-03-18 10:31:38,444 | ERROR | [TEXT] Explanation error: name 'data' is not defined
+2026-03-18 10:38:01,655 | INFO | [TEXT][c530875c] Incoming request: {'location': 'South India', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-18 10:38:05,269 | INFO | [TEXT] Decision engine status: ok
+2026-03-18 10:38:25,712 | INFO | [TEXT] Recommended: Double Ka Meetha | Telangana
+2026-03-18 10:38:46,092 | INFO | [TEXT] Recommended: Qubani Ka Meetha | Telangana
+2026-03-18 10:39:09,785 | INFO | [TEXT] Recommended: Bobbatlu | Andhra Pradesh
+2026-03-18 10:39:09,787 | INFO | [TEXT] Completed in 68.13s
+2026-03-18 10:44:50,088 | INFO | [TEXT][6a3493d9] Incoming request: {'location': 'South India', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-18 10:44:51,947 | INFO | [TEXT] Decision engine status: ok
+2026-03-18 10:45:15,898 | INFO | [TEXT] Recommended: Elai Ada | Kerala
+2026-03-18 10:45:48,668 | INFO | [TEXT] Recommended: Ada Pradhaman | Kerala
+2026-03-18 10:46:13,842 | INFO | [TEXT] Recommended: Garijalu (Kajjikaya) | Telangana
+2026-03-18 10:46:13,842 | INFO | [TEXT] Completed in 83.75s
+2026-03-18 11:10:34,811 | INFO | [TEXT][b6060e8c] Incoming request: {'location': 'North-East India', 'course': 'beverage', 'taste': 'savoury', 'diet': 'vegetarian'}
+2026-03-18 11:10:38,693 | INFO | [TEXT] Decision engine status: ok
+2026-03-18 11:10:53,607 | INFO | [TEXT] Recommended: Kyat | Meghalaya
+2026-03-18 11:11:07,355 | INFO | [TEXT] Recommended: Apong | Arunachal Pradesh
+2026-03-18 11:11:20,939 | INFO | [TEXT] Recommended: Zutho | Nagaland
+2026-03-18 11:11:20,939 | INFO | [TEXT] Completed in 46.13s
+2026-03-19 08:36:55,821 | INFO | [TEXT][9aff376b] Incoming request: {'location': 'Himachal Pradesh', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-19 08:37:02,801 | INFO | [TEXT] Decision engine status: ok
+2026-03-19 08:37:56,799 | INFO | [TEXT] Recommended: Mittha | Himachal Pradesh
+2026-03-19 08:37:56,801 | INFO | [TEXT] Completed in 60.99s
+2026-03-19 08:40:49,803 | INFO | [TEXT][f08c8c28] Incoming request: {'location': 'Tamil Nadu', 'course': 'dessert', 'taste': None, 'diet': None}
+2026-03-19 08:41:09,206 | INFO | [TEXT][8d9cd4f1] Incoming request: {'location': 'Tamil Nadu', 'course': 'snack', 'taste': None, 'diet': None}
+2026-03-19 08:41:17,477 | INFO | [TEXT] Decision engine status: ok
+2026-03-19 08:41:40,685 | INFO | [TEXT] Recommended: Kadalai Mittai | Tamil Nadu
+2026-03-19 08:41:56,129 | INFO | [TEXT] Recommended: Vadai | Tamil Nadu
+2026-03-19 08:42:23,635 | INFO | [TEXT] Recommended: Adhirasam | Tamil Nadu
+2026-03-19 08:42:23,636 | INFO | [TEXT] Completed in 74.43s
+2026-03-19 08:44:25,821 | INFO | [TEXT][1ea587fc] Incoming request: {'location': 'Tamil Nadu', 'course': 'main course', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-19 08:44:41,629 | INFO | [TEXT] Decision engine status: ok
+2026-03-19 08:45:09,550 | INFO | [TEXT] Recommended: Dosa | Tamil Nadu
+2026-03-19 08:45:32,482 | INFO | [TEXT] Recommended: Vathakuzhambu | Tamil Nadu
+2026-03-19 08:46:13,564 | INFO | [TEXT] Recommended: Idli | Tamil Nadu
+2026-03-19 08:46:13,565 | INFO | [TEXT] Completed in 107.74s
+2026-03-19 08:49:12,764 | INFO | [IMAGE][6b888224] Image uploaded: IMG_0390.JPEG
+2026-03-19 08:49:15,834 | INFO | [IMAGE][6b888224] Completed in 3.07s
+2026-03-19 09:20:32,022 | INFO | [SPEECH][9a12837c] Audio received: blob
+2026-03-19 09:20:48,845 | INFO | [SPEECH][9a12837c] Raw prediction: {'language': 'unknown', 'confidence': 0}
+2026-03-19 09:21:41,969 | INFO | [SPEECH][a3c3ab51] Audio received: blob
+2026-03-19 09:21:43,777 | INFO | [SPEECH][a3c3ab51] Raw prediction: {'language': np.str_('Tamil'), 'confidence': 0.832366406917572, 'alternatives': [np.str_('Kannada'), np.str_('Telugu')], 'probabilities': [0.09944655746221542, 0.02702854573726654, 0.832366406917572, 0.04115843027830124], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-19 09:26:13,935 | INFO | [TEXT][9bb11ed8] Incoming request: {'location': 'Tamil Nadu', 'course': 'dessert', 'taste': 'spicy', 'diet': 'vegetarian'}
+2026-03-19 22:22:25,420 | INFO | [IMAGE][86501d27] Image uploaded: bg.jpg
+2026-03-19 22:27:37,480 | INFO | [IMAGE][ee8efba3] Image uploaded: bg.jpg
+2026-03-19 22:29:05,829 | INFO | [IMAGE][ee8efba3] Completed in 88.35s
+2026-03-19 22:30:52,397 | INFO | [IMAGE][041b2112] Image uploaded: IMG_0029.JPEG
+2026-03-19 22:31:36,975 | INFO | [IMAGE][041b2112] Completed in 44.58s
+2026-03-19 22:32:17,269 | INFO | [IMAGE][0b3ccc81] Image uploaded: IMG_0041.JPEG
+2026-03-19 22:33:04,270 | INFO | [IMAGE][0b3ccc81] Completed in 47.00s
+2026-03-19 22:47:45,330 | INFO | [IMAGE][0f408461] Image uploaded: IMG_0041.JPEG
+2026-03-19 22:52:23,030 | INFO | [IMAGE][263f91f0] Image uploaded: IMG_0041.JPEG
+2026-03-19 22:52:38,094 | INFO | [IMAGE][7bbb696f] Image uploaded: IMG_0041.JPEG
+2026-03-19 22:57:13,548 | INFO | [IMAGE][847233fe] Image uploaded: IMG_0041.JPEG
+2026-03-19 22:57:56,272 | INFO | [IMAGE][847233fe] Completed in 42.72s
+2026-03-19 23:23:25,595 | INFO | [IMAGE][682f535d] Image uploaded: IMG_0041.JPEG
+2026-03-19 23:29:38,996 | INFO | [IMAGE][a0de72ba] Image uploaded: IMG_0041.JPEG
+2026-03-19 23:30:22,049 | INFO | [IMAGE][a0de72ba] Completed in 43.05s
+2026-03-19 23:41:46,784 | INFO | [IMAGE][2de30989] Image uploaded: IMG_0041.JPEG
+2026-03-19 23:42:31,507 | INFO | [IMAGE][2de30989] Completed in 44.72s
+2026-03-20 11:47:39,677 | INFO | [IMAGE][0c6ed806] Image uploaded: IMG_0041.JPEG
+2026-03-20 11:57:13,644 | INFO | [IMAGE][3cb213fc] Image uploaded: IMG_0041.JPEG
+2026-03-20 11:58:35,662 | INFO | [IMAGE][3cb213fc] Completed in 82.02s
+2026-03-20 15:28:36,425 | INFO | [IMAGE][2e0d8ab8] Image uploaded: IMG_0041.JPEG
+2026-03-20 15:29:33,442 | INFO | [IMAGE][2e0d8ab8] Completed in 57.02s
+2026-03-20 15:57:19,824 | INFO | [IMAGE][bafb692b] Image uploaded: IMG_0041.JPEG
+2026-03-20 15:58:02,461 | INFO | [IMAGE][bafb692b] Completed in 42.64s
+2026-03-20 16:09:45,376 | INFO | [IMAGE][41313f99] Image uploaded: IMG_0041.JPEG
+2026-03-20 16:10:34,733 | INFO | [IMAGE][41313f99] Completed in 49.36s
+2026-03-20 16:10:50,846 | INFO | [IMAGE][854db99b] Image uploaded: IMG_0041.JPEG
+2026-03-20 16:12:16,600 | INFO | [IMAGE][854db99b] Completed in 85.75s
+2026-03-20 16:12:26,422 | INFO | [IMAGE][9b57e804] Image uploaded: IMG_0041.JPEG
+2026-03-20 16:13:55,402 | INFO | [IMAGE][9b57e804] Completed in 88.98s
+2026-03-20 16:13:55,415 | INFO | [IMAGE][c0093d93] Image uploaded: IMG_0029.JPEG
+2026-03-20 16:14:31,742 | INFO | [IMAGE][c0093d93] Completed in 36.33s
+2026-03-20 16:15:03,307 | INFO | [IMAGE][a248b9d4] Image uploaded: IMG_0031.JPEG
+2026-03-20 16:16:34,292 | INFO | [IMAGE][a248b9d4] Completed in 90.98s
+2026-03-20 17:33:21,736 | INFO | [IMAGE][f35f1ca9] Image uploaded: IMG_0097.JPEG
+2026-03-20 17:34:03,125 | INFO | [IMAGE][f35f1ca9] Completed in 41.39s
+2026-03-21 22:52:04,467 | INFO | [TEXT][cf792170] Incoming request: {'location': 'North India', 'course': 'main course', 'taste': 'spicy', 'diet': 'meat-based'}
+2026-03-21 22:52:25,559 | INFO | [TEXT] Decision engine status: ok
+2026-03-21 22:54:37,479 | INFO | [TEXT] Recommended: Yakhni | Jammu & Kashmir
+2026-03-21 22:55:16,351 | INFO | [TEXT] Recommended: Nihari | Delhi
+2026-03-21 22:56:03,084 | INFO | [TEXT] Recommended: Tandoori Chicken | Punjab
+2026-03-21 22:56:03,085 | INFO | [TEXT] Completed in 238.62s
+2026-03-21 23:00:59,158 | INFO | [TEXT][fcf5f83b] Incoming request: {'location': 'Andhra Pradesh', 'course': 'dessert', 'taste': '', 'diet': ''}
+2026-03-21 23:01:10,152 | INFO | [TEXT] Decision engine status: ok
+2026-03-21 23:02:20,864 | INFO | [TEXT] Recommended: Bobbatlu | Andhra Pradesh
+2026-03-21 23:02:20,866 | INFO | [TEXT] Completed in 81.71s
+2026-03-21 23:09:36,761 | INFO | [SPEECH][8f5f8c7f] Audio received: blob
+2026-03-21 23:09:56,771 | INFO | [SPEECH][8f5f8c7f] Raw prediction: {'language': np.str_('Malayalam'), 'confidence': 0.7531542181968689, 'alternatives': [np.str_('Tamil'), np.str_('Telugu')], 'probabilities': [0.069489985704422, 0.7531542181968689, 0.09450748562812805, 0.08284830302000046], 'labels': ['Kannada', 'Malayalam', 'Tamil', 'Telugu']}
+2026-03-21 23:12:20,570 | INFO | [TEXT][12a2d0cb] Incoming request: {'location': 'Tamil Nadu', 'course': 'dessert', 'taste': '', 'diet': ''}
+2026-03-21 23:12:31,376 | INFO | [TEXT] Decision engine status: ok
+2026-03-21 23:13:38,627 | INFO | [TEXT] Recommended: Garijalu (Kajjikaya) | Telangana
+2026-03-21 23:15:24,819 | INFO | [TEXT] Recommended: Coconut Ladoo | Andaman & Nicobar
+2026-03-21 23:16:29,074 | INFO | [TEXT] Recommended: Rasabali | Odisha
+2026-03-21 23:16:29,075 | INFO | [TEXT] Completed in 248.51s

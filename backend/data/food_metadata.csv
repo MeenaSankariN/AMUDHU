@@ -1,0 +1,351 @@
+﻿food_id,food_name,state,region,description,veg_nonveg,taste,course_type,image_filename,texture
+NI_JK_001,Rogan Josh,Jammu & Kashmir,North India,"A traditional Kashmiri lamb curry slow-cooked with aromatic spices, known for its deep red color and rich flavor, and is a signature dish of the Wazwan feast.",meat-based,savoury,main course,NI_JK_RoganJosh_001.jpg,meat_gravy
+NI_JK_002,Gushtaba,Jammu & Kashmir,North India,Minced mutton meatballs cooked in a creamy yogurt-based gravy and traditionally served as the ceremonial final dish of the Kashmiri Wazwan meal.,meat-based,savoury,main course,NI_JK_Gushtaba_002.jpg,meat_gravy
+NI_JK_003,Kashmiri Pulao,Jammu & Kashmir,North India,"Fragrant basmati rice prepared with mild spices, saffron, and dry fruits, offering a subtly sweet flavor profile characteristic of Kashmiri cuisine.",vegetarian,sweet,main course,NI_JK_KashmiriPulao_003.jpg,rice_based
+NI_JK_004,Haak Saag,Jammu & Kashmir,North India,"Simple and nutritious leafy green dish made from collard, radish, or spinach greens, lightly spiced and traditionally served with steamed rice.",vegetarian,savoury,main course,NI_JK_HaakSaag_004.jpg,veg_gravy
+NI_JK_005,Kahwa,Jammu & Kashmir,North India,"Traditional Kashmiri green tea infused with saffron, cardamom, cinnamon, and almonds, commonly served hot as a hospitality beverage.",vegetarian,savoury,beverage,NI_JK_Kahwa_005.jpg,beverage
+NI_JK_006,Yakhni,Jammu & Kashmir,North India,"Mild yogurt-based curry prepared with tender meat and whole spices, known for its creamy texture and delicate, non-spicy flavor profile.",meat-based,spicy,main course,NI_JK_Yakhni_006.jpg,veg_gravy
+NI_JK_007,Wazwan,Jammu & Kashmir,North India,"An elaborate multi-course traditional Kashmiri feast consisting mainly of meat-based dishes, prepared for weddings and major celebrations.",meat-based,savoury,main course,NI_JK_Wazwan_007.jpg,multi_course_meal
+NI_JK_008,Dum Aloo,Jammu & Kashmir,North India,"Baby potatoes slow-cooked in a spicy yogurt-based gravy without onion or garlic, flavored with traditional Kashmiri spices.",vegetarian,spicy,main course,NI_JK_DumAloo_008.jpg,veg_gravy
+NI_JK_009,Lyodur Tschaman,Jammu & Kashmir,North India,"Cottage cheese curry cooked with turmeric and cream, resulting in a rich, mildly spiced yellow gravy unique to Kashmiri cuisine.",vegetarian,savoury,main course,NI_JK_LyodurTschaman_009.jpg,veg_gravy
+NI_JK_010,Kashmiri Rajma,Jammu & Kashmir,North India,"Red kidney beans cooked in a flavorful gravy using regional spices, forming a hearty and protein-rich vegetarian dish.",vegetarian,savoury,main course,NI_JK_KashmiriRajma_010.jpg,veg_gravy
+NI_HP_001,Madra,Himachal Pradesh,North India,"Creamy yogurt-based curry prepared with chickpeas or mixed vegetables, slow-cooked with aromatic spices such as cumin, cardamom, cloves, and cinnamon.",vegetarian,savoury,main course,NI_HP_Madra_001.jpg,veg_gravy
+NI_HP_002,Kullu Trout Fish,Himachal Pradesh,North India,"Freshwater trout lightly marinated and pan-fried in mustard oil using minimal spices, highlighting the natural flavor of the fish.",meat-based,savoury,main course,NI_HP_KulluTroutFish_002.jpg,semi_gravy
+NI_HP_003,Bhey,Himachal Pradesh,North India,"Stir-fried lotus stem slices cooked with ginger, garlic, onions, gram flour, and mild spices, offering a crunchy texture and earthy flavor.",vegetarian,savoury,main course,NI_HP_Bhey_003.jpg,semi_gravy
+NI_HP_004,Aktori,Himachal Pradesh,North India,"Traditional festive dish prepared using buckwheat leaves and wheat flour, cooked with minimal spices.",vegetarian,savoury,main course,NI_HP_Aktori_004.jpg,pancake
+NI_HP_005,Mittha,Himachal Pradesh,North India,"Sweet rice preparation layered with dry fruits, sugar, and saffron-infused milk, commonly prepared during celebrations.",vegetarian,sweet,dessert,NI_HP_Mittha_005.jpg,solid_sweet
+NI_HP_006,Dham,Himachal Pradesh,North India,"A complete ceremonial meal consisting of rice, lentils, rajma, curd-based curries, and a sweet dish.",vegetarian,sweet,main course,NI_HP_Dham_006.jpg,multi_course_meal
+NI_HP_007,Chha Gosht,Himachal Pradesh,North India,"Yogurt-based mutton curry slow-cooked with gram flour and spices, resulting in a rich and creamy gravy.",meat-based,savoury,main course,NI_HP_ChhaGhost_007.jpg,meat_gravy
+NI_HP_008,Siddu,Himachal Pradesh,North India,"Steamed and fermented wheat flour bread, often stuffed and served with ghee or chutney.",vegetarian,tangy,main course,NI_HP_Siddu_008.jpg,steamed_food
+NI_HP_009,Babru,Himachal Pradesh,North India,"Deep-fried stuffed flatbread filled with black gram paste, traditionally served with chutney.",vegetarian,tangy,main course,NI_HP_Babru_009.jpg,flatbread
+NI_HP_010,Tudkiya Bhat,Himachal Pradesh,North India,"Spiced rice dish cooked with lentils, yogurt, and aromatic spices, often described as a mountain-style pulao.",vegetarian,savoury,main course,NI_HP_TudkiyaBhat_010.jpg,rice_based
+NI_PB_001,Dal Makhani,Punjab,North India,"Rich and creamy lentil dish prepared using whole black gram and kidney beans, slow-cooked with butter and cream.",vegetarian,savoury,main course,NI_PB_DalMakhani_001.jpg,veg_gravy
+NI_PB_002,Chole Bhature,Punjab,North India,"Spicy chickpea curry served with fluffy deep-fried bread, commonly eaten as a hearty breakfast.",vegetarian,spicy,main course,NI_PB_CholeBhature_002.jpg,veg_gravy
+NI_PB_003,Tandoori Chicken,Punjab,North India,"Marinated chicken cooked in a clay oven, producing smoky flavors and a charred exterior.",meat-based,savoury,main course,NI_PB_TandooriChicken_003.jpg,smoked_meat
+NI_PB_004,Paneer Tikka,Punjab,North India,"Marinated paneer cubes grilled in a tandoor, forming a popular vegetarian appetizer.",vegetarian,savoury,main course,NI_PB_PaneerTikka_004.jpg,smoked_veg
+NI_PB_005,Kadhi Pakora,Punjab,North India,Yogurt-based curry thickened with gram flour and containing fried pakoras.,vegetarian,savoury,main course,NI_PB_KadhiPakora_005.jpg,veg_gravy
+NI_PB_006,Sarson da Saag,Punjab,North India,"Winter dish made from mustard greens slow-cooked with spices, traditionally served with makki di roti.",vegetarian,savoury,main course,NI_PB_SarsonDaSaag_006.jpg,veg_gravy
+NI_PB_007,Makki di Roti,Punjab,North India,"Cornmeal flatbread with a rustic texture, typically paired with sarson da saag.",vegetarian,savoury,main course,NI_PB_MakkiDiRoti_007.jpg,flatbread
+NI_PB_008,Butter Chicken,Punjab,North India,Chicken cooked in a creamy tomato-based gravy with butter and mild spices.,meat-based,savoury,main course,NI_PB_ButterChicken_008.jpg,meat_gravy
+NI_PB_009,Amritsari Kulcha,Punjab,North India,"Stuffed leavened flatbread originating from Amritsar, cooked in a tandoor.",vegetarian,savoury,main course,NI_PB_AmritsariKulcha_009.jpg,flatbread
+NI_PB_010,Lassi,Punjab,North India,Yogurt-based beverage available in sweet or salted varieties.,vegetarian,sweet,beverage,NI_PB_Lassi_010.jpg,beverage
+NI_HR_001,Besan Masala Roti,Haryana,North India,"Flatbread prepared using gram flour and spices, commonly eaten as a staple meal.",vegetarian,spicy,main course,NI_HR_BesanMasalaRoti_001.jpg,flatbread
+NI_HR_002,Churma,Haryana,North India,Dish made from crushed wheat mixed with ghee and jaggery or sugar.,vegetarian,sweet,main course,NI_HR_Churma_002.jpg,solid_sweet
+NI_HR_003,Bathua Raita,Haryana,North India,Yogurt-based side dish prepared using bathua leaves.,vegetarian,savoury,main course,NI_HR_BathuaRaita_003.jpg,veg_gravy
+NI_HR_004,Malpua,Haryana,North India,Sweet deep-fried pancake soaked in sugar syrup.,vegetarian,sweet,dessert,NI_HR_Malpua_004.jpg,solid_sweet
+NI_HR_005,Mixed Dal,Haryana,North India,Protein-rich dish prepared using a combination of lentils.,vegetarian,savoury,main course,NI_HR_MixedDal_005.jpg,veg_gravy
+NI_HR_006,Bajra Khichdi,Haryana,North India,Hearty porridge made from pearl millet and lentils.,vegetarian,savoury,main course,NI_HR_BajraKhichdi_006.jpg,mixed_bowl
+NI_HR_007,Hara Choliya Sabzi,Haryana,North India,Seasonal curry prepared using fresh green chickpeas.,vegetarian,savoury,main course,NI_HR_HaraCholiyaSabzi_007.jpg,veg_gravy
+NI_HR_008,Kachri ki Chutney,Haryana,North India,Tangy chutney prepared from dried wild cucumbers.,vegetarian,tangy,main course,NI_HR_KachriKiChutney_008.jpg,chutney
+NI_HR_009,Bajra Roti with Ghee,Haryana,North India,Pearl millet flatbread served with clarified butter.,vegetarian,savoury,main course,NI_HR_BajraRotiWithGhee_009.jpg,flatbread
+NI_HR_010,Singri ki Sabzi,Haryana,North India,Dry curry prepared from dried desert beans.,vegetarian,savoury,main course,NI_HR_SinghriSabzi_010.jpg,veg_gravy
+NI_UK_001,Dubuk,Uttarakhand,North India,"Thick curry made from soaked and ground pulses, commonly eaten with rice.",vegetarian,savoury,main course,NI_UK_Dubuk_001.jpg,veg_gravy
+NI_UK_002,Garhwal Ka Fannah,Uttarakhand,North India,Protein-rich curry made from black gram lentils.,vegetarian,savoury,main course,NI_UK_GarhwalKaFannah_002.jpg,veg_gravy
+NI_UK_003,Bhaadi,Uttarakhand,North India,Staple dish made from finger millet flour cooked with water and ghee.,vegetarian,savoury,main course,NI_UK_Bhaadi_003.jpg,flatbread
+NI_UK_004,Phaana,Uttarakhand,North India,Thick curry prepared from ground horse gram lentils.,vegetarian,savoury,main course,NI_UK_Phaanu_004.jpg,veg_gravy
+NI_UK_005,Kafuli,Uttarakhand,North India,Green curry made from spinach or fenugreek leaves with buttermilk.,vegetarian,tangy,main course,NI_UK_Kafuli_005.jpg,veg_gravy
+NI_UK_006,Aloo Ke Gutke,Uttarakhand,North India,Spiced boiled potatoes cooked with local mustard seeds.,vegetarian,savoury,main course,NI_UK_AlooKeGutke_006.jpg,dry_food
+NI_UK_007,Chainsoo,Uttarakhand,North India,Curry made from roasted black gram paste with earthy flavor.,vegetarian,savoury,main course,NI_UK_Chainsoo_007.jpg,veg_gravy
+NI_UK_008,Bhang ki Chutney,Uttarakhand,North India,Chutney prepared from roasted hemp seeds.,vegetarian,tangy,main course,NI_UK_BhangKiChutney_008.jpg,chutney
+NI_UK_009,Jhangora ki Kheer,Uttarakhand,North India,Sweet pudding made from barnyard millet cooked in milk.,vegetarian,sweet,dessert,NI_UK_JhangoraKiKheer_009.jpg,liquid_dessert
+NI_UK_010,Bal Mithai,Uttarakhand,North India,Traditional sweet made from roasted khoya and sugar balls.,vegetarian,sweet,dessert,NI_UK_BalMithai_010.jpg,solid_sweet
+NI_DL_001,Butter Chicken,Delhi,North India,Roasted chicken cooked in a rich tomato-based gravy with butter and cream.,meat-based,savoury,main course,NI_DL_ButterChicken_001.jpg,meat_gravy
+NI_DL_002,Chole Bhature,Delhi,North India,Spicy chickpea curry served with deep-fried bread.,vegetarian,spicy,main course,NI_DL_CholeBhature_002.jpg,veg_gravy
+NI_DL_003,Dal Makhani,Delhi,North India,Creamy lentil dish slow-cooked with butter and mild spices.,vegetarian,savoury,main course,NI_DL_DalMakhani_003.jpg,veg_gravy
+NI_DL_004,Kebabs,Delhi,North India,Mughlai-style grilled meat preparations with smoky flavors.,meat-based,savoury,main course,NI_DL_Kebabs_004.jpg,smoked_meat
+NI_DL_005,Nihari,Delhi,North India,Slow-cooked meat stew prepared with rich spices.,meat-based,savoury,main course,NI_DL_Nihari_005.jpg,meat_gravy
+NI_DL_006,Parathas,Delhi,North India,Stuffed unleavened flatbreads served with various fillings.,vegetarian,savoury,main course,NI_DL_Parathas_006.jpg,flatbread
+NI_DL_007,Kulfi,Delhi,North India,Dense frozen dessert made by slow reduction of milk.,vegetarian,sweet,dessert,NI_DL_Kulfi_007.jpg,solid_sweet
+NI_DL_008,Samosas,Delhi,North India,Deep-fried pastries filled with spiced potatoes or meat.,meat-based,savoury,snack,NI_DL_Samosas_008.jpg,fried_food
+NI_DL_009,Jalebi,Delhi,North India,Deep-fried spiral-shaped sweet soaked in sugar syrup.,vegetarian,sweet,dessert,NI_DL_Jalebi_009.jpg,solid_sweet
+NI_DL_010,Dal Tadka,Delhi,North India,"Cooked lentils tempered with ghee, garlic, and spices.",vegetarian,savoury,main course,NI_DL_DalTadka_010.jpg,veg_gravy
+EI_WB_001,Macher Jhol,West Bengal,East India,"Light fish curry prepared with mustard and turmeric, featuring fish cooked in a mustard-based gravy with spices.",meat-based,savoury,main course,EL_WB_MacherJhol_001.jpg,meat_gravy
+EI_WB_002,Rosogolla,West Bengal,East India,"Soft spongy cheese balls soaked in sugar syrup, made from chhena and cooked in aromatic syrup.",vegetarian,sweet,dessert,EL_WB_Rosogolla_002.jpg,solid_sweet
+EI_WB_003,Mishti Doi,West Bengal,East India,"Sweetened fermented yogurt with a rich, creamy texture and caramelized flavor.",vegetarian,sweet,dessert,EL_WB_MishtiDoi_003.jpg,solid_sweet
+EI_WB_004,Shukto,West Bengal,East India,Traditional mixed vegetable bitter curry prepared with vegetables in a mildly spiced gravy.,vegetarian,savoury,main course,EL_WB_Shukto_004.jpg,veg_gravy
+EI_WB_005,Pati Shapta,West Bengal,East India,Thin pancakes stuffed with sweet coconut and khoya filling.,vegetarian,sweet,dessert,EL_WB_PatiShapta_005.jpg,pancake
+EI_WB_006,Alur Dom,West Bengal,East India,"Baby potato curry cooked in a spiced gravy, often served with fried bread.",vegetarian,savoury,main course,EL_WB_AlurDom_006.jpg,veg_gravy
+EI_WB_007,Sandesh,West Bengal,East India,Sweet made from fresh paneer and sugar with a soft texture.,vegetarian,sweet,dessert,EL_WB_Sandesh_007.jpg,solid_sweet
+EI_WB_008,Lau Ghonto,West Bengal,East India,Bottle gourd dish cooked with spices and grated coconut.,vegetarian,savoury,main course,EL_WB_LauGhonto_008.jpg,semi_gravy
+EI_WB_009,Luchi,West Bengal,East India,Deep-fried flatbread made from refined flour.,vegetarian,savoury,main course,EL_WB_Luchi_009.jpg,flatbread
+EI_WB_010,Chingri Malai Curry,West Bengal,East India,Mildly spiced prawn curry cooked in coconut milk.,meat-based,savoury,main course,EL_WB_ChingriMalaiCurry_010.jpg,meat_gravy
+EI_OD_001,Machher Paturi,Odisha,East India,"Fish marinated with mustard paste and spices, wrapped in banana leaves and cooked.",meat-based,savoury,main course,EL_OD_MachhaPaturi_001.jpg,steamed_food
+EI_OD_002,Dalma,Odisha,East India,Lentils cooked with vegetables and mild spices.,vegetarian,savoury,main course,EL_OD_Dalma_002.jpg,veg_gravy
+EI_OD_003,Pakhala Bhata,Odisha,East India,Fermented rice served with vegetables.,vegetarian,savoury,main course,EL_OD_PakhalaBhata_003.jpg,rice_based
+EI_OD_004,Rasabali,Odisha,East India,Sweet chhena patties soaked in thickened sweetened milk.,vegetarian,sweet,dessert,EL_OD_Rasabali_004.jpg,solid_sweet
+EI_OD_005,Chhena Poda,Odisha,East India,Baked sweet cheese dessert made from chhena.,vegetarian,sweet,dessert,EL_OD_ChhenaPoda_005.jpg,solid_sweet
+EI_OD_006,Khichdi,Odisha,East India,Rice and lentil dish cooked together and offered as temple food.,vegetarian,savoury,main course,EL_OD_Khichdi_006.jpg,mixed_bowl
+EI_OD_007,Besara,Odisha,East India,Vegetable curry prepared using mustard paste.,vegetarian,savoury,main course,EL_OD_Besara_007.jpg,veg_gravy
+EI_OD_008,Chhena Jhili,Odisha,East India,Fried chhena dessert soaked in sugar syrup.,vegetarian,sweet,dessert,EL_OD_ChhenaJhil_008.jpg,solid_sweet
+EI_OD_009,Mudhi Mansa,Odisha,East India,Puffed rice served with mutton curry.,meat-based,savoury,main course,EL_OD_MudhiMansa_009.jpg,veg_gravy
+EI_OD_010,Kadali Manja Rai,Odisha,East India,Banana stem curry cooked with mustard paste.,vegetarian,savoury,main course,EL_OD_KadaliManjaRai_010.jpg,veg_gravy
+EI_BR_001,Khichdi,Bihar,East India,Rice and lentil porridge cooked together.,vegetarian,savoury,main course,EL_BR_Khichdi_001.jpg,mixed_bowl
+EI_BR_002,Litti Chokha,Bihar,East India,Roasted wheat balls stuffed with sattu served with mashed vegetables.,vegetarian,savoury,main course,EL_BR_LittiChokha_002.jpg,flour_ball
+EI_BR_003,Thekua,Bihar,East India,Deep-fried wheat snack sweetened with jaggery.,vegetarian,sweet,snack,EL_BR_Thekua_003.jpg,fried_food
+EI_BR_004,Malpua,Bihar,East India,Sweet pancakes fried and soaked in sugar syrup.,vegetarian,sweet,dessert,EL_BR_Malpua_004.jpg,solid_sweet
+EI_BR_005,Dal Pitha,Bihar,East India,Steamed rice flour dumplings stuffed with spiced lentils.,vegetarian,savoury,main course,EL_BR_DalPitha_005.jpg,steamed_food
+EI_BR_006,Sattu Paratha,Bihar,East India,Flatbread stuffed with roasted gram flour.,vegetarian,savoury,main course,EL_BR_SattuParatha_006.jpg,flatbread
+EI_BR_007,Balushahi,Bihar,East India,Flaky deep-fried dessert soaked in sugar syrup.,vegetarian,sweet,dessert,EL_BR_Balushahi_007.jpg,solid_sweet
+EI_BR_008,Chana Ghugni,Bihar,East India,Spicy street food made from black gram or chickpeas.,vegetarian,spicy,main course,EL_BR_ChanaGhugni_008.jpg,fried_food
+EI_BR_009,Kadhi Badi,Bihar,East India,Yogurt-based curry cooked with lentil fritters.,vegetarian,savoury,main course,EL_BR_KadhiBadi_009.jpg,veg_gravy
+EI_BR_010,Mutton Taash,Bihar,East India,Slow-cooked fried mutton dish.,meat-based,savoury,main course,EL_BR_MuttonTaash_010.jpg,meat_gravy
+NE_AS_001,Assam Laksa,Assam,North-East India,Light clear soup prepared from flaked fish and simmered with tamarind.,meat-based,tangy,main course,NE_AS_AssamLaksa_001.jpg,soup
+NE_AS_002,Masor Tenga,Assam,North-East India,Tangy fish curry cooked with tomatoes and lemon.,meat-based,tangy,main course,NE_AS_MasorTenga_002.jpg,meat_gravy
+NE_AS_003,Khar,Assam,North-East India,Alkaline vegetable preparation using banana stem ash water.,vegetarian,savoury,main course,NE_AS_Khar_003.jpg,semi_gravy
+NE_AS_004,Pitha,Assam,North-East India,Rice cakes with sweet or savory fillings.,vegetarian,sweet,dessert,NE_AS_Pitha_004.jpg,solid_sweet
+NE_AS_005,Duck Curry,Assam,North-East India,Slow-cooked duck curry with seasonal vegetables.,meat-based,savoury,main course,NE_AS_DuckCurry_005.jpg,veg_gravy
+NE_AS_006,Aloo Pitika,Assam,North-East India,"Mashed potatoes mixed with onions, chilies, and mustard oil.",vegetarian,spicy,main course,NE_AS_AlooPitika_006.jpg,chutney
+NE_AS_007,Doi Chira,Assam,North-East India,Beaten rice mixed with yogurt and jaggery.,vegetarian,sweet,dessert,NE_AS_DoiChira_007.jpg,solid_sweet
+NE_AS_008,Lai Xaak Gahori,Assam,North-East India,Oil-free pork dish cooked with leafy greens.,meat-based,savoury,main course,NE_AS_LaiXaakGahori_008.jpg,semi_gravy
+NE_AS_009,Patot Diya Maas,Assam,North-East India,Fish wrapped in banana leaves and cooked.,meat-based,savoury,main course,NE_AS_PatotDiyaMaas_009.jpg,steamed_food
+NE_AS_010,Poita Bhat,Assam,North-East India,Fermented rice soaked overnight.,vegetarian,savoury,main course,NE_AS_PoitaBhat_010.jpg,rice_based
+NE_ML_001,Jadoh,Meghalaya,North-East India,Spiced rice and pork dish.,meat-based,savoury,main course,NE_ML_Jadoh_001.jpg,meat_gravy
+NE_ML_002,Tungrymbai,Meghalaya,North-East India,Fermented soybean curry.,vegetarian,savoury,main course,NE_ML_Tungrymbai_002.jpg,veg_gravy
+NE_ML_003,Dohneiiong,Meghalaya,North-East India,Black sesame pork curry.,meat-based,savoury,main course,NE_ML_Dohneiiong_003.jpg,meat_gravy
+NE_ML_004,Nakham Bitchi,Meghalaya,North-East India,Bamboo shoot and meat soup.,meat-based,savoury,main course,NE_ML_NakhamBitchi_004.jpg,soup
+NE_ML_005,Tungtap,Meghalaya,North-East India,Fermented fish paste.,meat-based,savoury,main course,NE_ML_Tungtap_005.jpg,chutney
+NE_ML_006,Pukhlein,Meghalaya,North-East India,Sweet fried rice flour snack.,vegetarian,sweet,snack,NE_ML_Pukhlein_006.jpg,solid_sweet
+NE_ML_007,Sakin Gata,Meghalaya,North-East India,Sticky rice cake with jaggery.,vegetarian,sweet,dessert,NE_ML_SakinGata_007.jpg,solid_sweet
+NE_ML_008,Dohkhlieh,Meghalaya,North-East India,Fresh pork salad.,meat-based,savoury,main course,NE_ML_Dohkhleh_008.jpg,salad
+NE_ML_009,Pumaloi,Meghalaya,North-East India,Steamed rice cake.,vegetarian,sweet,dessert,NE_ML_Pumaloi_009.jpg,solid_sweet
+NE_ML_010,Kyat,Meghalaya,North-East India,Fermented rice drink.,vegetarian,savoury,beverage,NE_ML_Kyat_010.jpg,beverage
+NE_MN_001,Eromba,Manipur,North-East India,Mashed vegetables with fermented fish.,meat-based,savoury,main course,NE_MN_Eromba_001.jpg,eromba
+NE_MN_002,Singju,Manipur,North-East India,Spicy raw vegetable salad.,vegetarian,spicy,main course,NE_MN_Singju_002.jpg,salad
+NE_MN_003,Chamthong,Manipur,North-East India,Vegetable and meat stew.,meat-based,savoury,main course,NE_MN_Chamthong_003.jpg,meat_gravy
+NE_MN_004,Nga Thongba,Manipur,North-East India,Fish curry with herbs.,meat-based,savoury,main course,NE_MN_NgaThongba_004.jpg,meat_gravy
+NE_MN_005,Chak-hao Kheer,Manipur,North-East India,Black rice pudding.,vegetarian,sweet,dessert,NE_MN_Chak-haoKheer_005.jpg,liquid_dessert
+NE_MN_006,Ngari,Manipur,North-East India,Fermented fish product.,meat-based,savoury,main course,NE_MN_Ngari_006.jpg,fermented
+NE_MN_007,Ooti,Manipur,North-East India,Vegetable dish with fermented soybean.,vegetarian,savoury,main course,NE_MN_Ooti_007.jpg,veg_gravy
+NE_MN_008,Paknam,Manipur,North-East India,Steamed lentil pancake.,vegetarian,savoury,snack,NE_MN_Paknam_008.jpg,pancake
+NE_MN_009,Maroi Nganu,Manipur,North-East India,Spicy fermented fish chutney.,meat-based,tangy,main course,NE_MN_MaroiNganu_009.jpg,chutney
+NE_MN_010,Kangshoi,Manipur,North-East India,Simple vegetable stew.,vegetarian,savoury,main course,NE_MN_Kangshoi_010.jpg,veg_gravy
+NE_MZ_001,Vawksa Rep,Mizoram,North-East India,Smoked pork dish.,meat-based,savoury,main course,NE_MZ_VawksaRep_001.jpg,smoked_meat
+NE_MZ_002,Sa-um,Mizoram,North-East India,Bamboo shoot dish with fermented pork fat.,meat-based,savoury,main course,NE_MZ_Sa-um_002.jpg,semi_gravy
+NE_MZ_003,Bai,Mizoram,North-East India,Mixed vegetable stew.,vegetarian,savoury,main course,NE_MZ_Bai_003.jpg,veg_gravy
+NE_MZ_004,Chhum Han,Mizoram,North-East India,Simple vegetable dish.,vegetarian,savoury,main course,NE_MZ_ChhumHan_004.jpg,veg_gravy
+NE_MZ_005,Chhangban,Mizoram,North-East India,Sticky rice bread.,vegetarian,savoury,main course,NE_MZ_Chhangban_005.jpg,flatbread
+NE_MZ_006,Sanpiau,Mizoram,North-East India,Rice porridge street food.,vegetarian,savoury,main course,NE_MZ_Sanpiau_006.jpg,rice_based
+NE_MZ_007,Panch Phoron Tarka,Mizoram,North-East India,Vegetable dish with five spices.,vegetarian,savoury,main course,NE_MZ_PanchPhoronTarl_007.jpg,semi_gravy
+NE_MZ_008,Koat Pitha,Mizoram,North-East India,Sweet fried rice snack.,vegetarian,sweet,snack,NE_MZ_KoatPitha_008.jpg,solid_sweet
+NE_MZ_009,Sawhchiar,Mizoram,North-East India,Rice dish with meat.,meat-based,savoury,main course,NE_MZ_Sawhchiar_009.jpg,rice_based
+NE_MZ_010,Bamboo Shoot Curry,Mizoram,North-East India,Fermented bamboo shoot curry.,vegetarian,savoury,main course,NE_MZ_BambooShootCurry_010.jpg,veg_gravy
+NE_NL_001,Smoked Pork,Nagaland,North-East India,Smoked pork with bamboo shoots.,meat-based,savoury,main course,NE_NL_SmokedPork_001.jpg,smoked_meat
+NE_NL_002,Galho,Nagaland,North-East India,Rice stew with vegetables and meat.,meat-based,savoury,main course,NE_NL_Galho_002.jpg,rice_based
+NE_NL_003,Axone,Nagaland,North-East India,Fermented soybean dish.,vegetarian,savoury,main course,NE_NL_Axone_003.jpg,chutney
+NE_NL_004,Anishi,Nagaland,North-East India,Fermented taro leaves paste.,vegetarian,savoury,main course,NE_NL_Anishi_004.jpg,chutney
+NE_NL_005,Naga Pickled Pork,Nagaland,North-East India,Spicy preserved pork.,meat-based,tangy,main course,NE_NL_NagaPickledPork_005.jpg,pickle
+NE_NL_006,Samathu,Nagaland,North-East India,Spicy pork curry.,meat-based,spicy,main course,NE_NL_Samathu_006.jpg,meat_gravy
+NE_NL_007,Zutho,Nagaland,North-East India,Fermented rice beer.,vegetarian,savoury,beverage,NE_NL_Zutho_007.jpg,beverage
+NE_NL_008,Akini Chokibo,Nagaland,North-East India,Fermented soybean with vegetables.,vegetarian,savoury,main course,NE_NL_AkiniChokibo_008.jpg,semi_gravy
+NE_NL_009,Naga Chili,Nagaland,North-East India,Extremely spicy chili.,vegetarian,spicy,main course,NE_NL_NagaChili_009.jpg,ingredient
+NE_NL_010,Fish Cooked in Bamboo,Nagaland,North-East India,Fish cooked in bamboo tubes.,meat-based,savoury,main course,NE_NL_FishCookedInBa_010.jpg,steamed_food
+NE_TR_001,Mui Borok,Tripura,North-East India,Rice dumplings with fermented fish.,meat-based,savoury,main course,NE_TR_MuiBorok_001.jpg,steamed_food
+NE_TR_002,Bamboo Shoot Curry,Tripura,North-East India,Bamboo shoot based curry.,vegetarian,savoury,main course,NE_TR_BambooShootCu_002.jpg,veg_gravy
+NE_TR_003,Chakhwi,Tripura,North-East India,Vegetable dish with bamboo shoots.,vegetarian,savoury,main course,NE_TR_Chakhwi_003.jpg,semi_gravy
+NE_TR_004,Wahan Mosdeng,Tripura,North-East India,Smoked fish chutney.,meat-based,tangy,main course,NE_TR_WahanMosdeng_004.jpg,chutney
+NE_TR_005,Awti Bwtwi,Tripura,North-East India,Sticky rice dish wrapped in leaves.,vegetarian,savoury,main course,NE_TR_AwtiBwtwi_005.jpg,rice_based
+NE_TR_006,Mosdeng,Tripura,North-East India,Spicy smoked meat preparation.,meat-based,spicy,main course,NE_TR_Mosdeng_006.jpg,smoked_meat
+NE_TR_007,Gudok,Tripura,North-East India,Fermented fish with vegetables.,meat-based,savoury,main course,NE_TR_Gudok_007.jpg,semi_gravy
+NE_TR_008,Kosoi Bwtwi,Tripura,North-East India,Bean and vegetable stew.,vegetarian,savoury,main course,NE_TR_KosoiBwtwi_008.jpg,semi_gravy
+NE_TR_009,Bangui,Tripura,North-East India,Rice cooked in banana leaves.,vegetarian,savoury,main course,NE_TR_Bangui_009.jpg,rice_based
+NE_TR_010,Moseng Serma,Tripura,North-East India,Mixed vegetable and meat dish.,meat-based,savoury,main course,NE_TR_MosengSerma_010.jpg,chutney
+NE_AR_001,Thukpa,Arunachal Pradesh,North-East India,Noodle soup with vegetables or meat.,meat-based,savoury,main course,NE_AR_Thukpa_001.jpg,noodles
+NE_AR_002,Apong,Arunachal Pradesh,North-East India,Fermented rice drink.,vegetarian,savoury,beverage,NE_AR_Apong_002.jpg,beverage
+NE_AR_003,Thenthuk,Arunachal Pradesh,North-East India,Hand-pulled noodle soup.,vegetarian,savoury,main course,NE_AR_Thenthuk_003.jpg,soup
+NE_AR_004,Zan,Arunachal Pradesh,North-East India,Millet porridge.,vegetarian,savoury,main course,NE_AR_Zan_004.jpg,mixed_bowl
+NE_AR_005,Pika Pila,Arunachal Pradesh,North-East India,Fermented bamboo shoot and fish curry.,meat-based,savoury,main course,NE_AR_PikaPila_005.jpg,meat_gravy
+NE_AR_006,Chura Sabzi,Arunachal Pradesh,North-East India,Fermented cheese curry.,vegetarian,savoury,main course,NE_AR_ChuraSabzi_006.jpg,veg_gravy
+NE_AR_007,Lukter,Arunachal Pradesh,North-East India,Dry meat with chilies.,meat-based,spicy,main course,NE_AR_Lukter_007.jpg,dry_food
+NE_AR_008,Pehak,Arunachal Pradesh,North-East India,Fermented soybean chutney.,vegetarian,tangy,main course,NE_AR_Pehak_008.jpg,chutney
+NE_AR_009,Bresi,Arunachal Pradesh,North-East India,Meat and bamboo shoot stew.,meat-based,savoury,main course,NE_AR_Bresi_009.jpg,smoked_meat
+NE_AR_010,Momos,Arunachal Pradesh,North-East India,Steamed dumplings.,vegetarian,savoury,main course,NE_AR_Momos_010.jpg,steamed_food
+NE_SK_001,Thukpa,Sikkim,North-East India,Himalayan noodle soup.,vegetarian,savoury,main course,NE_SK_Thukpa_001.jpg,noodles
+NE_SK_002,Gundruk Soup,Sikkim,North-East India,Fermented leafy green soup.,vegetarian,savoury,main course,NE_SK_GundrukSoup_002.jpg,soup
+NE_SK_003,Sel Roti,Sikkim,North-East India,Ring-shaped fried rice bread.,vegetarian,savoury,main course,NE_SK_SelRoti_003.jpg,flatbread
+NE_SK_004,Chhurpi,Sikkim,North-East India,Traditional Himalayan cheese.,vegetarian,savoury,main course,NE_SK_Chhurpi_004.jpg,ingredient
+NE_SK_005,Sinki,Sikkim,North-East India,Fermented radish taproot dish.,vegetarian,savoury,main course,NE_SK_Sinki_005.jpg,fermented
+NE_SK_006,Momos,Sikkim,North-East India,Steamed or fried dumplings.,vegetarian,savoury,main course,NE_SK_Momos_006.jpg,steamed_food
+NE_SK_007,Kinema,Sikkim,North-East India,Fermented soybean dish.,vegetarian,savoury,main course,NE_SK_Kinema_007.jpg,chutney
+NE_SK_008,Chhurpi Soup,Sikkim,North-East India,Soup made with chhurpi cheese.,vegetarian,savoury,main course,NE_SK_ChhurpiSoup_008.jpg,soup
+NE_SK_009,Phagshapa,Sikkim,North-East India,Pork and radish dish.,meat-based,savoury,main course,NE_SK_Phagshapa_009.jpg,meat_gravy
+NE_SK_010,Sha Phaley,Sikkim,North-East India,Stuffed deep-fried bread.,vegetarian,savoury,main course,NE_SK_ShaPhaley_010.jpg,flatbread
+NE_SK_011,Kodo ko Roti,Sikkim,North-East India,Pancake made from kodo millet flour.,vegetarian,sweet,dessert,NE_SK_KodoKoRoti_011.jpg,pancake
+NE_SK_012,Temi Tea,Sikkim,North-East India,Tea produced from the Temi Tea Garden.,vegetarian,savoury,beverage,NE_SK_TemiTea_012.jpg,beverage
+NE_SK_013,Tama Curry,Sikkim,North-East India,Curry prepared using fermented bamboo shoots and potatoes.,vegetarian,savoury,main course,NE_SK_TamaCurry_013.jpg,veg_gravy
+CI_MP_001,Poha,Madhya Pradesh,Central India,"Flattened rice dish cooked with mustard seeds and curry leaves, commonly eaten as a breakfast dish and widely associated with the city of Indore.",vegetarian,savoury,main course,CI_MP_Poha_001.jpg,mixed_bowl
+CI_MP_002,Bhutte Ka Kees,Madhya Pradesh,Central India,"Grated corn cooked with spices and milk, prepared as a popular street food snack from Indore.",vegetarian,savoury,main course,CI_MP_BhutteKaKees_002.jpg,mixed_bowl
+CI_MP_003,Dal Bafla,Madhya Pradesh,Central India,"Steamed wheat dough balls served with lentil curry, prepared using boiled and roasted wheat dumplings.",vegetarian,savoury,main course,CI_MP_DalBafla_003.jpg,veg_gravy
+CI_MP_004,Sabudana Khichdi,Madhya Pradesh,Central India,"Dish prepared from tapioca pearls stir-fried with peanuts and spices, commonly eaten during fasting periods.",vegetarian,savoury,main course,CI_MP_SabudanaKhichdi_004.jpg,mixed_bowl
+CI_MP_005,Mawa Bati,Madhya Pradesh,Central India,"Sweet dumplings filled with mawa and soaked in sugar syrup, known as a milk-solid-based dessert.",vegetarian,sweet,dessert,CI_MP_MawaBati_005.jpg,solid_sweet
+CI_MP_006,Palak Puri,Madhya Pradesh,Central India,"Unleavened deep-fried bread made with wheat flour and spinach puree, giving a natural green color.",vegetarian,savoury,main course,CI_MP_PalakPuri_006.jpg,flatbread
+CI_MP_007,Bhopali Gosht Korma,Madhya Pradesh,Central India,"Flavorful mutton dish cooked with Indian spices, commonly associated with the cuisine of Bhopal.",meat-based,savoury,main course,CI_MP_BhopaliGoshtKorma_007.jpg,meat_gravy
+CI_MP_008,Garadu,Madhya Pradesh,Central India,Winter street food prepared from fried tuber pieces seasoned with spices and lemon juice.,vegetarian,tangy,main course,CI_MP_Garadu_008.jpg,fried_food
+CI_MP_009,Jalebi,Madhya Pradesh,Central India,"Popular spiral-shaped sweet soaked in sugar syrup, widely consumed as a dessert.",vegetarian,sweet,dessert,CI_MP_Jalebi_009.jpg,solid_sweet
+CI_MP_010,Malpua,Madhya Pradesh,Central India,"Sweet pancake made from batter of flour, sugar, and spices, deep-fried and soaked in sugar syrup.",vegetarian,sweet,dessert,CI_MP_Malpua_010.jpg,solid_sweet
+CI_CG_001,Chana Samosa,Chhattisgarh,Central India,Chickpea-filled pastry pockets served as a popular street food snack.,vegetarian,savoury,snack,CI_CG_ChanaSamosa_001.jpg,fried_food
+CI_CG_002,Fara,Chhattisgarh,Central India,"Steamed rice flour dumplings stuffed with lentils, traditionally prepared from rice flour dough.",vegetarian,savoury,main course,CI_CG_Fara_002.jpg,steamed_food
+CI_CG_003,Bara,Chhattisgarh,Central India,Deep-fried lentil fritters made from fermented urad dal batter.,vegetarian,savoury,main course,CI_CG_Bara_003.jpg,fried_food
+CI_CG_004,Dubki Kadhi,Chhattisgarh,Central India,Gram flour dumplings cooked in a yogurt-based gravy.,vegetarian,savoury,main course,CI_CG_DubkiKadhi_004.jpg,veg_gravy
+CI_CG_005,Chila,Chhattisgarh,Central India,Savory pancake prepared from rice flour and lentil batter.,vegetarian,savoury,main course,CI_CG_Chila_005.jpg,pancake
+CI_CG_006,Bafauri,Chhattisgarh,Central India,Steamed snack made from chickpea flour and spices.,vegetarian,savoury,main course,CI_CG_Bafauli_006.jpg,steamed_food
+CI_CG_007,Aamat,Chhattisgarh,Central India,"Spicy stew prepared from vegetables, bamboo shoots, and spices.",vegetarian,spicy,main course,CI_CG_Amant_007.jpg,veg_gravy
+CI_CG_008,Tilgur,Chhattisgarh,Central India,Sweet preparation made from sesame seeds and jaggery.,vegetarian,sweet,main course,CI_CG_Tilgur_008.jpg,solid_sweet
+CI_CG_009,Chousela,Chhattisgarh,Central India,Rice flour puris seasoned with carom seeds and salt.,vegetarian,salty,main course,CI_CG_Chousela_009.jpg,fried_food
+CI_CG_010,Angakar Roti,Chhattisgarh,Central India,Rice flour flatbread cooked over burning charcoal.,vegetarian,savoury,main course,CI_CG_AngakarRoti_010.jpg,flatbread
+SI_AP_001,Andhra Chicken Curry,Andhra Pradesh,South India,"Spicy chicken curry prepared using regional spices, cooked in a thick gravy.",meat-based,spicy,main course,SI_AP_AndhraChickenCurry_001.jpg,meat_gravy
+SI_AP_002,Gongura Pachadi,Andhra Pradesh,South India,"Tangy chutney made from sorrel leaves, commonly served with rice and ghee.",vegetarian,tangy,main course,SI_AP_GonguraPachadi_002.jpg,chutney
+SI_AP_003,Pesarattu,Andhra Pradesh,South India,Green gram dosa prepared using soaked green gram and spices.,vegetarian,savoury,main course,SI_AP_Pesarattu_003.jpg,pancake
+SI_AP_004,Andhra Pulihora,Andhra Pradesh,South India,Tamarind-based rice dish cooked with spices and peanuts.,vegetarian,tangy,main course,SI_AP_AndhraPulihora_004.jpg,rice_based
+SI_AP_005,Bobbatlu,Andhra Pradesh,South India,Sweet flatbread stuffed with chana dal and jaggery.,vegetarian,sweet,dessert,SI_AP_Bobbatlu_005.jpg,solid_sweet
+SI_AP_006,Avakaya,Andhra Pradesh,South India,Raw mango pickle prepared with spices and oil.,vegetarian,tangy,main course,SI_AP_Avakaya_006.jpg,pickle
+SI_AP_007,Punnugulu,Andhra Pradesh,South India,Deep-fried batter balls made from fermented rice and urad dal batter.,vegetarian,savoury,main course,SI_AP_Punnugulu_007.jpg,fried_food
+SI_AP_008,Mirchi Bajji,Andhra Pradesh,South India,Batter-fried green chilies deep-fried until crisp.,vegetarian,spicy,main course,SI_AP_MirchiBajji_008.jpg,fried_food
+SI_AP_009,Gongura Mutton Curry,Andhra Pradesh,South India,Spicy mutton curry prepared using sorrel leaves.,meat-based,spicy,main course,SI_AP_GonguraMuttonCurry_009.jpg,meat_gravy
+SI_AP_010,Chepala Pulusu,Andhra Pradesh,South India,Fish curry prepared with tamarind-based gravy.,meat-based,tangy,main course,SI_AP_ChepalaPulusu_010.jpg,meat_gravy
+SI_TG_001,Hyderabadi Biryani,Telangana,South India,Aromatic rice and meat dish layered with spices.,meat-based,savoury,main course,SI_TG_HyderabadiBiryani_001.jpg,rice_based
+SI_TG_002,Mirchi Ka Salan,Telangana,South India,Spicy chili curry prepared with peanuts and sesame seeds.,vegetarian,spicy,main course,SI_TG_MirchiKaSalan_002.jpg,veg_gravy
+SI_TG_003,Double Ka Meetha,Telangana,South India,Bread pudding dessert prepared with milk and sugar syrup.,vegetarian,sweet,dessert,SI_TG_DoubleKaMeetha_003.jpg,solid_sweet
+SI_TG_004,Sarva Pindi,Telangana,South India,Thick spiced pancake made from rice flour.,vegetarian,spicy ,snack,SI_TG_SarvaPindi_004.jpg,pancake
+SI_TG_005,Bagara Baingan,Telangana,South India,Eggplant curry cooked in peanut and sesame-based gravy.,vegetarian,savoury,main course,SI_TG_BagaraBaingan_005.jpg,veg_gravy
+SI_TG_006,Sakinalu,Telangana,South India,Crunchy ring-shaped rice flour snack.,vegetarian,savoury,main course,SI_TG_Sakinalu_006.jpg,fried_food
+SI_TG_007,Golichina Mamsam,Telangana,South India,Spicy fried mutton dish cooked with chilies and spices.,meat-based,spicy,main course,SI_TG_GolichinaMamsam_007.jpg,meat_gravy
+SI_TG_008,Pachi Pulusu,Telangana,South India,Raw tamarind-based soup with onions and chilies.,vegetarian,tangy,main course,SI_TG_PachiPulusu_008.jpg,soup
+SI_TG_009,Garijalu (Kajjikaya),Telangana,South India,Deep-fried sweet filled with coconut and sugar.,vegetarian,sweet,dessert,SI_TG_Garijalu_009.jpg,solid_sweet
+SI_TG_010,Qubani Ka Meetha,Telangana,South India,Sweet dessert made from dried apricots.,vegetarian,sweet,dessert,SI_TG_QubaniKaMeetha_010.jpg,solid_sweet
+SI_TN_001,Idli,Tamil Nadu,South India,Steamed rice cakes served with lentil sambar and fried fritters.,vegetarian,spicy,main course,SI_TN_IdliSambarVada_001.jpg,steamed_food
+SI_TN_002,Chettinad Chicken,Tamil Nadu,South India,Spicy chicken dish cooked with Chettinad spices.,meat-based,spicy,main course,SI_TN_ChettinadChicken_002.jpg,meat_gravy
+SI_TN_003,Pongal,Tamil Nadu,South India,Rice and lentil porridge cooked with spices.,vegetarian,savoury,main course,SI_TN_Pongal_003.jpg,mixed_bowl
+SI_TN_004,Dosa,Tamil Nadu,South India,Thin fermented rice and lentil pancake.,vegetarian,savoury,main course,SI_TN_Dosa_004.jpg,pancake
+SI_TN_005,Rasam,Tamil Nadu,South India,Thin tangy soup prepared with tamarind and spices.,vegetarian,tangy,main course,SI_TN_Rasam_005.jpg,soup
+SI_TN_006,Adhirasam,Tamil Nadu,South India,Sweet rice flour dough fried in jaggery syrup.,vegetarian,sweet,snack,SI_TN_Adhirasam_006.jpg,solid_sweet
+SI_TN_007,Kuzhi Paniyaram,Tamil Nadu,South India,Small round dumplings made from fermented batter.,vegetarian,savoury,main course,SI_TN_KuzhiPaniyaram_007.jpg,fried_food
+SI_TN_008,Kadalai Mittai,Tamil Nadu,South India,Sweet snack made from peanuts and jaggery.,vegetarian,sweet,snack,SI_TN_KadalaiMittai_008.jpg,solid_sweet
+SI_TN_009,Thattai,Tamil Nadu,South India,Crispy deep-fried rice flour snack.,vegetarian,savoury,snack,SI_TN_Thattai_009.jpg,fried_food
+SI_TN_010,Paruthi Paal,Tamil Nadu,South India,Traditional cottonseed milk-based beverage.,vegetarian,sweet,beverage,SI_TN_ParuthiPaal_010.jpg,beverage
+SI_TN_011,Jigarthanda,Tamil Nadu,South India,Cold beverage made with milk and almond gum.,vegetarian,sweet,beverage,SI_TN_Jigarthanda_011.jpg,beverage
+SI_TN_012,Koozh,Tamil Nadu,South India,Traditional millet-based porridge or drink.,vegetarian,savoury,beverage,SI_TN_Koozh_012.jpg,beverage
+SI_TN_013,Sambar,Tamil Nadu,South India,Lentil and vegetable stew.,vegetarian,savoury,main course,SI_TN_Sambar_013.jpg,veg_gravy
+SI_TN_014,Vadai,Tamil Nadu,South India,Deep-fried lentil fritters made from fermented urad dal batter.,vegetarian,savoury,snack,SI_TN_Vadai_014.jpg,fried_food
+SI_TN_014,Vathakuzhambu,Tamil Nadu,South India,Tamil Nadu based tangy and spicy tamarind-based gravy using turkey berries.,vegetarian,spicy,main course,SI_TN_Vathakuzhambu_015.jpg,veg_gravy
+SI_KA_001,Bisi Bele Bath,Karnataka,South India,Spiced lentil rice cooked with vegetables and ghee.,vegetarian,savoury,main course,SI_KA_Bisi Bele Bath_001.jpg,rice_based
+SI_KA_002,Ragi Mudde,Karnataka,South India,Finger millet balls made from ragi flour.,vegetarian,savoury,main course,SI_KA_Ragi Mudde_002.jpg,flour_ball
+SI_KA_003,Mysore Pak,Karnataka,South India,"Sweet made from gram flour, sugar, and ghee.",vegetarian,sweet,dessert,SI_KA_Mysore Pak_003.jpg,solid_sweet
+SI_KA_004,Mangalore Buns,Karnataka,South India,Sweet banana-flavored fried bread.,vegetarian,sweet,main course,SI_KA_Mangalore Buns_004.jpg,solid_sweet
+SI_KA_005,Mysore Masala Dosa,Karnataka,South India,Crispy dosa filled with spiced potato masala.,vegetarian,spicy,main course,SI_KA_Mysore Masala Dosa_005.jpg,pancake
+SI_KA_006,Akki Rotti,Karnataka,South India,Rice flour flatbread mixed with spices and vegetables.,vegetarian,savoury,main course,SI_KA_Akki Rotti_006.jpg,flatbread
+SI_KA_007,Kori Gassi,Karnataka,South India,Chicken curry cooked with coconut-based spices.,meat-based,savoury,main course,SI_KA_Kori Gassi_007.jpg,meat_gravy
+SI_KA_008,Udupi Sambar,Karnataka,South India,Mildly sweet lentil-based vegetable sambar.,vegetarian,sweet,main course,SI_KA_Udupi Sambar_008.jpg,veg_gravy
+SI_KA_009,Mysore Bonda,Karnataka,South India,Deep-fried snack made from batter.,vegetarian,savoury,snack,SI_KA_Mysore Bonda_009.jpg,fried_food
+SI_KA_010,Jolada Rotti,Karnataka,South India,Sorghum flour flatbread.,vegetarian,savoury,main course,SI_KA_Jolada Rotti_010.jpg,flatbread
+SI_KL_001,Puttu & Kadala Curry,Kerala,South India,Steamed rice flour cylinders served with black chickpea curry.,vegetarian,savoury,main course,SI_KL_Puttu & Kadala Curry_001.jpg,veg_gravy
+SI_KL_002,Appam with Stew,Kerala,South India,Soft rice pancakes served with coconut-based stew.,vegetarian,savoury,main course,SI_KL_Appam with Stew_002.jpg,veg_gravy
+SI_KL_003,Erissery,Kerala,South India,"Vegetable dish made with pumpkin, coconut, and spices.",vegetarian,savoury,main course,SI_KL_Erissery_003.jpg,veg_gravy
+SI_KL_004,Fish Molly Curry,Kerala,South India,Mild coconut-based fish curry.,meat-based,savoury,main course,SI_KL_Fish Molly Curry_004.jpg,meat_gravy
+SI_KL_005,Avial,Kerala,South India,Mixed vegetable stew cooked with coconut.,vegetarian,savoury,main course,SI_KL_Avial_005.jpg,semi_gravy
+SI_KL_006,Pazham Pori,Kerala,South India,Deep-fried ripe banana fritters.,vegetarian,sweet,snack,SI_KL_Pazham Pori_006.jpg,solid_sweet
+SI_KL_007,Pathiri,Kerala,South India,Thin rice-based flatbread from Malabar region.,vegetarian,savoury,main course,SI_KL_Pathiri_007.jpg,rice_based
+SI_KL_008,Idiyappam,Kerala,South India,Steamed rice noodle strands.,vegetarian,savoury,main course,SI_KL_Idiyappam_008.jpg,rice_based
+SI_KL_009,Malabar Biryani (Thalassery Biryani),Kerala,South India,Fragrant rice dish prepared with spices and meat.,meat-based,savoury,main course,SI_KL_Malabar Biryani (Thalassery Biryani)_009.jpg,rice_based
+SI_KL_010,Ada Pradhaman,Kerala,South India,Dessert made from rice ada cooked in coconut milk.,vegetarian,sweet,dessert,SI_KL_Ada Pradhaman_010.jpg,liquid_dessert
+SI_KL_011,Elai Ada,Kerala,South India,Steamed rice flour snack filled with coconut and jaggery.,vegetarian,sweet,dessert,SI_KL_Elai Ada_011.jpg,solid_sweet
+SI_KL_012,Kappa,Kerala,South India,Tapioca boiled and served with spicy fish curry or coconut chutney.,vegetarian,savoury,main course,SI_KL_Kappa_012.jpg,
+WI_GJ_001,Dhokla,Gujarat,West India,"Steamed gram flour cake that is soft and spongy, served as a savory snack and widely popular throughout Gujarat.",vegetarian,sweet,dessert,WI_GJ_Dhokla_001.jpg,solid_sweet
+WI_GJ_002,Undhiyu,Gujarat,West India,Mixed vegetable dish prepared using seasonal vegetables and slow-cooked in an inverted earthen pot method.,vegetarian,savoury,main course,WI_GJ_Undhiyu_002.jpg,semi_gravy
+WI_GJ_003,Khandvi,Gujarat,West India,"Savory rolled snack made from gram flour and yogurt, seasoned with mustard seeds and curry leaves.",vegetarian,savoury,snack,WI_GJ_Khandvi_003.jpg,steamed_food
+WI_GJ_004,Handvo,Gujarat,West India,Savory vegetable cake prepared using a fermented batter and cooked in a thick pan.,vegetarian,tangy,main course,WI_GJ_Handvo_004.jpg,steamed_food
+WI_GJ_005,Fafda Jalebi,Gujarat,West India,"Combination of crispy gram flour strips served with sweet jalebi, commonly eaten as a breakfast snack.",vegetarian,sweet,dessert,WI_GJ_FafdaJalebi_005.jpg,solid_sweet
+WI_GJ_006,Thepla,Gujarat,West India,"Flatbread made from wheat flour and spices, commonly consumed as a staple food.",vegetarian,savoury,main course,WI_GJ_Thepla_006.jpg,flatbread
+WI_GJ_007,Dabeli,Gujarat,West India,Spicy and sweet snack prepared by stuffing seasoned potato mixture inside bread rolls.,vegetarian,sweet,main course,WI_GJ_Dabeli_007.jpg,assembled_food
+WI_GJ_008,Dal Dhokli,Gujarat,West India,Dish made by cooking wheat flour pieces in spiced lentil curry.,vegetarian,savoury,main course,WI_GJ_DalDhokli_008.jpg,veg_gravy
+WI_GJ_009,Gathiya,Gujarat,West India,Deep-fried gram flour snack that is crunchy and commonly eaten as a tea-time snack.,vegetarian,savoury,snack,WI_GJ_Gathiya_009.jpg,fried_food
+WI_GJ_010,Khaman,Gujarat,West India,Soft and spongy steamed snack made from gram flour.,vegetarian,savoury,main course,WI_GJ_Khaman_010.jpg,beverage
+WI_GA_001,Goan Prawn Curry,Goa,West India,Spicy coconut-based prawn curry prepared using coconut milk and spices.,meat-based,spicy,main course,WI_GA_GoanPrawnCurry_001.jpg,meat_gravy
+WI_GA_002,Bebinca,Goa,West India,"Layered traditional Goan dessert made from coconut milk, sugar, eggs, and flour.",meat-based,sweet,dessert,WI_GA_Bebinca_002.jpg,solid_sweet
+WI_GA_003,Sorpotel,Goa,West India,"Pork dish cooked with vinegar and spices, known for its tangy flavor.",meat-based,savoury,main course,WI_GA_Sorpotel_003.jpg,meat_gravy
+WI_GA_004,Xacuti,Goa,West India,Coconut-based curry prepared with roasted spices.,vegetarian,savoury,main course,WI_GA_Xacuti_004.jpg,veg_gravy
+WI_GA_005,Fish Recheado,Goa,West India,Fish stuffed with spicy Goan masala and shallow-fried.,meat-based,spicy,main course,WI_GA_FishRecheado_005.jpg,fried_food
+WI_GA_006,Pork Vindaloo,Goa,West India,Spicy and tangy pork curry prepared using vinegar and spices.,meat-based,spicy,main course,WI_GA_PorkVindaloo_006.jpg,meat_gravy
+WI_GA_007,Feijoada,Goa,West India,"Portuguese-influenced stew made with black beans, pork, and vegetables.",meat-based,savoury,main course,WI_GA_Fejioada_007.jpg,veg_gravy
+WI_GA_008,Sannas,Goa,West India,Steamed rice cakes that are soft and slightly sweet.,vegetarian,sweet,dessert,WI_GA_Sannas_008.jpg,solid_sweet
+WI_GA_009,Samarachi Kodi,Goa,West India,Dry curry prepared with pork and spices.,meat-based,savoury,main course,WI_GA_SamarachiKodi_009.jpg,meat_gravy
+WI_GA_010,Solkadhi,Goa,West India,Drink made from coconut milk and kokum.,vegetarian,tangy,beverage,WI_GA_SolKadhi_010.jpg,beverage
+WI_MH_001,Malvani Chicken Curry,Maharashtra,West India,Coconut-based chicken curry prepared using Malvani spices.,meat-based,savoury,main course,WI_MH_MalvaniChickenCurry_001.jpg,meat_gravy
+WI_MH_002,Puran Poli,Maharashtra,West India,Sweet flatbread filled with lentils and jaggery.,vegetarian,sweet,dessert,WI_MH_PuranPoli_002.jpg,solid_sweet
+WI_MH_003,Vada Pav,Maharashtra,West India,Spicy potato fritter served inside a bread bun.,vegetarian,spicy,snack,WI_MH_VadaPav_003.jpg,fried_food
+WI_MH_004,Misal Pav,Maharashtra,West India,Spicy lentil curry served with bread.,vegetarian,spicy,main course,WI_MH_MisalPav_004.jpg,veg_gravy
+WI_MH_005,Modak,Maharashtra,West India,Sweet dumplings filled with coconut and jaggery.,vegetarian,sweet,dessert,WI_MH_Modak_005.jpg,solid_sweet
+WI_MH_006,Kesar Pista Kulfi,Maharashtra,West India,Frozen dessert flavored with saffron and pistachio.,vegetarian,sweet,dessert,WI_MH_KesarPistaKulfi_006.jpg,solid_sweet
+WI_MH_007,Patrode,Maharashtra,West India,Steamed colocasia leaf rolls prepared with spiced batter.,vegetarian,savoury,main course,WI_MH_Patrode_007.jpg,fried_food
+WI_MH_008,Sabudana Khichdi,Maharashtra,West India,Dish prepared from tapioca pearls cooked with peanuts.,vegetarian,savoury,main course,WI_MH_SabudanaKhichdi_008.jpg,mixed_bowl
+WI_MH_009,Sol Kadhi,Maharashtra,West India,Coconut milk and kokum-based drink.,vegetarian,tangy,beverage,WI_MH_SolKadhi_009.jpg,beverage
+WI_MH_010,Pandhara Rassa,Maharashtra,West India,Mild white curry prepared using mutton stock and coconut milk.,meat-based,savoury,main course,WI_MH_PandharaRassa_010.jpg,meat_gravy
+WI_RJ_001,Dal Baati Churma,Rajasthan,West India,Lentil curry served with baked wheat balls and sweet crushed wheat.,vegetarian,savoury,main course,WI_RJ_DalBaatiChurma_001.jpg,veg_gravy
+WI_RJ_002,Pyaz Kachori,Rajasthan,West India,Deep-fried pastry filled with spiced onion mixture.,vegetarian,savoury,snack,WI_RJ_PyazKachori_002.jpg,fried_food
+WI_RJ_003,Ker Sangri,Rajasthan,West India,Dish prepared from desert beans and berries cooked with spices.,vegetarian,savoury,main course,WI_RJ_KerSangri_003.jpg,dry_food
+WI_RJ_004,Laal Maas,Rajasthan,West India,Spicy red meat curry prepared using mutton and red chilies.,meat-based,spicy,main course,WI_RJ_LaalMaas_004.jpg,meat_gravy
+WI_RJ_005,Gatte ki Sabzi,Rajasthan,West India,Gram flour dumplings cooked in a spiced yogurt-based gravy.,vegetarian,savoury,main course,WI_RJ_GatteKiSabzi_005.jpg,veg_gravy
+WI_RJ_006,Mawa Kachori,Rajasthan,West India,Sweet kachori filled with sweetened milk solids.,vegetarian,sweet,dessert,WI_RJ_MawaKachori_006.jpg,solid_sweet
+WI_RJ_007,Ghewar,Rajasthan,West India,Disc-shaped sweet soaked in sugar syrup.,vegetarian,sweet,main course,WI_RJ_Ghewar_007.jpg,solid_sweet
+WI_RJ_008,Raab,Rajasthan,West India,Nourishing porridge prepared from millet or maize flour.,vegetarian,savoury,main course,WI_RJ_Raab_008.jpg,mixed_bowl
+WI_RJ_009,Mohanthal,Rajasthan,West India,"Dense sweet made from gram flour, ghee, and sugar.",vegetarian,sweet,dessert,WI_RJ_Mohanthal_009.jpg,solid_sweet
+WI_RJ_010,Panchkuta,Rajasthan,West India,Traditional curry prepared using dried desert vegetables.,vegetarian,savoury,main course,WI_RJ_Panchkuta_010.jpg,veg_gravy
+UT_CH_001,Chole Bhature,Chandigarh,Union Territories,Spiced chickpea curry served with deep-fried bread.,vegetarian,savoury,main course,UT_CH_CholeBhature_001.jpg,veg_gravy
+UT_CH_002,Makki di Roti,Chandigarh,Union Territories,Maize flatbread traditionally eaten in winter.,vegetarian,savoury,main course,UT_CH_MakkiDiRoti_002.jpg,flatbread
+UT_CH_003,Kadhi Pakora,Chandigarh,Union Territories,Yogurt-based curry with gram flour fritters.,vegetarian,savoury,snack,UT_CH_KadhiPakora_003.jpg,veg_gravy
+UT_CH_004,Butter Chicken,Chandigarh,Union Territories,Creamy tomato-based chicken curry.,meat-based,savoury,main course,UT_CH_ButterChicken_004.jpg,meat_gravy
+UT_CH_005,Amritsari Kulcha,Chandigarh,Union Territories,Stuffed leavened bread served with chole.,vegetarian,savoury,main course,UT_CH_AmristariKulcha_005.jpg,flatbread
+UT_CH_006,Dal Makhani,Chandigarh,Union Territories,"Creamy lentil dish made from black lentils and pulses, slow-cooked with butter and cream.",vegetarian,savoury,main course,UT_CH_DalMakhani_006.jpg,veg_gravy
+UT_CH_007,Paneer Tikka,Chandigarh,Union Territories,"Yogurt-marinated paneer cubes grilled with spices, commonly served as an appetizer.",vegetarian,savoury,main course,UT_CH_PaneerTikka_007.jpg,smoked_veg
+UT_CH_008,Lachha Paratha,Chandigarh,Union Territories,Multi-layered flaky flatbread cooked with ghee until crisp and golden.,vegetarian,savoury,main course,UT_CH_LachhaParatha_008.jpg,flatbread
+UT_CH_009,Rajma Chawal,Chandigarh,Union Territories,"Red kidney bean curry served with steamed rice, a North Indian comfort meal.",vegetarian,savoury,main course,UT_CH_RajmaChawal_009.jpg,veg_gravy
+UT_CH_010,Roh Di Kheer,Chandigarh,Union Territories,"Traditional rice pudding prepared with sugarcane juice, milk, and aromatic spices.",vegetarian,sweet,dessert,UT_CH_RohDiKheer_010.jpg,liquid_dessert
+UT_PY_001,Masala Dosa,Puducherry,Union Territories,Crispy fermented crepe with spiced potato filling.,vegetarian,spicy,main course,UT_PY_MasalaDosa_001.jpg,pancake
+UT_PY_002,Fish Curry,Puducherry,Union Territories,Coconut-based coastal fish curry.,meat-based,savoury,main course,UT_PY_FishCurry_002.jpg,meat_gravy
+UT_PY_003,Prawn Balchao,Puducherry,Union Territories,Tangy and spicy prawn pickle.,meat-based,tangy,main course,UT_PY_PrawnBalchao_003.jpg,meat_gravy
+UT_PY_004,Bebinca,Puducherry,Union Territories,Layered coconut milk dessert.,vegetarian,sweet,dessert,UT_PY_Bebinca_004.jpg,solid_sweet
+UT_PY_005,Chicken Xacuti,Puducherry,Union Territories,Spicy coconut-based chicken curry.,meat-based,spicy,main course,UT_PY_ChickenXacuti_005.jpg,meat_gravy
+UT_PY_006,Mutton Rolls,Puducherry,Union Territories,Stuffed fried rolls with spiced mutton.,meat-based,savoury,main course,UT_PY_MuttonRolls_006.jpg,meat_gravy
+UT_PY_007,Sambar,Puducherry,Union Territories,Lentil and vegetable stew.,vegetarian,savoury,main course,UT_PY_Sambar_007.jpg,veg_gravy
+UT_PY_008,Baguette and Croissants,Puducherry,Union Territories,French-style breads reflecting Puducherry's colonial heritage.,vegetarian,savoury,main course,UT_PY_BaguetteandCroissants_008.jpg,
+UT_PY_009,Khow Suey,Puducherry,Union Territories,Burmese-style noodle dish served with coconut-based curry and toppings.,vegetarian,savoury,main course,UT_PY_KhowSuey_009.jpg,veg_gravy
+UT_PY_010,Mutton Samosa,Puducherry,Union Territories,"Savory pastry stuffed with spiced minced mutton, popular as a snack.",meat-based,savoury,snack,UT_PY_MuttonSamosa_010.jpg,fried_food
+UT_LK_001,Tuna Curry,Lakshadweep,Union Territories,Coconut-based tuna curry.,vegetarian,savoury,main course,UT_LK_TunaCurry_001.jpg,meat_gravy
+UT_LK_002,Mas Riha,Lakshadweep,Union Territories,Fish curry with coconut milk and spices.,meat-based,savoury,main course,UT_LK_MasRiha_002.jpg,meat_gravy
+UT_LK_003,Coconut Rice,Lakshadweep,Union Territories,Rice cooked with grated coconut.,vegetarian,savoury,main course,UT_LK_CoconutRice_003.jpg,rice_based
+UT_LK_004,Kallummakkaya Fry,Lakshadweep,Union Territories,Spiced mussel fry.,vegetarian,savoury,main course,UT_LK_KallummakkayaFry_004.jpg,fried_food
+UT_LK_005,Chammanthi Podi,Lakshadweep,Union Territories,Dry coconut chutney powder.,vegetarian,tangy,main course,UT_LK_ChammanthiPodi_005.jpg,chutney
+UT_LK_006,Kinnathappam,Lakshadweep,Union Territories,Steamed rice cake.,vegetarian,sweet,dessert,UT_LK_Kinnathappam_006.jpg,solid_sweet
+UT_LK_007,Fish Curry,Lakshadweep,Union Territories,Spicy coconut-based fish curry.,meat-based,spicy,main course,UT_LK_FishCurry_007.jpg,meat_gravy
+UT_LK_008,Mussal Pickle,Lakshadweep,Union Territories,Spicy mussel pickle.,vegetarian,tangy,main course,UT_LK_MussalPickle_008.jpg,pickle
+UT_LK_009,Kadala Curry,Lakshadweep,Union Territories,Black chickpea curry.,vegetarian,savoury,main course,UT_LK_KadalaCurry_009.jpg,veg_gravy
+UT_LK_010,Masroshi,Lakshadweep,Union Territories,Coconut-rich snack.,vegetarian,savoury,snack,UT_LK_Masroshi_010.jpg,fried_food
+UT_AN_001,Fish Curry,Andaman & Nicobar,Union Territories,Traditional island-style fish curry.,meat-based,savoury,main course,UT_AN_FishCurry_001.jpg,meat_gravy
+UT_AN_002,Coconut Crab Curry,Andaman & Nicobar,Union Territories,Crab cooked in coconut milk.,meat-based,savoury,main course,UT_AN_CoconutandCurry_002.jpg,meat_gravy
+UT_AN_003,Pulihora,Andaman & Nicobar,Union Territories,Tamarind-flavored rice dish.,vegetarian,tangy,main course,UT_AN_Pulihora_003.jpg,rice_based
+UT_AN_004,Coconut Ladoo,Andaman & Nicobar,Union Territories,Sweet coconut balls.,vegetarian,sweet,dessert,UT_AN_CoconutLadoo_004.jpg,solid_sweet
+UT_AN_005,Tuna Pollichathu,Andaman & Nicobar,Union Territories,Banana-leaf wrapped grilled tuna.,meat-based,savoury,main course,UT_AN_TunaPollichathu_005.jpg,smoked_meat
+UT_AN_006,Grilled Lobster,Andaman & Nicobar,Union Territories,Grilled fresh lobster.,meat-based,savoury,main course,UT_AN_GrilledLobster_006.jpg,smoked_meat
+UT_AN_007,Squid Fry,Andaman & Nicobar,Union Territories,Spiced fried squid.,meat-based,savoury,main course,UT_AN_SquidFry_007.jpg,fried_food
+UT_AN_008,Tandoori Fish,Andaman & Nicobar,Union Territories,Grilled yogurt-marinated fish.,meat-based,savoury,main course,UT_AN_TandooriFish_008.jpg,smoked_meat
+UT_AN_009,Macher Jhol,Andaman & Nicobar,Union Territories,Bengali-style fish curry.,meat-based,savoury,main course,UT_AN_MacherJhol_009.jpg,meat_gravy
+UT_AN_010,Andaman Biryani,Andaman & Nicobar,Union Territories,Island-style biryani with seafood or meat.,meat-based,savoury,main course,UT_AN_AndamanBiryani_010.jpg,rice_based
+UT_LD_001,Thukpa,Ladakh,Union Territories,"Himalayan noodle soup adapted locally, prepared with wheat or barley noodles and vegetables or meat.",meat-based,savoury,main course,UT_LD_Thukpa_001.jpg,noodles
+UT_LD_002,Skyu,Ladakh,Union Territories,Pasta-like dumplings cooked in a soupy vegetable-based broth.,vegetarian,savoury,main course,UT_LD_Skyu_002.jpg,soup
+UT_LD_003,Momos,Ladakh,Union Territories,Steamed or fried dumplings filled with vegetables or meat.,meat-based,savoury,main course,UT_LD_Momos_003.jpg,steamed_food
+UT_LD_004,Chang,Ladakh,Union Territories,Traditional barley or rice beer consumed during festivals and gatherings.,vegetarian,savoury,beverage,UT_LD_Chang_004.jpg,beverage
+UT_LD_005,Butter Tea,Ladakh,Union Territories,"Salty tea made from brewed tea leaves, yak butter, and milk, suited for cold climates.",vegetarian,salty,beverage,UT_LD_ButterTea_005.jpg,beverage
+UT_LD_006,Chhurpi,Ladakh,Union Territories,"Firm yak cheese consumed as food, candy, or added to soups.",vegetarian,savoury,snack,UT_LD_Chhurpi_006.jpg,ingredient
+UT_LD_007,Tigmo,Ladakh,Union Territories,"Steamed bread traditionally served with meat, vegetable, or lentil stews.",meat-based,savoury,main course,UT_LD_Tigmo_007.jpg,flatbread
+UT_LD_008,Khambir,Ladakh,Union Territories,"Whole wheat bread with a thick crust and chewy interior, made from fermented dough.",vegetarian,savoury,main course,UT_LD_Khambir_008.jpg,flatbread
+UT_LD_009,Phirni,Ladakh,Union Territories,Ground rice pudding cooked in milk and traditionally served in clay bowls.,vegetarian,sweet,dessert,UT_LD_Phirni_009.jpg,liquid_dessert
+UT_LD_010,Pulao,Ladakh,Union Territories,Aromatic rice dish prepared with subtle spices and local ingredients.,vegetarian,savoury,main course,UT_LD_Pulao_010.jpg,rice_based
+UT_DD_001,Dabeli,Daman & Diu,Union Territories,"Spiced potato sandwich stuffed in a soft bun, garnished with peanuts and pomegranate.",vegetarian,savoury,main course,UT_DD_Dabeli_001.jpg,assembled_food
+UT_DD_002,Patra,Daman & Diu,Union Territories,Steamed colocasia leaf rolls made from spiced gram flour batter.,vegetarian,savoury,main course,UT_DD_Patra_002.jpg,beverage
+UT_DD_003,Farcha,Daman & Diu,Union Territories,"Portuguese-style fried chicken, commonly served as a starter.",meat-based,savoury,main course,UT_DD_Farcha_003.jpg,fried_food
+UT_DD_004,Bebinca,Daman & Diu,Union Territories,"Layered dessert made with eggs and coconut milk, baked layer by layer.",meat-based,sweet,dessert,UT_DD_Bebinca_004.jpg,solid_sweet
+UT_DD_005,Sorpotel,Daman & Diu,Union Territories,"Pork curry cooked with vinegar and spices, influenced by Portuguese cuisine.",meat-based,savoury,main course,UT_DD_Sorpotel_005.jpg,meat_gravy
+UT_DD_006,Chicken Bullet,Daman & Diu,Union Territories,Spicy fried chicken preparation similar to local fried snacks.,meat-based,spicy,main course,UT_DD_ChickenBullet_006.jpg,fried_food
+UT_DD_007,Papri,Daman & Diu,Union Territories,Crispy fried flour discs used as a base for chaat-style snacks.,vegetarian,savoury,main course,UT_DD_Papri_007.jpg,fried_food
+UT_DD_008,Cozido,Daman & Diu,Union Territories,"Rich stew made with beef and pork, reflecting Portuguese culinary influence.",meat-based,savoury,main course,UT_DD_Cozido_008.jpg,meat_gravy
+UT_DD_009,Portuguese Grilled Chicken,Daman & Diu,Union Territories,Grilled chicken marinated in Portuguese-style spices and sauces.,meat-based,savoury,main course,UT_DD_PortugueseGrilledCl_009.jpg,smoked_meat
+UT_DD_010,Roti,Daman & Diu,Union Territories,Basic Indian flatbread served as a staple accompaniment.,vegetarian,savoury,main course,UT_DD_Roti_010.jpg,flatbread
